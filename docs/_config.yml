@@ -1,2 +1,5 @@
+name: Pingma
+baseurl: "pingma.co"
+
 markdown: kramdown
 theme: jekyll-theme-cayman
