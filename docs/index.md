@@ -11,7 +11,7 @@ This is a page where my projects reside.
 
 # English Premier League Table Simulation
 
-![Football](./images/xls-football.png)
+![Football](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-football.PNG)
 
 Features
 * 2017/18 Season
@@ -21,7 +21,7 @@ Features
 
 # Fantasy Motorsports League Simulation (World Series Racing)
 
-![WSR](./images/xls-WSR.png)
+![WSR](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-WSR.PNG)
 
 Features
 * Fantasy scoring system
@@ -30,7 +30,7 @@ Features
 
 # World of Tanks Matchmaking Simulation 
 
-![Tanks](./images/xls-tank.png)
+![Tanks](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-tank.PNG)
 
 Features
 * Modern Matchmaking rules, mirrored vehicle class lineups
@@ -65,9 +65,9 @@ Features
 # Pack-Opening Simulator
 Simple card-collection program with F1 driver cards
 
-![Hover Text](./images/py-f1.png)
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-f1.PNG)
 
-![Hover Text](./images/py-f1-2.png)
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-f1-2.PNG)
 
 Features
 * Rarity & Special cards
@@ -77,7 +77,7 @@ Features
 # Europe Top-Flight Football Simulation
 Another football table simulator, this time in Python.
 
-![Hover Text](./images/py-football.png)
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-football.PNG)
 
 Features
 * Three leagues, Bundeslia, La Liga and English Premier League
