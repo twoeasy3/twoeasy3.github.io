@@ -1,0 +1,30 @@
+cardname|colour|cost|copies|cardimage|special_text|
+Watchtower|Red|1|3|card_watchtower.png|None|
+Prison|Red|2|3|card_prison.png|None|
+Battlefield|Red|3|3|card_battlefield.png|None|
+Fortress|Red|4|2|card_fortress.png|None|
+Manor|Yellow|3|5|card_manor.png|None|
+Castle|Yellow|4|4|card_castle.png|None|
+Palace|Yellow|5|3|card_palace.png|None|
+Tavern|Green|1|5|card_tavern.png|None|
+Market|Green|2|4|card_market.png|None|
+Trading Post|Green|2|3|card_tradingPost.png|None|
+Docks|Green|3|3|card_docks.png|None|
+Harbour|Green|4|3|card_harbour.png|None|
+Town Hall|Green|5|2|card_townHall.png|None|
+Temple|Blue|1|3|card_temple.png|None|
+Church|Blue|2|3|card_church.png|None|
+Monastery|Blue|3|3|card_monastery.png|None|
+Cathedral|Blue|5|2|card_cathedral.png|None|
+Haunted City|Purple|2|1|card_hauntedCity.png|For the purposes of victory points, the Haunted City is conisdered to be of the color of your choice.  You cannot use this ability if you built it during the last round of the game.|
+Keep|Purple|3|2|card_keep.png|The Keep cannot be destroyed by the Warlord.|
+Laboratory|Purple|5|1|card_laboratory.png|Once during your turn, you may discard a district card from your hand and receive one gold from the bank.|
+Smithy|Purple|5|1|card_smithy.png|Once during your turn, you may pay two gold to draw 3 district cards.|
+Observatory|Purple|5|1|card_observatory.png|If you choose to draw cards when you take an action, you draw 3 cards, keep one of your choice, and put the other 2 on the bottom of the deck.|
+Graveyard|Purple|5|1|card_graveyard.png|When the Warlord destroys a district, you may pay one gold to take the destroyed district into your hand.  You may not do this if you are the Warlord.|
+Dragon Gate|Purple|6|1|card_dragonGate.png|This district costs 6 gold to build, but is worth 8 points at the end of the game.|
+University|Purple|6|1|card_university.png|This district costs 6 gold to build, but is worth 8 points at the end of the game.|
+Library|Purple|6|1|card_library.png|If you choose to draw cards you you take an action, you keep both of the cards you have drawn.|
+Great Wall|Purple|6|1|card_greatWall.png|The cost for the Warlord to destroy any of your other districts is increased by one gold.|
+School Of Magic|Purple|6|1|card_schoolOfMagic.png|For the purposes of income, the School Of Magic is considered to be the color of your choice.|
+###END OF LIST###

@@ -1,0 +1,61 @@
+#Bundesliga
+Bayern Munchen;Bayern;3481;bayern.png
+RB Leipzig;Leipzig;3241;leipzig.png
+SC Freiburg;Freiburg;2490;freiburg.png
+FC Schalke 04;Schalke;2799;schalke.png
+Monchengladbach;M'gladbach;2843;mgladbach.png
+Bayer Leverkusen;Bayer;2998;bayer.png
+VfL Wolfsburg;Wolfsburg;2845;wolfsburg.png
+Borussia Dortmund;Dortmund;3390;dortmund.png
+Eintracht Frankfurt;Frankfurt;3007;frankfurt.png
+Hertha Berlin;Hertha;2553;hertha.png
+Werder Bremen;Werder;2854;werder.png
+TSG Hoffenheim;Hoffenheim;2777;hoffenheim.png
+FC Augsburg;Augsburg;2295;augsburg.png
+Fortuna Dusseldorf;Fortuna;2220;fortuna.png
+Union Berlin;Union Berlin;2060;union.png
+FC Mainz 05;Mainz;2374;mainz.png
+1. FC Koln;FC Koln;2153;koln.png
+SC Paderborn 07;Paderborn;1929;paderborn.png
+#EPL
+Liverpool;Liverpool;4174;liverpool.png
+Manchester City;Man City;4223;mancity.png
+Leicester City;Leicester;2931;leicester.png
+Arsenal;Arsenal;3510;arsenal.png
+West Ham United;West Ham;2757;westham.png
+Tottenham Hotspur;Tottenham;3469;tottenham.png
+Chelsea;Chelsea;3581;chelsea.png
+Bournemouth;Bournemouth;2533;bournemouth.png
+Crystal Palace;Palace;2732;palace.png
+Manchester United;Man Utd;3428;manutd.png
+Burnley FC;Burnley;2535;burnley.png
+Sheffield United;Sheff Utd;2281;sheffutd.png
+Wolverhampton;Wolves;2768;wolves.png
+Southampton;Southampton;2589;southampton.png
+Everton;Everton;2783;everton.png
+Brighton & Hove;Brighton;2348;brighton.png
+Norwich City;Norwich;2349;norwich.png
+Aston Villa;Aston Villa;2298;villa.png
+Newcastle United;Newcastle;2498;newcastle.png
+Watford;Watford;2489;watford.png
+#LaLiga
+Real Madrid;Real Madrid;3701;rmadrid.png
+Granada CF;Granada;2299;granada.png
+Atletico Madrid;Atl. Madrid;3720;amadrid.png
+FC Barcelona;Barcelona;4181;barcelona.png
+Real Sociedad;Sociedad;2873;sociedad.png
+Sevilla FC;Sevilla;3170;sevilla.png
+Athletic Bilbao;Bilbao;2914;bilbao.png
+Villarreal CF;Villarreal;2912;villarreal.png
+Valencia CF;Valencia;3313;valencia.png
+Real Valladolid;Valladolid;2313;valladolid.png
+SD Eibar;Eibar;2608;eibar.png
+Levante UD;Levante;2517;levante.png
+CA Osasuna;Osasuna;2338;osasuna.png
+Deportivo Alaves;Alaves;2584;alaves.png
+Real Betis;Real Betis;2646;rbetis.png
+Getafe CF;Getafe;2841;getafe.png
+Celta Vigo;Celta Vigo;2564;cvigo.png
+RCD Espanyol;Espanyol;2746;espanyol.png
+RCD Mallorca;Mallorca;1929;mallorca.png
+CD Leganes;Leganes;2326;leganes.png

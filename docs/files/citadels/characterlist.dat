@@ -1,0 +1,49 @@
+rank|name|text|cardimage
+1|Assassin|Call a character you wish to kill. The killed character skips their turn.|character_Assassin.png
+2|Thief|Call a character you wish to rob. When a robbed character is revealed, you take all their gold.|character_Thief.png
+3|Magician|Either exchange hands of cards with another player or discard any number of cards to gain an equal number of cards.|character_Magician.png
+4|King|Take the crown. Gain 1 gold for each of your Noble districts.|character_King.png
+5|Bishop|The rank 8 character cannot use their ability on your districts. Gain 1 gold for each of your Religious districts.|character_Bishop.png
+6|Merchant|Gain 1 extra gold. Gain 1 gold for each of your Trade districts.|character_Merchant.png
+7|Architect|Gain 2 extra cards. You can build up to 3 districts.|character_Architect.png
+8|Warlord|Destroy 1 district by paying 1 fewer gold than its cost. Gain 1 gold for each of your Military districts.|character_Warlord.png
+
+
+
+
+
+1|Witch|Gather resources, call a character you wish to bewtich, then put your turn on hold. After the bewitched character gathers resources, you resume your turn as that character.
+1|Magistrate|Assign warrants facedown to character tokens. Reveal the signed warrant to confiscate the first district that player builds. The player gets back all gold paid to build that district.
+2|Spy|Name a district type and look at another player's hand. For each card of that type, take 1 of their gold and gain 1 card.
+2|Blackmailer|Assign threats facedown to character tokens. A threatened player can bribe you (half their gold rounded down) to remove their threat. If you reveal the flower, you take all their gold.
+3|Wizard|Look at another player's hand and choose 1 card. Either pay to build it immediately or add it to your hand. You can build identical districts.
+3|Seer|Randomly take 1 card from each player's hand and add it to yours. Then give each player you took a card from 1 card from your hand.
+4|Emperor|Give the crown to a different player and take either 1 of his gold or 1 of his cards.
+4|Patrician|Take the crown. Gain 1 card for each of your Noble districts.
+5|Abbot|The richest player gives you 1 gold. Gain either 1 gold or 1 card for each of your Religious districts.
+5|Cardinal|If you are short of gold to build a district, exchange your cards for another player's gold. (1 card:1 gold). Gain 1 card for each of your Religious districts.
+6|Alchemist|At the end of your turn, you get back all the gold you paid to build districts this turn. You cannot pay more gold than you have.
+6|Trader|You can build any number of Trade districts. Gain 1 gold for each of your Trade districts.
+7|Navigator|Gain either 4 extra gold or 4 extra cards. You cannot build any districts.
+7|Scholar|Draw 7 cards, choose 1 to keep, then shuffle the rest into the deck. You can build up to 2 districts.
+8|Diplomat|Exchange 1 of your districts for another player's district, giving them gold equal to the difference in their costs. Gain 1 gold for each of your military districts.
+8|Marshal|Seize 1 district with a cost of 3 or less from another player's city, giving that player gold equal to its cost. Gain 1 gold for each of your Military districts.
+9|Queen|If you are sitting next to the player who revealed the rank 4 character, gain 3 gold.
+9|Artist|Beautify up to 2 of your districts by assigning each of them 1 of your gold. A district can only be beautified once.
+9|Tax Collector|After each player build, they place 1 of their gold on the Tax Collector's character token. Take all gold from your character token.
+
+1|Mimic|Gather resources, then end your turn. At the end of this round, choose 1 character not in play and start an extra turn.
+2|Gambler|Name a player and a character (other than rank 1). Gain 3 gold if that player reveals that character, but lose 2 gold if they do not.
+3|Mage|Choose anticlockwise or clockwise. Everyone passes their hand to the next player in that direction.
+4|Prince|Take the crown. Each player without a Noble district pays you 1 gold.
+5|Spirit|Gain 1 gold for each time you have been or will be targeted this turn. Gain 1 gold for each of your Noble districts.
+6|Haggler|If you are not currently leading in victory points, gain 2 gold. Gain 1 gold for each of your Trade districts.
+7|Inventor|You may choose to obtain a random special district from outside the game instead of gathering resources.
+8|Warrior|Destroy 1 district by paying 1 fewer gold for each Military district you own. You may only target the player with the most buildings.
+9|Jester|Gain 1 gold for each of the conditions that you fulfil or tie: Lowest victory points; Least cards in hand; Fewest districts built; Least gold
+1|Hitman|Discard any number of cards. Call that many characters. They skip this turn.
+2|Extortionist|Choose a player. That player may give you a district card of a type you have not built. Otherwise, take all their gold. You may not use this ability if you have all district types built.
+3|Mind Thief|Choose a player. You may build a district from their hand this turn.
+4|President|When this character is revealed, each player votes for time or money. If money wins or the vote is tied, take the crown and each player gains 2 gold. If time wins, the player to your left takes the crown.
+
+

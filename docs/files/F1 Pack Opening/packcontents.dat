@@ -1,0 +1,63 @@
+Only lines with | in front will be loaded
+Format: NAME,RATING,TEAM,NATIONALITY,RARITY,WEIGHT
+HERO CARDS
+|hero_button|BUTTON|99|MCLAREN|BRITIAN|HERO|1|herobutton.png
+|hero_raikkonen|RAIKKONEN|98|MCLAREN|FINLAND|HERO|1|heroraikkonen.png
+|hero_vettel|VETTEL|97|TORO ROSSO|GERMANY|HERO|1|herovettel.png
+|hero_ricciardo|RICCIARDO|96|RED BULL|AUSTRALIA|HERO|1|heroricciardo.png
+|hero_maldonado|MALDONAO|91|WILLIAMS|VENEZUELA|HERO|1|heromaldonado.png
+LEGENDS
+|schumacher_legend|SCHUMACHER|95|LEGEND|GERMANY|LEGEND|1|schumacher.png
+|berger_legend|BERGER|89|LEGEND|AUSTRIA|LEGEND|1|legend.png
+|button_legend|BUTTON|91|LEGEND|BRITIAN|LEGEND|1|button.png
+FLASHBACKS
+|flashback_rosberg|ROSBERG|90|MERCEDES|GERMANY|FLASHBACK|1|flashbackrosberg.png
+|flashback_button|BUTTON|87|MCLAREN|BRITIAN|FLASHBACK|1|flashbackbutton.png
+|flashback_massa|MASSA|85|WILLIAMS|BRAZIL|FLASHBACK|1|flashbackmassa.png
+|flashback_gutierrez|GUTIERREZ|83|HAAS|MEXICO|FLASHBACK|1|flashbackgutierrez.png
+|flashback_palmer|PALMER|81|RENAULT|BRITIAN|FLASHBACK|1|flashbackpalmer.png
+|flashback_haryanto|HARYANTO|79|MANOR|INDONESIA|FLASHBACK|1|flashbackharyanto.png
+FORMULA ONE
+|vettel_base|VETTEL|93|FERRARI|GERMANY|RARE|1|vettel.png
+|hamilton_base|HAMILTON|92|MERCEDES|BRITIAN|RARE|1|hamilton.png
+|ricciardo_base|RICCIARDO|89|RED BULL|AUSTRALIA|RARE|1|ricciardo.png
+|verstappen_base|VERSTAPPEN|88|RED BULL|NETHERLANDS|RARE|1|verstappen.png
+|alonso_base|ALONSO|88|MCLAREN|SPAIN|RARE|1|alonso.png
+|raikkonen_base|RAIKKONEN|87|FERRARI|FINLAND|RARE|1|raikkonen.png
+|bottas_base|BOTTAS|86|MERCEDES|FINLAND|RARE|1|bottas.png
+|perez_base|PEREZ|85|FORCE INDIA|MEXICO|RARE|1|perez.png
+|magnussen_base|MAGNUSSEN|85|HAAS|DENMARK|RARE|1|magnussen.png
+|grosjean_base|GROSJEAN|85|HAAS|FRENCH|RARE|1|grosjean.png
+|sainz_base|SAINZ|84|RENAULT|SPAIN|RARE|1|sainz.png
+|hulkenberg_base|HULKENBERG|84|RENAULT|GERMANY|RARE|1|hulkenberg.png
+|vandoorne_base|VANDOORNE|83|MCLAREN|BELGIUM|RARE|1|vandoorne.png
+|ocon_base|OCON|83|FORCE INDIA|FRANCE|RARE|1|ocon.png
+|stroll_base|STROLL|82|WILLIAMS|CANADA|COMMON|1|stroll.png
+|gasly_base|GASLY|82|TORO ROSSO|FRANCE|COMMON|1|gasly.png
+|ericsson_base|ERICSSON|81|SAUBER|SWEDEN|COMMON|1|ericsson.png
+|sirtokin_base|SIROTKIN|79|WILLIAMS|RUSSIA|COMMON|1|sirotkin.png
+|leclerc_base|LECLERC|80|SAUBER|MONACO|COMMON|1|leclerc.png
+|hartley_base|HARTLEY|80|TORO ROSSO|NEW ZEALAND|COMMON|1|hartley.png
+FORMULA E
+|digrassi_base|DI GRASSI|86|ABT|BRAZIL|RARE|1|digrassi.png
+|buemi_base|BUEMI|85|e.DAMS|SWITZERLAND|RARE|1|buemi.png
+|prost_base|PROST|84|e.DAMS|FRENCH|RARE|1|prost.png
+FREE AGENTS
+|wehrlein_base|WEHRLEIN|82|FREE AGENT|GERMANY|COMMON|1|wehrlein.png
+End of file
+
+
+|MASSA|86|LEGEND|BRAZIL|LEGEND|1
+|KVYAT|82|FERRARI|RUSSIA|COMMON|1
+|GIOVINAZZI|76|FERRARI|ITALIAN|COMMON|1
+
+
+|VERGNE|86|TECEETAH|FRENCH|RARE|1
+|BIRD|84|VIRGIN|BRITIAN|RARE|1
+
+|D'AMBROSIO|83|DRAGON|BELGIUM|RARE|1
+|ABT|82|ABT|GERMANY|RARE|1
+|DA COSTA|80|ANDRETTI|PORTUGAL|RARE|1
+FREE AGENTS
+|MALDONALDO|76|FREE AGENT|VENEZUELA|COMMON|1 
+
