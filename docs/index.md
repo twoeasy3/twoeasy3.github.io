@@ -13,7 +13,7 @@ This is a page where my projects reside.
 
 ![Football](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-football.PNG)
 
-[Download](www.pingma.co)
+[Download]((https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/footy.xlsm)
 
 # Features
 * 2017/18 Season
@@ -25,7 +25,7 @@ This is a page where my projects reside.
 
 ![WSR](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-WSR.PNG)
 
-[Download]()
+[Download](https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/WSR.xlsm)
 
 # Features
 * Fantasy scoring system
@@ -52,7 +52,7 @@ Single-Player game where you hold the hot potato for 1-9 seconds and earn that m
 
 Keeping the potato for longer nets more points, but be careful not to hold it while it explodes.
 
-[Download](www.pingma.co)
+[Fix Link](www.pingma.co)
 
 # Features
 * Inspired by "Gormball" on Neopets
@@ -62,6 +62,8 @@ Keeping the potato for longer nets more points, but be careful not to hold it wh
 Two-player chess game with tkinter for graphics
 
 ![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-chess.PNG)
+
+[View Repository](https://github.com/twoeasy3/twoeasy3.github.io/tree/pages/docs/files/chess)
 
 # Features
 * Basic movement, capturing, checks and castling
@@ -77,7 +79,7 @@ Simple card-collection program with F1 driver cards
 
 ![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-f1-2.PNG)
 
-[Download](www.pingma.co)
+[View Repository](https://github.com/twoeasy3/twoeasy3.github.io/tree/pages/docs/files/F1%20Pack%20Opening)
 
 # Features
 * Rarity & Special cards
@@ -89,7 +91,7 @@ Another football table simulator, this time in Python.
 
 ![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-football.PNG)
 
-[Download](www.pingma.co)
+[View Repository](https://github.com/twoeasy3/twoeasy3.github.io/tree/pages/docs/files/bundesliga)
 
 # Features
 * Three leagues, Bundeslia, La Liga and English Premier League
