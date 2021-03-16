@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: "page"
 title: yuxiang
 ---
 # hello
@@ -13,12 +13,14 @@ This is a page where my projects reside.
 
 ![Football](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-football.PNG)
 
-[Download]((https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/footy.xlsm)
+[Download](https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/footy.xlsm)
+
+A marco-enabled Excel file that simulates matches and tracks results with a league table.
 
 # Features
 * 2017/18 Season
 * League Table & Scorelines
-* Last 5 Form
+* Last-5 Form
 * Weighted Team Performances
 
 ## Fantasy Motorsports League Simulation (World Series Racing)
@@ -27,21 +29,29 @@ This is a page where my projects reside.
 
 [Download](https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/WSR.xlsm)
 
+In a fantasy 2-tier World Series Racing motorsport league, teams field 1 car each attempt to get maximum points each race.  
+The best teams in the WSR fight for glory to be crowned champion, while the less competitive teams fight for scraps to avoid relegation, and follow the teams in the WSR 2 and follow the story of the teams as they compete for a spot in the top flight.  
+The bottom 3 in the WSR and the top 3 in the WSR 2 are automatically relegated/promoted, and the next 4 places will face off in a playoff race to determine who is in the top flight next season.  
+
 # Features
-* Fantasy scoring system
+* League Table
+* F1-style scoring system extended to 26 teams
 * Relegation/Promotion (Tier 1 & Tier 2)
 * Highlight a Team
 
-## World of Tanks Matchmaking Simulation 
+## World of Tanks Random Battle Matchmaking Simulation 
 
 ![Tanks](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/xls-tank.PNG)
 
 [Download](https://github.com/twoeasy3/twoeasy3.github.io/raw/pages/docs/files/Matchmaker.xlsm)
 
+File that creates one-level battles amongst Tier X tanks only. The battle starts in World of Tanks when the 30-second countdown timer starts, and predicting how your team will do against the enemy lineup, on the map and gamemode is half the battle won. This excel sheet recreates that 30-seconds without having to play the game.
+
 # Features
 * Modern Matchmaking rules, mirrored vehicle class lineups
-* Battle Tier 12, All Tier 10 Vehicles
-* Pre-Update 1.0 Map Pool
+* Full pre-1.0 update map pool, complete with minimaps
+* All Tier X tanks up to pre-1.0, weighted to simulate rarity of certain vehicles in Random queues
+
 
 ---
 
@@ -51,6 +61,8 @@ This is a page where my projects reside.
 Single-Player game where you hold the hot potato for 1-9 seconds and earn that many points!
 
 Keeping the potato for longer nets more points, but be careful not to hold it while it explodes.
+
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-hotpotato.PNG)
 
 [Fix Link](www.pingma.co)
 
@@ -145,7 +157,14 @@ Bot that lets users pick between 2 or 4 subjects, based on a criteria, and ranks
 ## Others
 
 ## Re-Volt Car Mods
+
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/Revolt.png)
+[Download](https://github.com/twoeasy3/twoeasy3.github.io/tree/pages/docs/files/Re-Volt%20Cars)
+
+
 Car models made in Blender, textured and given parameters to work in Re-Volt (RVGL Community Version required, not compatible with base game)
+
+Unzip the folders and drop them into the /cars folder in your RVGL Directory
 
 ## Forza Wiki Image Scraper/ Card Image Creation
 Code that scraped Forza wiki for car images, and other set of code that created images based on car statistics.

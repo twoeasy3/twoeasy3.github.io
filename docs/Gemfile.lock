@@ -179,6 +179,7 @@ GEM
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-prologue (0.3.3)
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -263,6 +264,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 212)
   jekyll-feed (~> 0.12)
+  jekyll-theme-prologue
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
