@@ -64,11 +64,7 @@ Keeping the potato for longer nets more points, but be careful not to hold it wh
 
 ![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-hotpotato.PNG)
 
-<<<<<<< HEAD
 [View Code](https://github.com/twoeasy3/twoeasy3.github.io/blob/pages/docs/files/hotPotato/hotpotato.py)
-=======
-[Fix Link](www.pingma.co)
->>>>>>> 0421e7e38afbf81cd2ea2c4073754020fd0b8be0
 
 # Features
 * Inspired by "Gormball" on Neopets
@@ -119,15 +115,10 @@ A telegram bot that seeks to re-create the scoring system used in the Bowls at t
 
 Used during a school event at Jurong Pioneer Junior College to introduce the World Scholar's Cup to prospective students for the next season.
 
-<<<<<<< HEAD
+
 _Created for a one-off event, bot has been taken down. Telegram bot token in the code has been revoked._
 
 [View Code](https://github.com/twoeasy3/twoeasy3.github.io/blob/pages/docs/files/WSC%20Bowl%20Bot/bowl_bot.py)
-=======
-_Created for a one-off event, bot has been taken down._
-
-[Code](www.pingma.co)
->>>>>>> 0421e7e38afbf81cd2ea2c4073754020fd0b8be0
 
 # Features
 * 3 Different Scoring Systems, Basic, Percentage and Lightning
@@ -142,11 +133,7 @@ _Created for a one-off event, bot has been taken down._
 ## Citadels Multiplayer
 Clients that connect to each other to play Bruno Faidutti's Citadels (Classic). UI in Tkinter.
 
-<<<<<<< HEAD
 [Fix Link](www.pingma.co)
-=======
-[Download](www.pingma.co)
->>>>>>> 0421e7e38afbf81cd2ea2c4073754020fd0b8be0
 
 # Features
 * Rules of Citadels coded, all 8 characters have their abilities
@@ -180,14 +167,12 @@ Car models made in Blender, textured and given parameters to work in Re-Volt (RV
 
 Unzip the folders and drop them into the /cars folder in your RVGL Directory
 
-<<<<<<< HEAD
+
 ## Forza Wiki Image Scraper/ Blueprint Card Image Creation
 
-![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/forza.PNG)
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-forza.PNG)
 
-=======
-## Forza Wiki Image Scraper/ Card Image Creation
->>>>>>> 0421e7e38afbf81cd2ea2c4073754020fd0b8be0
+
 Code that scraped Forza wiki for car images, and other set of code that created images based on car statistics.
 
 
