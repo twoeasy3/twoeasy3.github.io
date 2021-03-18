@@ -143,9 +143,13 @@ Clients that connect to each other to play Bruno Faidutti's Citadels (Classic). 
 * Hover over a card to zoom-in
 
 ## Telegram Voting Bot
-Bot that lets users pick between 2 or 4 subjects, based on a criteria, and ranks them based on collective opinion.
+Bot that lets users pick between 2 or 4 subjects, based on a criteria, and ranks them based on collective opinion. Currently set up for voting between football players.
 
-[Code](www.pingma.co)
+![Hover Text](https://raw.githubusercontent.com/twoeasy3/twoeasy3.github.io/pages/docs/images/py-telegram-bot.png)
+[View Code](https://github.com/twoeasy3/twoeasy3.github.io/tree/pages/docs/files/Football%20Voting)
+
+Python scripts used to obtain the highest rated 2 pages of footballers in the FIFA 21, and to obtain their image via wikipedia. Pictures that are of low resolution have been manually replaced.
+Try out the bot (if it's up and running) on Telegram [@footballvote1_bot](https://t.me/footballvote1_bot)
 
 # Features
 * Ranking system, each subject is assigned a score, and loses or gains score based on the results of each matchup.

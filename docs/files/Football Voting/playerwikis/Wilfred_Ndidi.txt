@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wilfred Ndidi - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YFGaPc@zo3tMw0KTdC@xmAAAAA8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wilfred_Ndidi","wgTitle":"Wilfred Ndidi","wgCurRevisionId":1012469973,"wgRevisionId":1012469973,"wgArticleId":45277265,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from June 2018","Pages using national squad without sport or team link","1996 births","Living people","Nigerian footballers","Nigeria international footballers","Nigeria under-20 international footballers",
+"Nigerian expatriate footballers","K.R.C. Genk players","Leicester City F.C. players","Belgian First Division A players","Expatriate footballers in Belgium","Nigerian expatriate sportspeople in Belgium","Association football central defenders","Association football midfielders","Expatriate footballers in England","Nigerian expatriate sportspeople in England","Premier League players","2018 FIFA World Cup players","Sportspeople from Lagos","2019 Africa Cup of Nations players"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wilfred_Ndidi","wgRelevantArticleId":45277265,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q19587938"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ndidi_20170114.jpg/1200px-Ndidi_20170114.jpg"/>
+<meta property="og:title" content="Wilfred Ndidi"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Wilfred_Ndidi"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wilfred_Ndidi"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wilfred_Ndidi rootpage-Wilfred_Ndidi skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Wilfred Ndidi</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Nigerian footballer</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em;line-height: 1.2em"><caption class="fn" style="line-height: 1.5em; text-align: center;">Wilfred Ndidi</caption><tbody><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Ndidi_20170114.jpg" class="image"><img alt="Ndidi 20170114.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ndidi_20170114.jpg/200px-Ndidi_20170114.jpg" decoding="async" width="200" height="374" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ndidi_20170114.jpg/300px-Ndidi_20170114.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ndidi_20170114.jpg/400px-Ndidi_20170114.jpg 2x" data-file-width="1589" data-file-height="2970" /></a><div>Ndidi playing for <a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a> in 2017</div></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Personal information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Full name</th><td colspan="3" class="nickname" style="white-space: nowrap; vertical-align: baseline">
+<span style="white-space:normal;">Onyinye Wilfred Ndidi<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of birth</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<span style="display:none"> (<span class="bday">1996-12-16</span>) </span>16 December 1996<span class="noprint ForceAgeToShow"> (age&#160;24)</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of birth</th><td colspan="3" class="birthplace" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Lagos" title="Lagos">Lagos</a>, Nigeria</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Height</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+1.83&#160;m (6&#160;ft 0&#160;in)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Position(s)</th><td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Defensive_midfielder" class="mw-redirect" title="Defensive midfielder">Defensive midfielder</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Club information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Current team</div></th><td colspan="3" class="org" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Number</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+25</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Youth career</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal"></span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+Nath Boys Academy</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Senior career*</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Years</th><td style="white-space: nowrap; vertical-align: baseline">
+<b>Team</b></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+<b><abbr title="League appearances">Apps</abbr></b></td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+<b>(<abbr title="League goals">Gls</abbr>)</b></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2015–2017</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/K.R.C._Genk" title="K.R.C. Genk">Genk</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+61</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(4)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2017–</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+132</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(7)</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">National team<sup>‡</sup></th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2013–2015</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Nigeria_national_under-20_football_team" title="Nigeria national under-20 football team">Nigeria U20</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+7</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2015–</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team">Nigeria</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+36</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em"><div class="mw-collapsible mw-collapsed" style="text-align:center; font-size:95%">
+    <div style="line-height:1.6em; font-weight:bold; background-color:#ccf; font-size:105%; background-color:transparent;"><div style="margin:0 4em;">Honours</div></div>
+    <div class="mw-collapsible-content" style="font-size:105%;">
+<table style="width:100%; background-color:#f9f9f9; color:#000000; font-weight:normal;">
+<tbody><tr>
+<td>
+</td></tr>
+<tr>
+<th colspan="3" style="text-align:center;vertical-align:middle;background-color:#cccccc;"><span class="nowrap"><a href="/wiki/Africa_Cup_of_Nations" title="Africa Cup of Nations">Africa Cup of Nations</a></span>
+</th></tr>
+<tr>
+<td style="text-align:center;vertical-align:middle;"><img alt="Third place" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/16px-Bronze_medal_icon.svg.png" decoding="async" title="Third place" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/24px-Bronze_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/32px-Bronze_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16" /></td>
+<td style="text-align:center;vertical-align:middle;"><span class="nowrap"><a href="/wiki/2019_Africa_Cup_of_Nations" title="2019 Africa Cup of Nations">2019 Egypt</a></span></td>
+<td style="text-align:center;vertical-align:middle;">
+</td></tr></tbody></table>
+</div></div></th></tr><tr><td colspan="4" style="text-align:center;color:darkslategray; font-size:95%">
+* Senior club appearances and goals counted for the domestic league only&#32;and correct as of 15:19, 13 February 2021  (UTC)<br />‡ National team caps and goals correct as of 07:50, 18 November 2019 (UTC)</td></tr></tbody></table>
+<p><b>Onyinye Wilfred Ndidi</b> (born 16 December 1996) is a Nigerian professional <a href="/wiki/Association_football" title="Association football">footballer</a> who plays for <a href="/wiki/Premier_League" title="Premier League">Premier League</a> club <a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a> and the <a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team">Nigeria national team</a> as a <a href="/wiki/Defensive_midfielder" class="mw-redirect" title="Defensive midfielder">defensive midfielder</a>. He is known for his defensive prowess and long range strikes.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Club_career"><span class="tocnumber">1</span> <span class="toctext">Club career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Genk"><span class="tocnumber">1.1</span> <span class="toctext">Genk</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Leicester_City"><span class="tocnumber">1.2</span> <span class="toctext">Leicester City</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#2020-21_season"><span class="tocnumber">1.2.1</span> <span class="toctext">2020-21 season</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#International_career"><span class="tocnumber">2</span> <span class="toctext">International career</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Career_statistics"><span class="tocnumber">4</span> <span class="toctext">Career statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Club"><span class="tocnumber">4.1</span> <span class="toctext">Club</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#International"><span class="tocnumber">4.2</span> <span class="toctext">International</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Club_career">Club career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=1" title="Edit section: Club career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Genk">Genk</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=2" title="Edit section: Genk">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ndidi made his <a href="/wiki/Belgian_Pro_League" class="mw-redirect" title="Belgian Pro League">Belgian Pro League</a> debut with <a href="/wiki/K.R.C._Genk" title="K.R.C. Genk">Genk</a> on 31 January 2015 against <a href="/wiki/R._Charleroi_S.C." title="R. Charleroi S.C.">Charleroi</a> in a 1–0 away defeat. He played the first 74 minutes of the game, before being substituted for <a href="/wiki/Jarne_Vrijsen" title="Jarne Vrijsen">Jarne Vrijsen</a>.<sup id="cite_ref-soccerway2_6-0" class="reference"><a href="#cite_note-soccerway2-6">&#91;6&#93;</a></sup>
+</p><p>During the Belgian League play-off game against <a href="/wiki/Club_Brugge_KV" title="Club Brugge KV">Club Brugge</a>, Ndidi scored a long-range goal, which was named the goal of the season in the Belgian league. After receiving an attempted-clearance outside the penalty box, he lofted the ball smoothly over an opposing player before unleashing a ferocious volley into the top right corner.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The ball was adjudged to be travelling at over 111&#160;km/h.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Leicester_City">Leicester City</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=3" title="Edit section: Leicester City">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 3 December 2016, Genk agreed a £17 million transfer deal with <a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The deal was confirmed on 5 January 2017.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>Ndidi made his debut for the club on 7 January 2017, in a 2–1 win against <a href="/wiki/Everton_F.C." title="Everton F.C.">Everton</a> in the third round of the <a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> He made his first <a href="/wiki/Premier_League" title="Premier League">Premier League</a> start on 14 January 2017 against <a href="/wiki/Chelsea_F.C." title="Chelsea F.C.">Chelsea</a> at home in a 3–0 defeat.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> In the English FA Cup game against Derby County on 8 February 2017, Ndidi came on in the first half of extra time and scored his first goal for Leicester through a long-range shot.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In a 3–1 win over <a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a> on 27 February 2017, Ndidi won 11 of his 14 tackles,<sup id="cite_ref-Leicester_City_3-1_Liverpool_16-0" class="reference"><a href="#cite_note-Leicester_City_3-1_Liverpool-16">&#91;16&#93;</a></sup> a feat bettered only by Chelsea's <a href="/wiki/N%27Golo_Kant%C3%A9" title="N&#39;Golo Kanté">N'Golo Kanté</a> who made 14 tackles against the same club in January.<sup id="cite_ref-Leicester_dynamo_Wilfred_Ndidi_has_potential_to_surpass_N&#39;Golo_Kante_17-0" class="reference"><a href="#cite_note-Leicester_dynamo_Wilfred_Ndidi_has_potential_to_surpass_N&#39;Golo_Kante-17">&#91;17&#93;</a></sup>
+</p><p>Ndidi was sent off for the first time in his career during Leicester's 3–0 home defeat to Crystal Palace on 16 December 2017.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>In the 2019–20 season,he scored the opener of the season for Leicester against <a href="/wiki/Chelsea_F.C." title="Chelsea F.C.">Chelsea</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2020-21_season">2020-21 season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=4" title="Edit section: 2020-21 season">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On 13 September 2020, Ndidi started at centre-back in Leicester City's opening game of the <a href="/wiki/2020%E2%80%9321_Premier_League" title="2020–21 Premier League">2020–21 Premier League</a> campaign and kept a clean sheet in a 3–0 win away to <a href="/wiki/West_Bromwich_Albion_F.C." title="West Bromwich Albion F.C.">West Bromwich Albion</a>. Ndidi suffered an adductor injury on 20 September 2020 and was ruled out for 6–12 weeks.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> He returned to action on 3 December in Leicester's Europa League loss to <a href="/wiki/FC_Zorya_Luhansk" title="FC Zorya Luhansk">Zorya Luhansk</a>.
+</p><p>On 19 January 2021, Ndidi scored his first goal of the season in Leicester City's Premier League fixture against <a href="/wiki/Chelsea_F.C." title="Chelsea F.C.">Chelsea</a>. The match eventually ended with Leicester beating their opponents 2–0.
+</p>
+<h2><span class="mw-headline" id="International_career">International career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=5" title="Edit section: International career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wilfred_Ndidi-Nigeria.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wilfred_Ndidi-Nigeria.jpg/220px-Wilfred_Ndidi-Nigeria.jpg" decoding="async" width="220" height="237" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/fb/Wilfred_Ndidi-Nigeria.jpg 1.5x" data-file-width="246" data-file-height="265" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wilfred_Ndidi-Nigeria.jpg" class="internal" title="Enlarge"></a></div>Ndidi with Nigeria against Argentina</div></div></div>
+<p>Ndidi was part of the Nigerian youth setup during his time at Nathaniel Boys of Lagos. While playing the African U-17 Championship with Nigeria, he was excluded along with two other players from the competition as a precaution, following an MRI age test that suggested he was just slightly above the threshold.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Notwithstanding, he joined up with his teammates in the U-20 team the following year, forming the bedrock of the midfield. He was called up to the Senior <a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team">Nigeria national football team</a> on 8 October 2015, making his debut in the friendly game against DR Congo, and playing again a few days later in the 3–0 win against Cameroon, when he replaced <a href="/wiki/John_Obi_Mikel" title="John Obi Mikel">John Obi Mikel</a> in the 63rd minute.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>He was selected by <a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team">Nigeria</a> for their 35-man provisional squad for the 2016 Summer Olympics.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>In May 2018 he was named in Nigeria’s preliminary 30-man squad for the <a href="/wiki/2018_World_Cup" class="mw-redirect" title="2018 World Cup">2018 World Cup</a> in Russia.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> He was included in the <a href="/wiki/African_Cup_of_Nations_2019" class="mw-redirect" title="African Cup of Nations 2019">African Cup of Nations 2019</a> squad<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> and played in Nigeria's first match against <a href="/wiki/Burundi_national_football_team" title="Burundi national football team">Burundi</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=6" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In May 2019, Ndidi married his longtime girlfriend Dinma Fortune in <a href="/wiki/Abuja" title="Abuja">Abuja</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>In 2019, Ndidi started studying for a degree in Business and Management at <a href="/wiki/De_Montfort_University" title="De Montfort University">De Montfort University</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career_statistics">Career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=7" title="Edit section: Career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Club">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=8" title="Edit section: Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><i>As of match played 13 February 2021</i><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></dd></dl>
+<table class="wikitable" style="text-align: center">
+<caption>Appearances and goals by club, season and competition
+</caption>
+<tbody><tr>
+<th rowspan="2">Club
+</th>
+<th rowspan="2">Season
+</th>
+<th colspan="3">League
+</th>
+<th colspan="2">National Cup<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;a&#93;</a></sup>
+</th>
+<th colspan="2">League Cup
+</th>
+<th colspan="2">Europe
+</th>
+<th colspan="2">Total
+</th></tr>
+<tr>
+<th>Division</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals
+</th></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/K.R.C._Genk" title="K.R.C. Genk">Genk</a>
+</td>
+<td><a href="/wiki/2014%E2%80%9315_Belgian_Pro_League" title="2014–15 Belgian Pro League">2014–15</a>
+</td>
+<td><a href="/wiki/Belgian_Pro_League" class="mw-redirect" title="Belgian Pro League">Pro League</a>
+</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>6</td>
+<td>0
+</td></tr>
+<tr>
+<td><a href="/wiki/2015%E2%80%9316_Belgian_Pro_League" title="2015–16 Belgian Pro League">2015–16</a>
+</td>
+<td>Pro League
+</td>
+<td>38</td>
+<td>4</td>
+<td>5</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>43</td>
+<td>4
+</td></tr>
+<tr>
+<td><a href="/wiki/2016%E2%80%9317_Belgian_First_Division_A" title="2016–17 Belgian First Division A">2016–17</a>
+</td>
+<td><a href="/wiki/Belgian_First_Division_A" title="Belgian First Division A">First Division A</a>
+</td>
+<td>19</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td colspan="2">—</td>
+<td>12<sup id="cite_ref-UEL_31-0" class="reference"><a href="#cite_note-UEL-31">&#91;b&#93;</a></sup></td>
+<td>2</td>
+<td>34</td>
+<td>3
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>63</th>
+<th>4</th>
+<th>8</th>
+<th>1</th>
+<th colspan="2">—</th>
+<th>12</th>
+<th>2</th>
+<th>83</th>
+<th>7
+</th></tr>
+<tr>
+<td rowspan="6"><a href="/wiki/Leicester_City_F.C." title="Leicester City F.C.">Leicester City</a>
+</td>
+<td><a href="/wiki/2016%E2%80%9317_Leicester_City_F.C._season" title="2016–17 Leicester City F.C. season">2016–17</a>
+</td>
+<td><a href="/wiki/Premier_League" title="Premier League">Premier League</a>
+</td>
+<td>17</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>4<sup id="cite_ref-UCL_32-0" class="reference"><a href="#cite_note-UCL-32">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td>23</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/wiki/2017%E2%80%9318_Leicester_City_F.C._season" title="2017–18 Leicester City F.C. season">2017–18</a>
+</td>
+<td>Premier League
+</td>
+<td>33</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>38</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/2018%E2%80%9319_Leicester_City_F.C._season" title="2018–19 Leicester City F.C. season">2018–19</a>
+</td>
+<td>Premier League
+</td>
+<td>38</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>40</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/2019%E2%80%9320_Leicester_City_F.C._season" title="2019–20 Leicester City F.C. season">2019–20</a>
+</td>
+<td>Premier League
+</td>
+<td>32</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>39</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/2020%E2%80%9321_Leicester_City_F.C._season" title="2020–21 Leicester City F.C. season">2020–21</a>
+</td>
+<td>Premier League
+</td>
+<td>12</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2<sup id="cite_ref-UEL_31-1" class="reference"><a href="#cite_note-UEL-31">&#91;b&#93;</a></sup></td>
+<td>0</td>
+<td>17</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>132</th>
+<th>7</th>
+<th>12</th>
+<th>2</th>
+<th>8</th>
+<th>0</th>
+<th>6</th>
+<th>0</th>
+<th>158</th>
+<th>9
+</th></tr>
+<tr>
+<th colspan="3">Career total
+</th>
+<th>189</th>
+<th>11</th>
+<th>19</th>
+<th>3</th>
+<th>8</th>
+<th>0</th>
+<th>18</th>
+<th>2</th>
+<th>241</th>
+<th>16
+</th></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Includes <a href="/wiki/Belgian_Cup" title="Belgian Cup">Belgian Cup</a></span>
+</li>
+<li id="cite_note-UEL-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-UEL_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UEL_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Appearances in <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Europa League</a></span>
+</li>
+<li id="cite_note-UCL-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-UCL_32-0">^</a></b></span> <span class="reference-text">Appearances in <a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">UEFA Champions League</a></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="International">International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=9" title="Edit section: International">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Argentina-Nigeria_(1).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argentina-Nigeria_%281%29.jpg/220px-Argentina-Nigeria_%281%29.jpg" decoding="async" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argentina-Nigeria_%281%29.jpg/330px-Argentina-Nigeria_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argentina-Nigeria_%281%29.jpg/440px-Argentina-Nigeria_%281%29.jpg 2x" data-file-width="1403" data-file-height="1066" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Argentina-Nigeria_(1).jpg" class="internal" title="Enlarge"></a></div>Argentina vs Nigeria</div></div></div>
+<dl><dd><i>As of match played 13 November 2019</i><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;30&#93;</a></sup></dd></dl>
+<table class="wikitable" style="text-align:center">
+<caption>Appearances and goals by national team and year
+</caption>
+<tbody><tr>
+<th>National team</th>
+<th>Year</th>
+<th>Apps</th>
+<th>Goals
+</th></tr>
+<tr>
+<td rowspan="5"><a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team">Nigeria</a>
+</td>
+<td>2015</td>
+<td>2</td>
+<td>0
+</td></tr>
+<tr>
+<td>2016</td>
+<td>4</td>
+<td>0
+</td></tr>
+<tr>
+<td>2017</td>
+<td>7</td>
+<td>0
+</td></tr>
+<tr>
+<td>2018</td>
+<td>10</td>
+<td>0
+</td></tr>
+<tr>
+<td>2019</td>
+<td>13</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2">Total</th>
+<th>36</th>
+<th>0
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/news/612828">"Updated squads for 2017/18 Premier League confirmed"</a>. Premier League. 2 February 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Updated+squads+for+2017%2F18+Premier+League+confirmed&amp;rft.pub=Premier+League&amp;rft.date=2018-02-02&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fnews%2F612828&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/players/20479/Wilfred-Ndidi/overview">"Wilfred Ndidi: Overview"</a>. Premier League<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wilfred+Ndidi%3A+Overview&amp;rft.pub=Premier+League&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fplayers%2F20479%2FWilfred-Ndidi%2Foverview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.lcfc.com/players/8979/Jamie-Vardy/profile">"Jamie Vardy"</a>. Leicester City F.C<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jamie+Vardy&amp;rft.pub=Leicester+City+F.C.&amp;rft_id=https%3A%2F%2Fwww.lcfc.com%2Fplayers%2F8979%2FJamie-Vardy%2Fprofile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.goal.com/en-ng/news/leicester-citys-ndidi-shares-top-tackler-accolade-with/15j9pm4up51bm1btgk2mfxk23h">"Leicester City's Ndidi shares top tackler accolade with Manchester United's Wan-Bissaka"</a>. <i>goal.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=goal.com&amp;rft.atitle=Leicester+City%27s+Ndidi+shares+top+tackler+accolade+with+Manchester+United%27s+Wan-Bissaka&amp;rft_id=https%3A%2F%2Fwww.goal.com%2Fen-ng%2Fnews%2Fleicester-citys-ndidi-shares-top-tackler-accolade-with%2F15j9pm4up51bm1btgk2mfxk23h&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.uefa.com/uefachampionsleague/history/video/0235-0e67d03723ed-82a593d5a63a-1000--watch-leicester-s-ndidi-score-long-range-screamer/?autoplay=true&amp;referrer=%2Fuefachampionsleague%2Fvideo%2Fstars-of-ucl%2Fvideoid%3D2434399">"Watch Leicester's Ndidi score long-range screamer"</a>. <i>uefa.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=uefa.com&amp;rft.atitle=Watch+Leicester%27s+Ndidi+score+long-range+screamer&amp;rft_id=https%3A%2F%2Fwww.uefa.com%2Fuefachampionsleague%2Fhistory%2Fvideo%2F0235-0e67d03723ed-82a593d5a63a-1000--watch-leicester-s-ndidi-score-long-range-screamer%2F%3Fautoplay%3Dtrue%26referrer%3D%252Fuefachampionsleague%252Fvideo%252Fstars-of-ucl%252Fvideoid%253D2434399&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-soccerway2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-soccerway2_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://int.soccerway.com/matches/2015/01/31/belgium/pro-league/royal-charleroi-sporting-club/krc-genk/1697243/">"Charleri vs. Genk – 31 January 2015 – Soccerway"</a>. soccerway.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Charleri+vs.+Genk+%E2%80%93+31+January+2015+%E2%80%93+Soccerway&amp;rft.pub=soccerway.com&amp;rft_id=https%3A%2F%2Fint.soccerway.com%2Fmatches%2F2015%2F01%2F31%2Fbelgium%2Fpro-league%2Froyal-charleroi-sporting-club%2Fkrc-genk%2F1697243%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFootball_Score2016" class="citation web cs1">Football Score (20 April 2016). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=XNrukUXR8bc">"Wilfred Ndidi Amazing Goal  KRC Genk vs Club Brugge KV  Belgium Jupiler League 20/04/2016"</a> &#8211; via YouTube.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wilfred+Ndidi+Amazing+Goal+%E2%97%8F+KRC+Genk+vs+Club+Brugge+KV+%E2%97%8F+Belgium+Jupiler+League+20%2F04%2F2016&amp;rft.date=2016-04-20&amp;rft.au=Football+Score&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXNrukUXR8bc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.standaard.be/cnt/dmf20160523_02303545">"Hanni is Profvoetballer van het Jaar, ook Preud'homme, Bailey, Sels, Ndidi en Simons bekroond"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hanni+is+Profvoetballer+van+het+Jaar%2C+ook+Preud%27homme%2C+Bailey%2C+Sels%2C+Ndidi+en+Simons+bekroond&amp;rft_id=http%3A%2F%2Fwww.standaard.be%2Fcnt%2Fdmf20160523_02303545&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.lavenir.net/cnt/dmf20160524_00830880/footballeur-pro-de-l-annee-wilfred-ndidi-auteur-du-plus-beau-but">"Footballeur Pro de l'année: Wilfred Ndidi, auteur du plus beau but"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Footballeur+Pro+de+l%27ann%C3%A9e%3A+Wilfred+Ndidi%2C+auteur+du+plus+beau+but&amp;rft_id=http%3A%2F%2Fwww.lavenir.net%2Fcnt%2Fdmf20160524_00830880%2Ffootballeur-pro-de-l-annee-wilfred-ndidi-auteur-du-plus-beau-but&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSeyi_Daniels2016" class="citation news cs1">Seyi Daniels (23 December 2016). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161224114517/http://soccerblitz.net/2016/12/23/7-facts-you-didnt-know-about-leicester-city-new-signing-wilfred-ndidi/">"7 FACTS you didn't know about Leicester City new signing Wilfred Ndidi"</a>. soccerblitz.com. Archived from <a rel="nofollow" class="external text" href="http://soccerblitz.net/2016/12/23/7-facts-you-didnt-know-about-leicester-city-new-signing-wilfred-ndidi/">the original</a> on 24 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=7+FACTS+you+didn%27t+know+about+Leicester+City+new+signing+Wilfred+Ndidi&amp;rft.date=2016-12-23&amp;rft.au=Seyi+Daniels&amp;rft_id=http%3A%2F%2Fsoccerblitz.net%2F2016%2F12%2F23%2F7-facts-you-didnt-know-about-leicester-city-new-signing-wilfred-ndidi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.com/story/3031389/leicester-agree-deal-to-sign-nigeria-international-wilfred-ndidi-from-genk">"Leicester agree deal to sign Nigeria international Wilfred Ndidi from Genk"</a>. <i>ESPNFC.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ESPNFC.com&amp;rft.atitle=Leicester+agree+deal+to+sign+Nigeria+international+Wilfred+Ndidi+from+Genk&amp;rft_id=http%3A%2F%2Fwww.espnfc.com%2Fstory%2F3031389%2Fleicester-agree-deal-to-sign-nigeria-international-wilfred-ndidi-from-genk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.lcfc.com/news/article/2016-17/wilfred-ndidi-new-signing-trains-after-finalising-leicester-city-transfer-3503085.aspx">"Wilfred Ndidi: New Signing Trains After Finalising Leicester City Transfer"</a>. lcfc.com. 5 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wilfred+Ndidi%3A+New+Signing+Trains+After+Finalising+Leicester+City+Transfer&amp;rft.date=2017-01-05&amp;rft_id=http%3A%2F%2Fwww.lcfc.com%2Fnews%2Farticle%2F2016-17%2Fwilfred-ndidi-new-signing-trains-after-finalising-leicester-city-transfer-3503085.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNulty2017" class="citation news cs1">McNulty, Phil (7 January 2017). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/38474504">"Everton 1–2 Leicester City"</a>. <i>www.bbc.co.uk/sport</i>. BBC Sport<span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=www.bbc.co.uk%2Fsport&amp;rft.atitle=Everton+1%E2%80%932+Leicester+City&amp;rft.date=2017-01-07&amp;rft.aulast=McNulty&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F38474504&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.lcfc.com/fixtures-results/match-report/index.aspx?matchid=3925162">"Match Report – Leicester 0–3 Chelsea"</a>. <i>www.lcfc.com</i>. Leicester City F.C. 14 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.lcfc.com&amp;rft.atitle=Match+Report+%E2%80%93+Leicester+0%E2%80%933+Chelsea&amp;rft.date=2017-01-14&amp;rft_id=http%3A%2F%2Fwww.lcfc.com%2Ffixtures-results%2Fmatch-report%2Findex.aspx%3Fmatchid%3D3925162&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://www.espnfc.us/report?gameId=473321">"Ndidi first Leicester goal"</a>, <i>espnfc.com</i><span class="reference-accessdate">, retrieved <span class="nowrap">8 February</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=espnfc.com&amp;rft.atitle=Ndidi+first+Leicester+goal&amp;rft_id=http%3A%2F%2Fwww.espnfc.us%2Freport%3FgameId%3D473321&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Leicester_City_3-1_Liverpool-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leicester_City_3-1_Liverpool_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFPhil_Dawkes2017" class="citation cs2">Phil Dawkes (27 February 2017), <a rel="nofollow" class="external text" href="https://www.bbc.com/sport/football/39024318"><i>Leicester City 3–1 Liverpool</i></a>, BBC Sport<span class="reference-accessdate">, retrieved <span class="nowrap">3 June</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Leicester+City+3%E2%80%931+Liverpool&amp;rft.pub=BBC+Sport&amp;rft.date=2017-02-27&amp;rft.au=Phil+Dawkes&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2F39024318&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Leicester_dynamo_Wilfred_Ndidi_has_potential_to_surpass_N&#39;Golo_Kante-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leicester_dynamo_Wilfred_Ndidi_has_potential_to_surpass_N&#39;Golo_Kante_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFColin_Udoh2017" class="citation cs2">Colin Udoh (28 February 2017), <a rel="nofollow" class="external text" href="http://www.espnfcasia.com/club/leicester-city/375/blog/post/3070662/leicester-dynamo-wilfred-ndidi-has-potential-to-surpass-ngolo-kante"><i>Leicester dynamo Wilfred Ndidi has potential to surpass N'Golo Kante</i></a>, ESPN FC<span class="reference-accessdate">, retrieved <span class="nowrap">3 June</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Leicester+dynamo+Wilfred+Ndidi+has+potential+to+surpass+N%27Golo+Kante&amp;rft.pub=ESPN+FC&amp;rft.date=2017-02-28&amp;rft.au=Colin+Udoh&amp;rft_id=http%3A%2F%2Fwww.espnfcasia.com%2Fclub%2Fleicester-city%2F375%2Fblog%2Fpost%2F3070662%2Fleicester-dynamo-wilfred-ndidi-has-potential-to-surpass-ngolo-kante&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShina_Oludare2017" class="citation cs2">Shina Oludare (16 December 2017), <a rel="nofollow" class="external text" href="http://www.goal.com/en-ng/news/birthday-boy-wilfred-ndidi-gets-first-career-red-against-crystal-/1mlilf6w849gv1c3auyaiowxj6"><i>Birthday boy Ndidi gets first career red against Crystal Palace</i></a>, GOAL.COM<span class="reference-accessdate">, retrieved <span class="nowrap">17 December</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birthday+boy+Ndidi+gets+first+career+red+against+Crystal+Palace&amp;rft.pub=GOAL.COM&amp;rft.date=2017-12-16&amp;rft.au=Shina+Oludare&amp;rft_id=http%3A%2F%2Fwww.goal.com%2Fen-ng%2Fnews%2Fbirthday-boy-wilfred-ndidi-gets-first-career-red-against-crystal-%2F1mlilf6w849gv1c3auyaiowxj6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/match/46618">"Chelsea Vs Leicester"</a>. Premier League.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chelsea+Vs+Leicester&amp;rft.pub=Premier+League&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fmatch%2F46618&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.lcfc.com/news/1840159/rodgers-confirms-wilfred-ndidi-injury">"Rodgers Confirms Wilfred Ndidi Injury"</a>. <i>www.lcfc.com</i>. 23 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.lcfc.com&amp;rft.atitle=Rodgers+Confirms+Wilfred+Ndidi+Injury&amp;rft.date=2020-09-23&amp;rft_id=https%3A%2F%2Fwww.lcfc.com%2Fnews%2F1840159%2Frodgers-confirms-wilfred-ndidi-injury&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBaffour2013" class="citation web cs1">Baffour, Katherine (15 April 2013). <a rel="nofollow" class="external text" href="https://www.naij.com/31032.html">"Three Nigerian Footballers Caught Age Cheating"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Three+Nigerian+Footballers+Caught+Age+Cheating&amp;rft.date=2013-04-15&amp;rft.aulast=Baffour&amp;rft.aufirst=Katherine&amp;rft_id=https%3A%2F%2Fwww.naij.com%2F31032.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.goal.com/en-ng/match/nigeria-v-cameroon/5fmctvxcfgmzoh832z12em6ll">"Nigeria v Cameroon Live Commentary &amp; Result, 11/10/2015, Friendlies - Goal.com"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nigeria+v+Cameroon+Live+Commentary+%26+Result%2C+11%2F10%2F2015%2C+Friendlies+-+Goal.com&amp;rft_id=http%3A%2F%2Fwww.goal.com%2Fen-ng%2Fmatch%2Fnigeria-v-cameroon%2F5fmctvxcfgmzoh832z12em6ll&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOluwashina_Okeleji2016" class="citation web cs1">Oluwashina Okeleji (24 June 2016). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/36623763">"Kelechi Iheanacho included in Nigeria's Olympics squad"</a>. BBC Sport<span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kelechi+Iheanacho+included+in+Nigeria%27s+Olympics+squad&amp;rft.pub=BBC+Sport&amp;rft.date=2016-06-24&amp;rft.au=Oluwashina+Okeleji&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F36623763&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFCrawford2018" class="citation web cs1">Crawford, Stephen (4 June 2018). <a rel="nofollow" class="external text" href="https://www.goal.com/en-gb/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb">"Revealed: Every World Cup 2018 squad - Final 23-man lists"</a>. <i>Goal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Goal&amp;rft.atitle=Revealed%3A+Every+World+Cup+2018+squad+-+Final+23-man+lists&amp;rft.date=2018-06-04&amp;rft.aulast=Crawford&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fwww.goal.com%2Fen-gb%2Fnews%2Frevealed-every-world-cup-2018-squad-23-man-preliminary-lists%2Foa0atsduflsv1nsf6oqk576rb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShittu2019" class="citation news cs1">Shittu, Ibitoye (11 June 2019). <a rel="nofollow" class="external text" href="https://www.legit.ng/1242841-alex-iwobi-ndidi-18-super-eagles-star-making-afcon-debut.html">"AFCON 2019: Iwobi, Ndidi, 18 other Nigerian stars who will be making debut"</a>. <i>Legit.ng</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Legit.ng&amp;rft.atitle=AFCON+2019%3A+Iwobi%2C+Ndidi%2C+18+other+Nigerian+stars+who+will+be+making+debut&amp;rft.date=2019-06-11&amp;rft.aulast=Shittu&amp;rft.aufirst=Ibitoye&amp;rft_id=https%3A%2F%2Fwww.legit.ng%2F1242841-alex-iwobi-ndidi-18-super-eagles-star-making-afcon-debut.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOkogba2018" class="citation news cs1">Okogba, Emmanuel (24 June 2018). <a rel="nofollow" class="external text" href="https://www.vanguardngr.com/2019/06/nigeria-v-burundi-player-ratings-aina-shines-mikel-akpeyi-underwhelm/">"Nigeria v Burundi player ratings: Aina shines, Mikel, Akpeyi underwhelm"</a>. <i>Vanguard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vanguard&amp;rft.atitle=Nigeria+v+Burundi+player+ratings%3A+Aina+shines%2C+Mikel%2C+Akpeyi+underwhelm&amp;rft.date=2018-06-24&amp;rft.aulast=Okogba&amp;rft.aufirst=Emmanuel&amp;rft_id=https%3A%2F%2Fwww.vanguardngr.com%2F2019%2F06%2Fnigeria-v-burundi-player-ratings-aina-shines-mikel-akpeyi-underwhelm%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOkoroji2019" class="citation news cs1">Okoroji, Chidozie (23 May 2019). <a rel="nofollow" class="external text" href="https://www.brila.net/wilfred-ndidi-weds-longtime-girlfriend-dinma-in-abuja/">"Wilfred Ndidi weds longtime girlfriend, Dinma in Abuja"</a>. <i>Brila</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Brila&amp;rft.atitle=Wilfred+Ndidi+weds+longtime+girlfriend%2C+Dinma+in+Abuja&amp;rft.date=2019-05-23&amp;rft.aulast=Okoroji&amp;rft.aufirst=Chidozie&amp;rft_id=https%3A%2F%2Fwww.brila.net%2Fwilfred-ndidi-weds-longtime-girlfriend-dinma-in-abuja%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFTaiwo2019" class="citation news cs1">Taiwo, Taiye (23 August 2019). <a rel="nofollow" class="external text" href="https://www.goal.com/en/news/wilfred-ndidi-leicester-city-midfielder-studying-business/1copqn1mh6lf0zj8241eii1k8">"Ndidi: Leicester City midfielder studying business and management"</a>. <i>Goal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Goal&amp;rft.atitle=Ndidi%3A+Leicester+City+midfielder+studying+business+and+management&amp;rft.date=2019-08-23&amp;rft.aulast=Taiwo&amp;rft.aufirst=Taiye&amp;rft_id=https%3A%2F%2Fwww.goal.com%2Fen%2Fnews%2Fwilfred-ndidi-leicester-city-midfielder-studying-business%2F1copqn1mh6lf0zj8241eii1k8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/onyinye-wilfred-ndidi/298168/">"W. Ndidi"</a>. <i>Soccerway</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerway&amp;rft.atitle=W.+Ndidi&amp;rft_id=https%3A%2F%2Fint.soccerway.com%2Fplayers%2Fonyinye-wilfred-ndidi%2F298168%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.national-football-teams.com/player/60751.html">"Wilfred Ndidi"</a>. <i>National Football Teams</i>. Benjamin Strack-Zimmerman<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Football+Teams&amp;rft.atitle=Wilfred+Ndidi&amp;rft_id=https%3A%2F%2Fwww.national-football-teams.com%2Fplayer%2F60751.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfred+Ndidi" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://timetravel.mementoweb.org/memento/20150905/http://www.fifa.com/fifa-tournaments/players-coaches/people=369512/index.html">Wilfred Ndidi</a> – <a href="/wiki/FIFA" title="FIFA">FIFA</a> competition record</li>
+<li><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/onyinye-wilfred-ndidi/298168/">Wilfred Ndidi</a> at Soccerway</li>
+<li><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=80851">Wilfred Ndidi</a> at Soccerbase <a href="https://www.wikidata.org/wiki/Q19587938#P2193" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="https://www.national-football-teams.com/player/60751.html">Onyinye Ndidi</a> at National-Football-Teams.com</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Leicester_City_F.C._–_current_squad" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:royalblue; color:white; border:1px solid goldenrod; width:87%;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Leicester_City_F.C._squad" title="Template:Leicester City F.C. squad"><abbr title="View this template" style=";background:royalblue; color:white; border:1px solid goldenrod; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Leicester_City_F.C._squad" title="Template talk:Leicester City F.C. squad"><abbr title="Discuss this template" style=";background:royalblue; color:white; border:1px solid goldenrod; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Leicester_City_F.C._squad&amp;action=edit"><abbr title="Edit this template" style=";background:royalblue; color:white; border:1px solid goldenrod; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Leicester_City_F.C._–_current_squad" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Leicester_City_F.C." title="Leicester City F.C."><span style="color:white;">Leicester City F.C.</span></a> <span style="color:white;"> &#8211; current squad</span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div>
+<ul><li><span class="agent vcard">1&#160;<span class="fn"><a href="/wiki/Kasper_Schmeichel" title="Kasper Schmeichel">Schmeichel</a></span></span></li>
+<li><span class="agent vcard">2&#160;<span class="fn"><a href="/wiki/James_Justin" title="James Justin">Justin</a></span></span></li>
+<li><span class="agent vcard">3&#160;<span class="fn"><a href="/wiki/Wesley_Fofana_(footballer)" title="Wesley Fofana (footballer)">Fofana</a></span></span></li>
+<li><span class="agent vcard">4&#160;<span class="fn"><a href="/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC" title="Çalar Söyüncü">Söyüncü</a></span></span></li>
+<li><span class="agent vcard">5&#160;<span class="fn"><a href="/wiki/Wes_Morgan" title="Wes Morgan">Morgan</a> (c)</span></span></li>
+<li><span class="agent vcard">6&#160;<span class="fn"><a href="/wiki/Jonny_Evans" title="Jonny Evans">Evans</a></span></span></li>
+<li><span class="agent vcard">8&#160;<span class="fn"><a href="/wiki/Youri_Tielemans" title="Youri Tielemans">Tielemans</a></span></span></li>
+<li><span class="agent vcard">9&#160;<span class="fn"><a href="/wiki/Jamie_Vardy" title="Jamie Vardy">Vardy</a></span></span></li>
+<li><span class="agent vcard">10&#160;<span class="fn"><a href="/wiki/James_Maddison" title="James Maddison">Maddison</a></span></span></li>
+<li><span class="agent vcard">11&#160;<span class="fn"><a href="/wiki/Marc_Albrighton" title="Marc Albrighton">Albrighton</a></span></span></li>
+<li><span class="agent vcard">12&#160;<span class="fn"><a href="/wiki/Danny_Ward_(Welsh_footballer)" title="Danny Ward (Welsh footballer)">Ward</a></span></span></li>
+<li><span class="agent vcard">14&#160;<span class="fn"><a href="/wiki/Kelechi_Iheanacho" title="Kelechi Iheanacho">heanach</a></span></span></li>
+<li><span class="agent vcard">15&#160;<span class="fn"><a href="/wiki/Harvey_Barnes" title="Harvey Barnes">Barnes</a></span></span></li>
+<li><span class="agent vcard">17&#160;<span class="fn"><a href="/wiki/Ayoze_P%C3%A9rez" title="Ayoze Pérez">Pérez</a></span></span></li>
+<li><span class="agent vcard">18&#160;<span class="fn"><a href="/wiki/Daniel_Amartey" title="Daniel Amartey">Amartey</a></span></span></li>
+<li><span class="agent vcard">19&#160;<span class="fn"><a href="/wiki/Cengiz_%C3%9Cnder" title="Cengiz Ünder">Ünder</a></span></span></li>
+<li><span class="agent vcard">20&#160;<span class="fn"><a href="/wiki/Hamza_Choudhury" title="Hamza Choudhury">Choudhury</a></span></span></li>
+<li><span class="agent vcard">21&#160;<span class="fn"><a href="/wiki/Ricardo_Pereira_(footballer,_born_1993)" title="Ricardo Pereira (footballer, born 1993)">Ricardo</a></span></span></li>
+<li><span class="agent vcard">24&#160;<span class="fn"><a href="/wiki/Nampalys_Mendy" title="Nampalys Mendy">Mendy</a></span></span></li>
+<li><span class="agent vcard">25&#160;<span class="fn"><a class="mw-selflink selflink">Ndidi</a></span></span></li>
+<li><span class="agent vcard">26&#160;<span class="fn"><a href="/wiki/Dennis_Praet" title="Dennis Praet">Praet</a></span></span></li>
+<li><span class="agent vcard">27&#160;<span class="fn"><a href="/wiki/Timothy_Castagne" title="Timothy Castagne">Castagne</a></span></span></li>
+<li><span class="agent vcard">28&#160;<span class="fn"><a href="/wiki/Christian_Fuchs" title="Christian Fuchs">Fuchs</a></span></span></li>
+<li><span class="agent vcard">33&#160;<span class="fn"><a href="/wiki/Luke_Thomas_(footballer,_born_2001)" title="Luke Thomas (footballer, born 2001)">Thomas</a></span></span></li>
+<li><span class="agent vcard">35&#160;<span class="fn"><a href="/wiki/Eldin_Jakupovi%C4%87" title="Eldin Jakupovi">Jakupovi</a></span></span></li>
+<li><span class="agent vcard">38&#160;<span class="fn"><a href="/wiki/Thakgalo_Leshabela" title="Thakgalo Leshabela">Leshabela</a></span></span></li>
+<li><span class="agent vcard">46&#160;<span class="fn"><a href="/wiki/Vontae_Daley-Campbell" title="Vontae Daley-Campbell">Daley-Campbell</a></span></span></li>
+<li><span class="agent vcard">50&#160;<span class="fn"><a href="/wiki/Sidnei_Tavares" title="Sidnei Tavares">Tavares</a></span></span></li>
+<li><span class="agent vcard">53&#160;<span class="fn">Flynn</span></span></li>
+<li><span class="nowrap">Manager: <a href="/wiki/Brendan_Rodgers" title="Brendan Rodgers">Rodgers</a></span></li></ul>
+</div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Nigeria_squad_–_2018_FIFA_World_Cup" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#008751;color:white;border: 1px solid #00703C;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Nigeria_squad_2018_FIFA_World_Cup" title="Template:Nigeria squad 2018 FIFA World Cup"><abbr title="View this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nigeria_squad_2018_FIFA_World_Cup" title="Template talk:Nigeria squad 2018 FIFA World Cup"><abbr title="Discuss this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nigeria_squad_2018_FIFA_World_Cup&amp;action=edit"><abbr title="Edit this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Nigeria_squad_–_2018_FIFA_World_Cup" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team"><span style="color:white">Nigeria squad</span></a> – <a href="/wiki/2018_FIFA_World_Cup" title="2018 FIFA World Cup"><span style="color:white">2018 FIFA World Cup</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>1&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ikechukwu_Ezenwa" title="Ikechukwu Ezenwa">Ezenwa</a></span></span></li>
+<li>2&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Brian_Idowu" title="Brian Idowu">Idowu</a></span></span></li>
+<li>3&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Elderson_Echi%C3%A9jil%C3%A9" title="Elderson Echiéjilé">Echiéjilé</a></span></span></li>
+<li>4&#160;<span class="vcard agent"><span class="fn"><a class="mw-selflink selflink">Ndidi</a></span></span></li>
+<li>5&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/William_Troost-Ekong" title="William Troost-Ekong">Troost-Ekong</a></span></span></li>
+<li>6&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Leon_Balogun" title="Leon Balogun">Balogun</a></span></span></li>
+<li>7&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ahmed_Musa" title="Ahmed Musa">Musa</a></span></span></li>
+<li>8&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Peter_Etebo" title="Peter Etebo">Etebo</a></span></span></li>
+<li>9&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Odion_Ighalo" title="Odion Ighalo">Ighalo</a></span></span></li>
+<li>10&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/John_Obi_Mikel" title="John Obi Mikel">Mikel</a>&#160;(<a href="/wiki/Captain_(association_football)" title="Captain (association football)">c</a>)</span></span></li>
+<li>11&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Victor_Moses" title="Victor Moses">Moses</a></span></span></li>
+<li>12&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Shehu_Abdullahi" title="Shehu Abdullahi">Abdullahi</a></span></span></li>
+<li>13&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Simeon_Nwankwo" title="Simeon Nwankwo">Simy</a></span></span></li>
+<li>14&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Kelechi_Iheanacho" title="Kelechi Iheanacho">heanach</a></span></span></li>
+<li>15&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Joel_Obi" title="Joel Obi">Obi</a></span></span></li>
+<li>16&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Daniel_Akpeyi" title="Daniel Akpeyi">Akpeyi</a></span></span></li>
+<li>17&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ogenyi_Onazi" title="Ogenyi Onazi">Onazi</a></span></span></li>
+<li>18&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Alex_Iwobi" title="Alex Iwobi">Iwobi</a></span></span></li>
+<li>19&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/John_Ogu" title="John Ogu">Ogu</a></span></span></li>
+<li>20&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Chidozie_Awaziem" title="Chidozie Awaziem">Awaziem</a></span></span></li>
+<li>21&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Tyronne_Ebuehi" title="Tyronne Ebuehi">Ebuehi</a></span></span></li>
+<li>22&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Kenneth_Omeruo" title="Kenneth Omeruo">Omeruo</a></span></span></li>
+<li>23&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Francis_Uzoho" title="Francis Uzoho">Uzoho</a></span></span></li>
+<li><span class="vcard agent">Coach:&#160;<span class="fn"><a href="/wiki/Gernot_Rohr" title="Gernot Rohr">Rohr</a></span></span></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><span class="flagicon"><a href="/wiki/Nigeria" title="Nigeria"><img alt="Nigeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/50px-Flag_of_Nigeria.svg.png" decoding="async" width="50" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/75px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/100px-Flag_of_Nigeria.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Nigeria_squad_–_2019_Africa_Cup_of_Nations_Nations_third_place" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#008751;color:white;border: 1px solid #00703C;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Nigeria_squad_2019_Africa_Cup_of_Nations" title="Template:Nigeria squad 2019 Africa Cup of Nations"><abbr title="View this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nigeria_squad_2019_Africa_Cup_of_Nations" title="Template talk:Nigeria squad 2019 Africa Cup of Nations"><abbr title="Discuss this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nigeria_squad_2019_Africa_Cup_of_Nations&amp;action=edit"><abbr title="Edit this template" style=";background-color:#008751;color:white;border: 1px solid #00703C;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Nigeria_squad_–_2019_Africa_Cup_of_Nations_Nations_third_place" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Nigeria_national_football_team" title="Nigeria national football team"><span style="color:white">Nigeria squad</span></a> – <a href="/wiki/2019_Africa_Cup_of_Nations" title="2019 Africa Cup of Nations"><span style="color:white">2019 Africa Cup of Nations Nations third place</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>1&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ikechukwu_Ezenwa" title="Ikechukwu Ezenwa">Ezenwa</a></span></span></li>
+<li>2&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ola_Aina" title="Ola Aina">Aina</a></span></span></li>
+<li>3&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Jamilu_Collins" title="Jamilu Collins">Collins</a></span></span></li>
+<li>4&#160;<span class="vcard agent"><span class="fn"><a class="mw-selflink selflink">Ndidi</a></span></span></li>
+<li>5&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/William_Troost-Ekong" title="William Troost-Ekong">Troost-Ekong</a></span></span></li>
+<li>6&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Leon_Balogun" title="Leon Balogun">Balogun</a></span></span></li>
+<li>7&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Ahmed_Musa" title="Ahmed Musa">Musa</a></span></span></li>
+<li>8&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Peter_Etebo" title="Peter Etebo">Etebo</a></span></span></li>
+<li>9&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Odion_Ighalo" title="Odion Ighalo">Ighalo</a></span></span></li>
+<li>10&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/John_Obi_Mikel" title="John Obi Mikel">Mikel</a></span></span></li>
+<li>11&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Henry_Onyekuru" title="Henry Onyekuru">Onyekuru</a></span></span></li>
+<li>12&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Shehu_Abdullahi" title="Shehu Abdullahi">Abdullahi</a></span></span></li>
+<li>13&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Samuel_Chukwueze" title="Samuel Chukwueze">Chukwueze</a></span></span></li>
+<li>14&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Paul_Onuachu" title="Paul Onuachu">Onuachu</a></span></span></li>
+<li>15&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Moses_Simon" title="Moses Simon">Simon</a></span></span></li>
+<li>16&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Daniel_Akpeyi" title="Daniel Akpeyi">Akpeyi</a></span></span></li>
+<li>17&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Samuel_Kalu" title="Samuel Kalu">Kalu</a></span></span></li>
+<li>18&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Alex_Iwobi" title="Alex Iwobi">Iwobi</a></span></span></li>
+<li>19&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/John_Ogu" title="John Ogu">Ogu</a></span></span></li>
+<li>20&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Chidozie_Awaziem" title="Chidozie Awaziem">Awaziem</a></span></span></li>
+<li>21&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Victor_Osimhen" title="Victor Osimhen">Osimhen</a></span></span></li>
+<li>22&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Kenneth_Omeruo" title="Kenneth Omeruo">Omeruo</a></span></span></li>
+<li>23&#160;<span class="vcard agent"><span class="fn"><a href="/wiki/Francis_Uzoho" title="Francis Uzoho">Uzoho</a></span></span></li>
+<li><span class="vcard agent">Coach:&#160;<span class="fn"><a href="/wiki/Gernot_Rohr" title="Gernot Rohr">Rohr</a></span></span></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><span class="flagicon"><a href="/wiki/Nigeria" title="Nigeria"><img alt="Nigeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/50px-Flag_of_Nigeria.svg.png" decoding="async" width="50" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/75px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/100px-Flag_of_Nigeria.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1403
+Cached time: 20210316151522
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [varyrevisionsha1]
+CPU time usage: 0.772 seconds
+Real time usage: 1.033 seconds
+Preprocessor visited node count: 5499/1000000
+Postexpand include size: 120041/2097152 bytes
+Template argument size: 9292/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip postexpand size: 97433/5000000 bytes
+Lua time usage: 0.340/10.000 seconds
+Lua memory usage: 10996778/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  913.176      1 -total
+ 30.16%  275.414      2 Template:Reflist
+ 26.59%  242.852      1 Template:Infobox_football_biography
+ 22.97%  209.778      1 Template:Infobox3cols
+ 17.97%  164.071     18 Template:Cite_web
+  8.78%   80.183      1 Template:English_football_updater
+  8.32%   75.957      1 Template:Short_description
+  6.89%   62.947      2 Template:National_squad
+  6.69%   61.134      1 Template:Nigeria_squad_2018_FIFA_World_Cup
+  6.11%   55.839      1 Template:Birth_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45277265-0!canonical and timestamp 20210316151521 and revision id 1012469973. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wilfred_Ndidi&amp;oldid=1012469973">https://en.wikipedia.org/w/index.php?title=Wilfred_Ndidi&amp;oldid=1012469973</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1996_births" title="Category:1996 births">1996 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Nigerian_footballers" title="Category:Nigerian footballers">Nigerian footballers</a></li><li><a href="/wiki/Category:Nigeria_international_footballers" title="Category:Nigeria international footballers">Nigeria international footballers</a></li><li><a href="/wiki/Category:Nigeria_under-20_international_footballers" title="Category:Nigeria under-20 international footballers">Nigeria under-20 international footballers</a></li><li><a href="/wiki/Category:Nigerian_expatriate_footballers" title="Category:Nigerian expatriate footballers">Nigerian expatriate footballers</a></li><li><a href="/wiki/Category:K.R.C._Genk_players" title="Category:K.R.C. Genk players">K.R.C. Genk players</a></li><li><a href="/wiki/Category:Leicester_City_F.C._players" title="Category:Leicester City F.C. players">Leicester City F.C. players</a></li><li><a href="/wiki/Category:Belgian_First_Division_A_players" title="Category:Belgian First Division A players">Belgian First Division A players</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_Belgium" title="Category:Expatriate footballers in Belgium">Expatriate footballers in Belgium</a></li><li><a href="/wiki/Category:Nigerian_expatriate_sportspeople_in_Belgium" title="Category:Nigerian expatriate sportspeople in Belgium">Nigerian expatriate sportspeople in Belgium</a></li><li><a href="/wiki/Category:Association_football_central_defenders" title="Category:Association football central defenders">Association football central defenders</a></li><li><a href="/wiki/Category:Association_football_midfielders" title="Category:Association football midfielders">Association football midfielders</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_England" title="Category:Expatriate footballers in England">Expatriate footballers in England</a></li><li><a href="/wiki/Category:Nigerian_expatriate_sportspeople_in_England" title="Category:Nigerian expatriate sportspeople in England">Nigerian expatriate sportspeople in England</a></li><li><a href="/wiki/Category:Premier_League_players" title="Category:Premier League players">Premier League players</a></li><li><a href="/wiki/Category:2018_FIFA_World_Cup_players" title="Category:2018 FIFA World Cup players">2018 FIFA World Cup players</a></li><li><a href="/wiki/Category:Sportspeople_from_Lagos" title="Category:Sportspeople from Lagos">Sportspeople from Lagos</a></li><li><a href="/wiki/Category:2019_Africa_Cup_of_Nations_players" title="Category:2019 Africa Cup of Nations players">2019 Africa Cup of Nations players</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2018" title="Category:Use dmy dates from June 2018">Use dmy dates from June 2018</a></li><li><a href="/wiki/Category:Pages_using_national_squad_without_sport_or_team_link" title="Category:Pages using national squad without sport or team link">Pages using national squad without sport or team link</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wilfred+Ndidi" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilfred+Ndidi" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Wilfred_Ndidi" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Wilfred_Ndidi" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Wilfred_Ndidi">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wilfred_Ndidi" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wilfred_Ndidi" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wilfred_Ndidi&amp;oldid=1012469973" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wilfred_Ndidi&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wilfred_Ndidi&amp;id=1012469973&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19587938" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wilfred_Ndidi&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wilfred_Ndidi&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wilfred_Ndidi" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%84%D9%81%D8%B1%D9%8A%D8%AF_%D9%86%D8%AF%D9%8A%D8%AF%D9%8A" title="  – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%D9%81%D8%B1%D8%AF_%D8%A7%D9%86%D8%AF%DB%8C%D8%AF%DB%8C" title="  – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%D9%81%D8%B1%D8%AF_%D8%A7%D9%86%D8%AF%DB%8C%D8%AF%DB%8C" title="  – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%8C%ED%94%84%EB%A0%88%EB%93%9C_%EC%9D%80%EB%94%94%EB%94%94" title="  – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D5%AC%D6%86%D6%80%D5%AB%D5%A4_%D5%86%D5%A4%D5%AB%D5%A4%D5%AB" title="  – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%9C%D7%A4%D7%A8%D7%93_%D7%A0%D7%93%D7%99%D7%93%D7%99" title="  – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vilfreds_Ndidi" title="Vilfreds Ndidi – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%88%D9%8A%D9%84%D9%81%D8%B1%D9%8A%D8%AF_%D9%86%D8%AF%D9%8A%D8%AF%D9%89" title="  – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%87%E3%82%A3%E3%83%87%E3%82%A3" title=" – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B4%D0%B8%D0%B4%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%84%D1%80%D0%B5%D0%B4" title=",  – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BB%D1%84%D1%80%D0%B5%D0%B4_%D0%9D%D0%B4%D1%96%D0%B4%D1%96" title="  – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Ting Vit</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Wilfred_Ndidi" title="Wilfred Ndidi – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9F%8B%E8%B2%BB%E7%89%B9%C2%B7%E5%B0%BC%E8%BF%AA%E8%BF%AA" title="· – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19587938#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 16 March 2021, at 15:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wilfred_Ndidi&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.772","walltime":"1.033","ppvisitednodes":{"value":5499,"limit":1000000},"postexpandincludesize":{"value":120041,"limit":2097152},"templateargumentsize":{"value":9292,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":97433,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  913.176      1 -total"," 30.16%  275.414      2 Template:Reflist"," 26.59%  242.852      1 Template:Infobox_football_biography"," 22.97%  209.778      1 Template:Infobox3cols"," 17.97%  164.071     18 Template:Cite_web","  8.78%   80.183      1 Template:English_football_updater","  8.32%   75.957      1 Template:Short_description","  6.89%   62.947      2 Template:National_squad","  6.69%   61.134      1 Template:Nigeria_squad_2018_FIFA_World_Cup","  6.11%   55.839      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.340","limit":"10.000"},"limitreport-memusage":{"value":10996778,"limit":52428800}},"cachereport":{"origin":"mw1403","timestamp":"20210316151522","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wilfred Ndidi","url":"https:\/\/en.wikipedia.org\/wiki\/Wilfred_Ndidi","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19587938","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19587938","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-02-01T21:10:08Z","dateModified":"2021-03-16T15:13:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/68\/Ndidi_20170114.jpg","headline":"Nigerian association football player"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1364"});});</script>
+</body></html>

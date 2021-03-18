@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Aymeric Laporte - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YE2osPofmg0nT0buySsmSAAAAIg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Aymeric_Laporte","wgTitle":"Aymeric Laporte","wgCurRevisionId":1011572820,"wgRevisionId":1011572820,"wgArticleId":37835680,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","CS1 French-language sources (fr)","Articles with short description","Short description is different from Wikidata","Use dmy dates from September 2019","Commons category link from Wikidata","Articles with French-language sources (fr)","1994 births","Living people",
+"Sportspeople from Agen","French footballers","France youth international footballers","France under-21 international footballers","Association football defenders","Aviron Bayonnais FC players","La Liga players","Segunda División B players","Tercera División players","CD Basconia footballers","Bilbao Athletic footballers","Athletic Bilbao footballers","Premier League players","Manchester City F.C. players","French expatriate footballers","Expatriate footballers in England","Expatriate footballers in Spain","French expatriate sportspeople in England","French expatriate sportspeople in Spain","French people of Basque descent"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Aymeric_Laporte","wgRelevantArticleId":37835680,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q3855340"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};
+RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/ba/Aymeric_Laporte%28cropped%29.jpg"/>
+<meta property="og:title" content="Aymeric Laporte"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Aymeric_Laporte"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aymeric_Laporte&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aymeric_Laporte&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aymeric_Laporte"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Aymeric_Laporte rootpage-Aymeric_Laporte skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Aymeric Laporte</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">French footballer</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em;line-height: 1.2em"><caption class="fn" style="line-height: 1.5em; text-align: center;">Aymeric Laporte</caption><tbody><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Aymeric_Laporte(cropped).jpg" class="image"><img alt="Aymeric Laporte(cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aymeric_Laporte%28cropped%29.jpg/200px-Aymeric_Laporte%28cropped%29.jpg" decoding="async" width="200" height="284" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aymeric_Laporte%28cropped%29.jpg/300px-Aymeric_Laporte%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/ba/Aymeric_Laporte%28cropped%29.jpg 2x" data-file-width="335" data-file-height="476" /></a><div>Laporte playing for <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a> in 2014</div></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Personal information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Full name</th><td colspan="3" class="nickname" style="white-space: nowrap; vertical-align: baseline">
+<span style="white-space:normal;">Aymeric Jean Louis Gérard Alphonse Laporte<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of birth</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<span style="display:none"> (<span class="bday">1994-05-27</span>) </span>27 May 1994<span class="noprint ForceAgeToShow"> (age&#160;26)</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of birth</th><td colspan="3" class="birthplace" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Agen" title="Agen">Agen</a>, France</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Height</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+1.91&#160;m (6&#160;ft 3&#160;in)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Position(s)</th><td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Centre-back" class="mw-redirect" title="Centre-back">Centre-back</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Club information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Current team</div></th><td colspan="3" class="org" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Number</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+14</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Youth career</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2000–2009</span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/SU_Agen_Football" title="SU Agen Football">SU Agen</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2009–2010</span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Aviron_Bayonnais_FC" title="Aviron Bayonnais FC">Bayonne</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2010–2011</span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Athletic_Bilbao_cantera" title="Athletic Bilbao cantera">Athletic Bilbao</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Senior career*</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Years</th><td style="white-space: nowrap; vertical-align: baseline">
+<b>Team</b></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+<b><abbr title="League appearances">Apps</abbr></b></td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+<b>(<abbr title="League goals">Gls</abbr>)</b></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2011–2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/CD_Basconia" title="CD Basconia">Basconia</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+33</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(2)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Bilbao_Athletic" class="mw-redirect" title="Bilbao Athletic">Bilbao Athletic</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+8</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2012–2018</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+161</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(7)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2018–</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+70</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(4)</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">National team</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2011</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/France_national_under-17_football_team" title="France national under-17 football team">France U17</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+11</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2011–2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/France_national_under-18_football_team" title="France national under-18 football team">France U18</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+9</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2012–2013</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/France_national_under-19_football_team" title="France national under-19 football team">France U19</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+12</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2013–2016</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/France_national_under-21_football_team" title="France national under-21 football team">France U21</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+19</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(1)</td></tr><tr><td colspan="4" style="text-align:center;color:darkslategray; font-size:95%">
+* Senior club appearances and goals counted for the domestic league only&#32;and correct as of 23:50, 10 March 2021 (UTC)</td></tr></tbody></table>
+<p><b>Aymeric Jean Louis Gérard Alphonse Laporte</b> (<small>French pronunciation:&#160;&#8203;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[mik lapt]</a></span>; born 27 May 1994) is a French professional <a href="/wiki/Association_football" title="Association football">footballer</a> who plays as a <a href="/wiki/Centre-back" class="mw-redirect" title="Centre-back">centre-back</a> for <a href="/wiki/Premier_League" title="Premier League">Premier League</a> club <a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>.
+</p><p>After joining <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a> in 2010 at the age of 16, he became only the second French player—after <a href="/wiki/Bixente_Lizarazu" title="Bixente Lizarazu">Bixente Lizarazu</a>—to play for them,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> going on to make 220 competitive appearances for the club and score ten goals. In January 2018, he signed for Manchester City.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He was part of the side which won the first <a href="/wiki/Treble_(association_football)" title="Treble (association football)">domestic treble</a> in English men’s football in 2019.
+</p><p>Laporte won 51 <a href="/wiki/Cap_(sport)" title="Cap (sport)">caps</a> for <a href="/wiki/France_national_youth_football_team" title="France national youth football team">France at youth level</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Club_career"><span class="tocnumber">1</span> <span class="toctext">Club career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Athletic_Bilbao"><span class="tocnumber">1.1</span> <span class="toctext">Athletic Bilbao</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Manchester_City"><span class="tocnumber">1.2</span> <span class="toctext">Manchester City</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#2017–18_season"><span class="tocnumber">1.2.1</span> <span class="toctext">2017–18 season</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#2018–19_season"><span class="tocnumber">1.2.2</span> <span class="toctext">2018–19 season</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#2019–20_season"><span class="tocnumber">1.2.3</span> <span class="toctext">2019–20 season</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#International_career"><span class="tocnumber">2</span> <span class="toctext">International career</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Style_of_play"><span class="tocnumber">3</span> <span class="toctext">Style of play</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Career_statistics"><span class="tocnumber">5</span> <span class="toctext">Career statistics</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Honours"><span class="tocnumber">6</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Club_career">Club career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=1" title="Edit section: Club career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Athletic_Bilbao">Athletic Bilbao</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=2" title="Edit section: Athletic Bilbao">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Laporte was born in <a href="/wiki/Agen" title="Agen">Agen</a>, Aquitaine and is of <a href="/wiki/Basques" title="Basques">Basque</a> descent through his great-grandparents.<sup id="cite_ref-Blood_6-0" class="reference"><a href="#cite_note-Blood-6">&#91;6&#93;</a></sup> He started playing football and <a href="/wiki/Rugby_football" title="Rugby football">rugby</a> at the age of five, and began his development at <a href="/wiki/SU_Agen_Football" title="SU Agen Football">SU Agen Football</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-Among_8-0" class="reference"><a href="#cite_note-Among-8">&#91;8&#93;</a></sup><sup id="cite_ref-Bio_9-0" class="reference"><a href="#cite_note-Bio-9">&#91;9&#93;</a></sup> In 2009 he was invited to join <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a> after being scouted;<sup id="cite_ref-Among_8-1" class="reference"><a href="#cite_note-Among-8">&#91;8&#93;</a></sup><sup id="cite_ref-Bio_9-1" class="reference"><a href="#cite_note-Bio-9">&#91;9&#93;</a></sup> by arrangement with the club, he spent a season with <a href="/wiki/Aviron_Bayonnais_FC" title="Aviron Bayonnais FC">Aviron Bayonnais FC</a><sup id="cite_ref-Bio_9-2" class="reference"><a href="#cite_note-Bio-9">&#91;9&#93;</a></sup><sup id="cite_ref-Butterflies_10-0" class="reference"><a href="#cite_note-Butterflies-10">&#91;10&#93;</a></sup> as he was too young to move outside France at the time.
+</p><p>Laporte arrived in <a href="/wiki/Bilbao" title="Bilbao">Bilbao</a> formally in 2010, joining Athletic's youth setup at <a href="/wiki/Lezama_Facilities" title="Lezama Facilities">Lezama</a>, prompting debate locally over whether his signing met the criteria of <a href="/wiki/Athletic_Bilbao_signing_policy" title="Athletic Bilbao signing policy">their policy</a> due to his tenuous links to the <a href="/wiki/Basque_Country_(greater_region)" title="Basque Country (greater region)">Basque region</a>.<sup id="cite_ref-Blood_6-1" class="reference"><a href="#cite_note-Blood-6">&#91;6&#93;</a></sup><sup id="cite_ref-Among_8-2" class="reference"><a href="#cite_note-Among-8">&#91;8&#93;</a></sup><sup id="cite_ref-Butterflies_10-1" class="reference"><a href="#cite_note-Butterflies-10">&#91;10&#93;</a></sup> He went on to play for the club's <a href="/wiki/CD_Basconia" title="CD Basconia">farm</a> and <a href="/wiki/Bilbao_Athletic" class="mw-redirect" title="Bilbao Athletic">reserve teams</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> On 28 November 2012 he was given his debut with the main squad by manager <a href="/wiki/Marcelo_Bielsa" title="Marcelo Bielsa">Marcelo Bielsa</a>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> playing the full 90 minutes in a 2–0 away win against <a href="/wiki/Hapoel_Ironi_Kiryat_Shmona_F.C." title="Hapoel Ironi Kiryat Shmona F.C.">Hapoel Ironi Kiryat Shmona F.C.</a> in <a href="/wiki/2012%E2%80%9313_UEFA_Europa_League" title="2012–13 UEFA Europa League">that season</a>'s <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Europa League</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Laporte made his first <a href="/wiki/La_Liga" title="La Liga">La Liga</a> appearance on 9 December 2012, appearing one minute in a 1–0 home win over <a href="/wiki/Celta_de_Vigo" class="mw-redirect" title="Celta de Vigo">Celta de Vigo</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> He was inserted in the starting XI the following week, helping the <i>Lions</i> to the same result at <a href="/wiki/RCD_Mallorca" title="RCD Mallorca">RCD Mallorca</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> and was definitely promoted to the first team shortly after, signing a new contract until 2015;<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> on 14 January 2013, he was given the number 4 jersey previously worn by <a href="/wiki/Ustaritz_Aldekoaotalora" title="Ustaritz Aldekoaotalora">Ustaritz</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> and late in the month he renewed his contract, running until 2016 and with a €27.5&#160;million release clause.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Laporte became an undisputed starter under new coach <a href="/wiki/Ernesto_Valverde" title="Ernesto Valverde">Ernesto Valverde</a>, also being deployed as <a href="/wiki/Defender_(association_football)#Full-back" title="Defender (association football)">left back</a> on occasion.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> He scored his first goal as a professional on 28 October 2013, netting the game's only at <a href="/wiki/Getafe_CF" title="Getafe CF">Getafe CF</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> At the end of <a href="/wiki/2013%E2%80%9314_La_Liga" title="2013–14 La Liga">the campaign</a>, he was voted into the <a href="/wiki/LFP_Awards#Team_of_the_Year" class="mw-redirect" title="LFP Awards">La Liga Team of the Year</a> by the reporters of the <a href="/wiki/Liga_de_F%C3%BAtbol_Profesional" class="mw-redirect" title="Liga de Fútbol Profesional">Liga de Fútbol Profesional</a>.<sup id="cite_ref-2014a_23-0" class="reference"><a href="#cite_note-2014a-23">&#91;23&#93;</a></sup><sup id="cite_ref-2014b_24-0" class="reference"><a href="#cite_note-2014b-24">&#91;24&#93;</a></sup>
+</p><p>In June 2015, Laporte extended his link until 2019 with a release clause of €50&#160;million.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> After <a href="/wiki/2015_Copa_del_Rey_Final" title="2015 Copa del Rey Final">losing the final</a> of the <a href="/wiki/Copa_del_Rey" title="Copa del Rey">Copa del Rey</a> to <a href="/wiki/FC_Barcelona" title="FC Barcelona">FC Barcelona</a>,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> he played both legs of <a href="/wiki/2015_Supercopa_de_Espa%C3%B1a" title="2015 Supercopa de España">the year</a>'s <a href="/wiki/Supercopa_de_Espa%C3%B1a" title="Supercopa de España">Supercopa de España</a> triumph against the same opposition, Athletic's first silverware for 31 years.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-SUPERCUP_28-0" class="reference"><a href="#cite_note-SUPERCUP-28">&#91;28&#93;</a></sup>
+</p><p>On 13 June 2016, Laporte renewed his contract until 2020, with his buyout clause rising to an initial €65&#160;million.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Manchester_City">Manchester City</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=3" title="Edit section: Manchester City">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Near the end of the winter transfer window of January 2018, Laporte signed for <a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a> for a reported fee of £57&#160;million (his contractual <a href="/wiki/Release_clause" class="mw-redirect" title="Release clause">release clause</a> amount and a record-breaking figure for both clubs). He was given the number 14 shirt,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> while Athletic immediately spent around half of the fee on <a href="/wiki/I%C3%B1igo_Mart%C3%ADnez" title="Iñigo Martínez">Iñigo Martínez</a> as a replacement.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h4><span id="2017.E2.80.9318_season"></span><span class="mw-headline" id="2017–18_season">2017–18 season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=4" title="Edit section: 2017–18 season">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Just one day after signing, Laporte made his Manchester City and <a href="/wiki/Premier_League" title="Premier League">Premier League</a> debut against <a href="/wiki/West_Bromwich_Albion_F.C." title="West Bromwich Albion F.C.">West Bromwich Albion</a>. City came out victorious winning 3–0 as they kept up their title charge.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p><p>He went on to make 13 appearances throughout the season for City, helping them accumulate an unprecedented 100 points in a Premier League season. He made a total of nine league appearances meaning he was eligible for a winner's medal.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<h4><span id="2018.E2.80.9319_season"></span><span class="mw-headline" id="2018–19_season">2018–19 season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=5" title="Edit section: 2018–19 season">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Laporte scored his first goal for City on 25 August 2018, equalising against <a href="/wiki/Wolverhampton_Wanderers_F.C." title="Wolverhampton Wanderers F.C.">Wolverhampton Wanderers</a> in a 1–1 away draw.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> He made 51 appearances during the 2018–19 season as the club completed the first domestic <a href="/wiki/Treble_(association_football)" title="Treble (association football)">treble</a> in English football history (<a href="/wiki/2018%E2%80%9319_Premier_League" title="2018–19 Premier League">Premier League</a>, <a href="/wiki/2018%E2%80%9319_FA_Cup" title="2018–19 FA Cup">FA Cup</a>, <a href="/wiki/2018%E2%80%9319_EFL_Cup" title="2018–19 EFL Cup">League Cup</a>, plus the <a href="/wiki/2018_FA_Community_Shield" title="2018 FA Community Shield">Community Shield</a>).<sup id="cite_ref-facup19_35-0" class="reference"><a href="#cite_note-facup19-35">&#91;35&#93;</a></sup> He scored five goals throughout the season, including an important goal on the final day of the Premier League campaign as City romped to victory over <a href="/wiki/Brighton_%26_Hove_Albion_F.C." title="Brighton &amp; Hove Albion F.C.">Brighton and Hove Albion</a> securing back-to-back league titles and the second of Laporte's career. Overall he played a total of 4,352 minutes.<sup id="cite_ref-sb1819_36-0" class="reference"><a href="#cite_note-sb1819-36">&#91;36&#93;</a></sup>
+</p>
+<h4><span id="2019.E2.80.9320_season"></span><span class="mw-headline" id="2019–20_season">2019–20 season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=6" title="Edit section: 2019–20 season">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On 31 August 2019, Laporte sustained an injury to his right knee, causing him to be  carried off on a stretcher.<sup id="cite_ref-knee19_37-0" class="reference"><a href="#cite_note-knee19-37">&#91;37&#93;</a></sup> He underwent surgery in September 2019.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="International_career">International career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=7" title="Edit section: International career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Laporte represented <a href="/wiki/France_national_football_team" title="France national football team">France</a> at <a href="/wiki/France_national_under-17_football_team" title="France national under-17 football team">under-17</a>, <a href="/wiki/France_national_under-18_football_team" title="France national under-18 football team">under-18</a>, <a href="/wiki/France_national_under-19_football_team" title="France national under-19 football team">under-19</a> and <a href="/wiki/France_national_under-21_football_team" title="France national under-21 football team">under-21 levels</a>,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> <a href="/wiki/Captain_(association_football)" title="Captain (association football)">captaining</a> each side.<sup id="cite_ref-Spain_40-0" class="reference"><a href="#cite_note-Spain-40">&#91;40&#93;</a></sup> He was part of the under-19 team that came runners-up to <a href="/wiki/Serbia_national_under-19_football_team" title="Serbia national under-19 football team">Serbia</a> in the <a href="/wiki/2013_UEFA_European_Under-19_Championship" title="2013 UEFA European Under-19 Championship">2013 UEFA European Championship</a> in Lithuania, and was selected in the Team of the Tournament.<sup id="cite_ref-UEFA_41-0" class="reference"><a href="#cite_note-UEFA-41">&#91;41&#93;</a></sup>
+</p><p>On 24 March 2016, in a <a href="/wiki/2017_UEFA_European_Under-21_Championship_qualification" title="2017 UEFA European Under-21 Championship qualification">2017 European Under-21 Championship qualifier</a> against <a href="/wiki/Scotland_national_under-21_football_team" title="Scotland national under-21 football team">Scotland</a> in <a href="/wiki/Angers" title="Angers">Angers</a>, Laporte was stretchered off with a fracture and dislocation to his right <a href="/wiki/Fibula" title="Fibula">fibula</a> and ankle, concluding his season prematurely.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> Previously, in October 2015, he stated that he would consider representing <a href="/wiki/Spain_national_football_team" title="Spain national football team">Spain</a> if rejected by France for <a href="/wiki/UEFA_Euro_2016" title="UEFA Euro 2016">UEFA Euro 2016</a>.<sup id="cite_ref-Spain_40-1" class="reference"><a href="#cite_note-Spain-40">&#91;40&#93;</a></sup>
+</p><p>In August 2016, at the behest of new national manager <a href="/wiki/Julen_Lopetegui" title="Julen Lopetegui">Julen Lopetegui</a>, Laporte began the process of making himself eligible for Spain.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> A month later, he was called up to the senior France squad for <a href="/wiki/2018_FIFA_World_Cup_qualification_(UEFA)" title="2018 FIFA World Cup qualification (UEFA)">2018 World Cup qualifiers</a> against <a href="/wiki/Bulgaria_national_football_team" title="Bulgaria national football team">Bulgaria</a> and the <a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a> in October,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> and stated he had decided not to apply for Spanish nationality with the continued aim of playing for France.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> He did not take part in either match.
+</p><p>In August 2019, he was called up for France's <a href="/wiki/UEFA_Euro_2020_qualifying_Group_H" title="UEFA Euro 2020 qualifying Group H">Euro 2020 qualifying</a> fixtures against <a href="/wiki/Albania_national_football_team" title="Albania national football team">Albania</a> and <a href="/wiki/Andorra_national_football_team" title="Andorra national football team">Andorra</a>;<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup> however just two days later he was injured playing for his club and ruled out of any involvement.<sup id="cite_ref-knee19_37-1" class="reference"><a href="#cite_note-knee19-37">&#91;37&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Style_of_play">Style of play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=8" title="Edit section: Style of play">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Spanish football journalist <a href="/wiki/Guillem_Balagu%C3%A9" title="Guillem Balagué">Guillem Balagué</a> described Laporte as a "centre-back who can play from the back and is strong", adding that "he is certainly a powerful defender".<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=9" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aymeric's brother Léo is also a footballer who plays for <a href="/wiki/Deportivo_Alav%C3%A9s" title="Deportivo Alavés">Deportivo Alavés</a>.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career_statistics">Career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=10" title="Edit section: Career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>As of match played 10 March 2021.</i></dd></dl>
+<table class="wikitable" style="text-align:center">
+<caption>Appearances and goals by club, season and competition
+</caption>
+<tbody><tr>
+<th rowspan="2">Club
+</th>
+<th rowspan="2">Season
+</th>
+<th colspan="3">League
+</th>
+<th colspan="2">National Cup<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;a&#93;</a></sup>
+</th>
+<th colspan="2">League Cup<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;b&#93;</a></sup>
+</th>
+<th colspan="2">Europe
+</th>
+<th colspan="2">Other
+</th>
+<th colspan="2">Total
+</th></tr>
+<tr>
+<th>Division</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals
+</th></tr>
+<tr>
+<td><a href="/wiki/CD_Basconia" title="CD Basconia">Basconia</a>
+</td>
+<td><a href="/wiki/2011%E2%80%9312_Tercera_Divisi%C3%B3n" title="2011–12 Tercera División">2011–12</a><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;49&#93;</a></sup>
+</td>
+<td><a href="/wiki/Tercera_Divisi%C3%B3n" title="Tercera División">Tercera División</a>
+</td>
+<td>33</td>
+<td>2</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>33</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/Bilbao_Athletic" class="mw-redirect" title="Bilbao Athletic">Bilbao Athletic</a>
+</td>
+<td><a href="/wiki/2012%E2%80%9313_Segunda_Divisi%C3%B3n_B" title="2012–13 Segunda División B">2012–13</a><sup id="cite_ref-BD1213_52-0" class="reference"><a href="#cite_note-BD1213-52">&#91;50&#93;</a></sup>
+</td>
+<td><a href="/wiki/Segunda_Divisi%C3%B3n_B" title="Segunda División B">Segunda División B</a>
+</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>0
+</td></tr>
+<tr>
+<td rowspan="7"><a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a>
+</td>
+<td><a href="/wiki/2012%E2%80%9313_Athletic_Bilbao_season" title="2012–13 Athletic Bilbao season">2012–13</a><sup id="cite_ref-BD1213_52-1" class="reference"><a href="#cite_note-BD1213-52">&#91;50&#93;</a></sup>
+</td>
+<td><a href="/wiki/La_Liga" title="La Liga">La Liga</a>
+</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>2<sup id="cite_ref-UEL_53-0" class="reference"><a href="#cite_note-UEL-53">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>17</td>
+<td>0
+</td></tr>
+<tr>
+<td><a href="/wiki/2013%E2%80%9314_Athletic_Bilbao_season" title="2013–14 Athletic Bilbao season">2013–14</a><sup id="cite_ref-BD1314_54-0" class="reference"><a href="#cite_note-BD1314-54">&#91;51&#93;</a></sup>
+</td>
+<td>La Liga
+</td>
+<td>35</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>38</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/2014%E2%80%9315_Athletic_Bilbao_season" title="2014–15 Athletic Bilbao season">2014–15</a><sup id="cite_ref-BD1415_55-0" class="reference"><a href="#cite_note-BD1415-55">&#91;52&#93;</a></sup>
+</td>
+<td>La Liga
+</td>
+<td>33</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>9<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;d&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>49</td>
+<td>0
+</td></tr>
+<tr>
+<td><a href="/wiki/2015%E2%80%9316_Athletic_Bilbao_season" title="2015–16 Athletic Bilbao season">2015–16</a><sup id="cite_ref-BD1516_57-0" class="reference"><a href="#cite_note-BD1516-57">&#91;53&#93;</a></sup>
+</td>
+<td>La Liga
+</td>
+<td>26</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+<td colspan="2">—</td>
+<td>12<sup id="cite_ref-UEL_53-1" class="reference"><a href="#cite_note-UEL-53">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td>2<sup id="cite_ref-SDE_58-0" class="reference"><a href="#cite_note-SDE-58">&#91;e&#93;</a></sup></td>
+<td>0</td>
+<td>45</td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/wiki/2016%E2%80%9317_Athletic_Bilbao_season" title="2016–17 Athletic Bilbao season">2016–17</a><sup id="cite_ref-BD1617_59-0" class="reference"><a href="#cite_note-BD1617-59">&#91;54&#93;</a></sup>
+</td>
+<td>La Liga
+</td>
+<td>33</td>
+<td>2</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>6<sup id="cite_ref-UEL_53-2" class="reference"><a href="#cite_note-UEL-53">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>43</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/wiki/2017%E2%80%9318_Athletic_Bilbao_season" title="2017–18 Athletic Bilbao season">2017–18</a><sup id="cite_ref-BD1718_60-0" class="reference"><a href="#cite_note-BD1718-60">&#91;55&#93;</a></sup>
+</td>
+<td>La Liga
+</td>
+<td>19</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>10<sup id="cite_ref-UEL_53-3" class="reference"><a href="#cite_note-UEL-53">&#91;c&#93;</a></sup></td>
+<td>1</td>
+<td colspan="2">—</td>
+<td>30</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>161</th>
+<th>7</th>
+<th>20</th>
+<th>2</th>
+<th colspan="2">—</th>
+<th>39</th>
+<th>1</th>
+<th>2</th>
+<th>0</th>
+<th>222</th>
+<th>10
+</th></tr>
+<tr>
+<td rowspan="5"><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C.">Manchester City</a>
+</td>
+<td><a href="/wiki/2017%E2%80%9318_Manchester_City_F.C._season" title="2017–18 Manchester City F.C. season">2017–18</a><sup id="cite_ref-sb1718_61-0" class="reference"><a href="#cite_note-sb1718-61">&#91;56&#93;</a></sup>
+</td>
+<td><a href="/wiki/Premier_League" title="Premier League">Premier League</a>
+</td>
+<td>9</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>3<sup id="cite_ref-UCL_62-0" class="reference"><a href="#cite_note-UCL-62">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>13</td>
+<td>0
+</td></tr>
+<tr>
+<td><a href="/wiki/2018%E2%80%9319_Manchester_City_F.C._season" title="2018–19 Manchester City F.C. season">2018–19</a><sup id="cite_ref-sb1819_36-1" class="reference"><a href="#cite_note-sb1819-36">&#91;36&#93;</a></sup>
+</td>
+<td>Premier League
+</td>
+<td>35</td>
+<td>3</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>10<sup id="cite_ref-UCL_62-1" class="reference"><a href="#cite_note-UCL-62">&#91;f&#93;</a></sup></td>
+<td>2</td>
+<td>1<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;g&#93;</a></sup></td>
+<td>0</td>
+<td>51</td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/wiki/2019%E2%80%9320_Manchester_City_F.C._season" title="2019–20 Manchester City F.C. season">2019–20</a><sup id="cite_ref-sb1920_64-0" class="reference"><a href="#cite_note-sb1920-64">&#91;57&#93;</a></sup>
+</td>
+<td>Premier League
+</td>
+<td>15</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>3<sup id="cite_ref-UCL_62-2" class="reference"><a href="#cite_note-UCL-62">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/2020%E2%80%9321_Manchester_City_F.C._season" title="2020–21 Manchester City F.C. season">2020–21</a><sup id="cite_ref-sb2021_65-0" class="reference"><a href="#cite_note-sb2021-65">&#91;58&#93;</a></sup>
+</td>
+<td>Premier League
+</td>
+<td>11</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>3<sup id="cite_ref-UCL_62-3" class="reference"><a href="#cite_note-UCL-62">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>18</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>70</th>
+<th>4</th>
+<th>9</th>
+<th>0</th>
+<th>3</th>
+<th>1</th>
+<th>19</th>
+<th>2</th>
+<th>1</th>
+<th>0</th>
+<th>102</th>
+<th>7
+</th></tr>
+<tr>
+<th colspan="3">Career total
+</th>
+<th>272</th>
+<th>13</th>
+<th>29</th>
+<th>2</th>
+<th>3</th>
+<th>1</th>
+<th>58</th>
+<th>3</th>
+<th>3</th>
+<th>0</th>
+<th>365</th>
+<th>19
+</th></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Includes <a href="/wiki/Copa_del_Rey" title="Copa del Rey">Copa del Rey</a> and <a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text">Includes <a href="/wiki/EFL_Cup" title="EFL Cup">EFL Cup</a></span>
+</li>
+<li id="cite_note-UEL-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-UEL_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UEL_53-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UEL_53-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-UEL_53-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Appearance(s) in <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Europa League</a></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text">Seven appearances in <a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">UEFA Champions League</a>, two appearances in UEFA Europa League</span>
+</li>
+<li id="cite_note-SDE-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-SDE_58-0">^</a></b></span> <span class="reference-text">Appearance(s) in <a href="/wiki/Supercopa_de_Espa%C3%B1a" title="Supercopa de España">Supercopa de España</a></span>
+</li>
+<li id="cite_note-UCL-62"><span class="mw-cite-backlink">^ <a href="#cite_ref-UCL_62-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UCL_62-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UCL_62-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-UCL_62-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Appearance(s) in UEFA Champions League</span>
+</li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">Appearance in <a href="/wiki/FA_Community_Shield" title="FA Community Shield">FA Community Shield</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=11" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Athletic Bilbao</b>
+</p>
+<ul><li><a href="/wiki/Supercopa_de_Espa%C3%B1a" title="Supercopa de España">Supercopa de España</a>: <a href="/wiki/2015_Supercopa_de_Espa%C3%B1a" title="2015 Supercopa de España">2015</a><sup id="cite_ref-SUPERCUP_28-1" class="reference"><a href="#cite_note-SUPERCUP-28">&#91;28&#93;</a></sup></li></ul>
+<p><b>Manchester City</b>
+</p>
+<ul><li><a href="/wiki/Premier_League" title="Premier League">Premier League</a>: <a href="/wiki/2017%E2%80%9318_Premier_League" title="2017–18 Premier League">2017–18</a>, <a href="/wiki/2018%E2%80%9319_Premier_League" title="2018–19 Premier League">2018–19</a><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;59&#93;</a></sup></li>
+<li><a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a>: <a href="/wiki/2018%E2%80%9319_FA_Cup" title="2018–19 FA Cup">2018–19</a><sup id="cite_ref-facup19_35-1" class="reference"><a href="#cite_note-facup19-35">&#91;35&#93;</a></sup></li>
+<li><a href="/wiki/EFL_Cup" title="EFL Cup">EFL Cup</a>: <a href="/wiki/2017%E2%80%9318_EFL_Cup" title="2017–18 EFL Cup">2017–18</a>,<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">&#91;60&#93;</a></sup> <a href="/wiki/2018%E2%80%9319_EFL_Cup" title="2018–19 EFL Cup">2018–19</a><sup id="cite_ref-68" class="reference"><a href="#cite_note-68">&#91;61&#93;</a></sup></li>
+<li><a href="/wiki/FA_Community_Shield" title="FA Community Shield">FA Community Shield</a>: <a href="/wiki/2018_FA_Community_Shield" title="2018 FA Community Shield">2018</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">&#91;62&#93;</a></sup></li></ul>
+<p><b>France U19</b>
+</p>
+<ul><li><a href="/wiki/UEFA_European_Under-19_Championship" title="UEFA European Under-19 Championship">UEFA European Under-19 Championship</a> runner-up: <a href="/wiki/2013_UEFA_European_Under-19_Championship" title="2013 UEFA European Under-19 Championship">2013</a><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">&#91;63&#93;</a></sup></li></ul>
+<p><b>Individual</b>
+</p>
+<ul><li><a href="/wiki/UEFA_European_Under-19_Championship" title="UEFA European Under-19 Championship">UEFA European Under-19 Championship</a> Team of the Tournament: <a href="/wiki/2013_UEFA_European_Under-19_Championship#Team_of_the_Tournament" title="2013 UEFA European Under-19 Championship">2013</a><sup id="cite_ref-UEFA_41-1" class="reference"><a href="#cite_note-UEFA-41">&#91;41&#93;</a></sup></li>
+<li><a href="/wiki/LFP_Awards#Team_of_the_Year" class="mw-redirect" title="LFP Awards">La Liga Team of the Year</a>: <a href="/wiki/2013%E2%80%9314_La_Liga" title="2013–14 La Liga">2013–14</a><sup id="cite_ref-2014a_23-1" class="reference"><a href="#cite_note-2014a-23">&#91;23&#93;</a></sup><sup id="cite_ref-2014b_24-1" class="reference"><a href="#cite_note-2014b-24">&#91;24&#93;</a></sup></li>
+<li><a href="/wiki/PFA_Team_of_the_Year" title="PFA Team of the Year">PFA Team of the Year</a>: <a href="/wiki/PFA_Team_of_the_Year_(2010s)#Premier_League_10" title="PFA Team of the Year (2010s)">2018–19 Premier League</a><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">&#91;64&#93;</a></sup></li>
+<li><a href="/wiki/FIFPro#FIFA_FIFPro_Men&#39;s_World11" title="FIFPro">FIFA FIFPro World11</a> nominee: <a href="/wiki/The_Best_FIFA_Football_Awards_2019#FIFA_FIFPro_Men&#39;s_World11" title="The Best FIFA Football Awards 2019">2019</a> (17th defender)<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;65&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/january-2018.ashx">"List of Players under Written Contract Registered Between 01/01/2018 and 31/01/2018"</a>. <a href="/wiki/The_Football_Association" title="The Football Association">The Football Association</a>. p.&#160;5<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=List+of+Players+under+Written+Contract+Registered+Between+01%2F01%2F2018+and+31%2F01%2F2018&amp;rft.pages=5&amp;rft.pub=The+Football+Association&amp;rft_id=https%3A%2F%2Fwww.thefa.com%2F-%2Fmedia%2Ffiles%2Fthefaportal%2Fgovernance-docs%2Fregistrations%2Fjanuary-2018.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.11v11.com/players/aymeric-laporte-254251/">"Aymeric Laporte"</a>. <i>11v11.com</i>. AFS Enterprises<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=11v11.com&amp;rft.atitle=Aymeric+Laporte&amp;rft_id=https%3A%2F%2Fwww.11v11.com%2Fplayers%2Faymeric-laporte-254251%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://uk.soccerway.com/players/aymeric--laporte/182904/">"A. Laporte: Summary"</a>. <i>Soccerway</i>. Perform Group<span class="reference-accessdate">. Retrieved <span class="nowrap">17 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerway&amp;rft.atitle=A.+Laporte%3A+Summary&amp;rft_id=https%3A%2F%2Fuk.soccerway.com%2Fplayers%2Faymeric--laporte%2F182904%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://msn.foxsports.com/foxsoccer/europaleague/story/apoel-kiryat-shmona-0-2-athletic-bilbao-europa-league-match-report-112812h">"Athletic Bilbao makes easy work of Hapoel IKS"</a>. <a href="/wiki/Fox_Sports" title="Fox Sports">Fox Sports</a>. 29 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Athletic+Bilbao+makes+easy+work+of+Hapoel+IKS&amp;rft.pub=Fox+Sports&amp;rft.date=2012-11-29&amp;rft_id=http%3A%2F%2Fmsn.foxsports.com%2Ffoxsoccer%2Feuropaleague%2Fstory%2Fapoel-kiryat-shmona-0-2-athletic-bilbao-europa-league-match-report-112812h&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.abc.es/deportes/futbol/abci-laporte-posa-como-jugador-5722453230001-20180130015032_video.html">"Laporte ya posa como jugador del Manchester City"</a> &#91;Laporte already posing as a Manchester City player&#93;. <i><a href="/wiki/ABC_(newspaper)" title="ABC (newspaper)">ABC</a></i> (in Spanish). Madrid. 30 January 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ABC&amp;rft.atitle=Laporte+ya+posa+como+jugador+del+Manchester+City&amp;rft.date=2018-01-30&amp;rft_id=http%3A%2F%2Fwww.abc.es%2Fdeportes%2Ffutbol%2Fabci-laporte-posa-como-jugador-5722453230001-20180130015032_video.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Blood-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blood_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blood_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBeltrán2013" class="citation web cs1">Beltrán, Javi (25 July 2013). <a rel="nofollow" class="external text" href="http://bizkaia.eldesmarque.com/athletic-club/noticias/36668-laporte-tengo-sangre-vasca-por-parte-de-mis-bisabuelos">"Laporte: "Tengo sangre vasca por parte de mis bisabuelos<span class="cs1-kern-right">"</span>"</a> &#91;Laporte: "I have Basque blood through my great-grandparents"&#93; (in Spanish). El Desmarque<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+%22Tengo+sangre+vasca+por+parte+de+mis+bisabuelos%22&amp;rft.pub=El+Desmarque&amp;rft.date=2013-07-25&amp;rft.aulast=Beltr%C3%A1n&amp;rft.aufirst=Javi&amp;rft_id=http%3A%2F%2Fbizkaia.eldesmarque.com%2Fathletic-club%2Fnoticias%2F36668-laporte-tengo-sangre-vasca-por-parte-de-mis-bisabuelos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFKarouri2012" class="citation web cs1">Karouri, Khaled (4 November 2012). <a rel="nofollow" class="external text" href="https://www.footmercato.net/liga/entretien-avec-aymeric-laporte-s-entrainer-avec-fernando-llorente-ce-n-est-pas-donne-a-tout-le_94518">"Entretien avec... Aymeric Laporte"</a> &#91;Interview with... Aymeric Laporte&#93;. <i>Foot Mercato</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Foot+Mercato&amp;rft.atitle=Entretien+avec...+Aymeric+Laporte&amp;rft.date=2012-11-04&amp;rft.aulast=Karouri&amp;rft.aufirst=Khaled&amp;rft_id=http%3A%2F%2Fwww.footmercato.net%2Fliga%2Fentretien-avec-aymeric-laporte-s-entrainer-avec-fernando-llorente-ce-n-est-pas-donne-a-tout-le_94518&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Among-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Among_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Among_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Among_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303203653/http://onlyfootball.fr/?p=513">"Aymeric Laporte, un Basque parmi les Basques"</a> &#91;Aymeric Laporte, a Basque among the Basques&#93;. <i>Only Football</i> (in French). 14 May 2013. Archived from <a rel="nofollow" class="external text" href="http://onlyfootball.fr/?p=513">the original</a> on 3 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Only+Football&amp;rft.atitle=Aymeric+Laporte%2C+un+Basque+parmi+les+Basques&amp;rft.date=2013-05-14&amp;rft_id=http%3A%2F%2Fonlyfootball.fr%2F%3Fp%3D513&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bio-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bio_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bio_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bio_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171028201223/http://www.aymericlaporte.com/en/bio/">"Biography – Athletic Bilbao signing and beginnings"</a>. Official website. Archived from <a rel="nofollow" class="external text" href="http://www.aymericlaporte.com/en/bio/">the original</a> on 28 October 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biography+%E2%80%93+Athletic+Bilbao+signing+and+beginnings&amp;rft.pub=Official+website&amp;rft_id=http%3A%2F%2Fwww.aymericlaporte.com%2Fen%2Fbio%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Butterflies-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Butterflies_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Butterflies_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.sofoot.com/aymeric-laporte-a-arrete-de-regarder-les-papillons-173450.html">"Aymeric Laporte a "arrêté de regarder les papillons<span class="cs1-kern-right">"</span>"</a> &#91;Aymeric Laporte "stopped watching the butterflies"&#93;. <i>So Foot</i> (in French). 26 September 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=So+Foot&amp;rft.atitle=Aymeric+Laporte+a+%22arr%C3%AAt%C3%A9+de+regarder+les+papillons%22&amp;rft.date=2013-09-26&amp;rft_id=http%3A%2F%2Fwww.sofoot.com%2Faymeric-laporte-a-arrete-de-regarder-les-papillons-173450.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFRodríguez2012" class="citation news cs1">Rodríguez, Roberto (28 April 2012). <a rel="nofollow" class="external text" href="http://www.lavanguardia.com/deportes/20120428/54286365543/aymeric-laporte-cachorro-valioso.html">"Aymeric Laporte, el cachorro más valioso"</a> &#91;Aymeric Laporte, most valuable pup&#93;. <i><a href="/wiki/La_Vanguardia" title="La Vanguardia">La Vanguardia</a></i> (in Spanish). Barcelona<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=La+Vanguardia&amp;rft.atitle=Aymeric+Laporte%2C+el+cachorro+m%C3%A1s+valioso&amp;rft.date=2012-04-28&amp;rft.aulast=Rodr%C3%ADguez&amp;rft.aufirst=Roberto&amp;rft_id=http%3A%2F%2Fwww.lavanguardia.com%2Fdeportes%2F20120428%2F54286365543%2Faymeric-laporte-cachorro-valioso.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://sport.sfr.fr/football/premier-league/de-bielsa-a-guardiola-laporte-raconte-ses-mentors.html">"De Bielsa à Guardiola: Laporte raconte ses mentors"</a> &#91;From Bielsa to Guardiola: Laporte tells his mentors&#93; (in French). <a href="/wiki/SFR" title="SFR">SFR</a>. 25 February 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=De+Bielsa+%C3%A0+Guardiola%3A+Laporte+raconte+ses+mentors&amp;rft.pub=SFR&amp;rft.date=2018-02-25&amp;rft_id=https%3A%2F%2Fsport.sfr.fr%2Ffootball%2Fpremier-league%2Fde-bielsa-a-guardiola-laporte-raconte-ses-mentors.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000356/match=2010004/index.html">"Athletic post comfortable Kiryat Shmona win"</a>. UEFA. 28 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Athletic+post+comfortable+Kiryat+Shmona+win&amp;rft.pub=UEFA&amp;rft.date=2012-11-28&amp;rft_id=http%3A%2F%2Fwww.uefa.com%2Fuefaeuropaleague%2Fseason%3D2013%2Fmatches%2Fround%3D2000356%2Fmatch%3D2010004%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMelero2012" class="citation news cs1">Melero, Delfín (9 December 2012). <a rel="nofollow" class="external text" href="http://www.marca.com/eventos/marcador/futbol/2012_13/primera/jornada_15/ath_cel/">"El Athletic tiene suficiente con Aduriz"</a> &#91;Athletic have enough with Aduriz&#93;. <i><a href="/wiki/Marca_(newspaper)" title="Marca (newspaper)">Marca</a></i> (in Spanish). Madrid<span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marca&amp;rft.atitle=El+Athletic+tiene+suficiente+con+Aduriz&amp;rft.date=2012-12-09&amp;rft.aulast=Melero&amp;rft.aufirst=Delf%C3%ADn&amp;rft_id=http%3A%2F%2Fwww.marca.com%2Feventos%2Fmarcador%2Ffutbol%2F2012_13%2Fprimera%2Fjornada_15%2Fath_cel%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://espnfc.com/uk/en/report/348361/report.html?soccernet=true&amp;cc=5739">"Aduriz wins it for Bilbao"</a>. <a href="/wiki/ESPN_FC" title="ESPN FC">ESPN Soccernet</a>. 15 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aduriz+wins+it+for+Bilbao&amp;rft.pub=ESPN+Soccernet&amp;rft.date=2012-12-15&amp;rft_id=http%3A%2F%2Fespnfc.com%2Fuk%2Fen%2Freport%2F348361%2Freport.html%3Fsoccernet%3Dtrue%26cc%3D5739&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.athletic-club.eus/cas/noticias/12731/laporte-jugador-de-la-primera-plantilla.html">"Laporte, jugador de la primera plantilla"</a> &#91;Laporte, first-team player&#93; (in Spanish). Athletic Bilbao. 17 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">21 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%2C+jugador+de+la+primera+plantilla&amp;rft.pub=Athletic+Bilbao&amp;rft.date=2012-12-17&amp;rft_id=http%3A%2F%2Fwww.athletic-club.eus%2Fcas%2Fnoticias%2F12731%2Flaporte-jugador-de-la-primera-plantilla.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.athletic-club.eus/cas/noticias/12779/dorsal-de-aymeric-laporte.html">"Dorsal de Aymeric Laporte"</a> &#91;Aymeric Laporte's number&#93; (in Spanish). Athletic Bilbao. 14 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">21 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dorsal+de+Aymeric+Laporte&amp;rft.pub=Athletic+Bilbao&amp;rft.date=2013-01-14&amp;rft_id=http%3A%2F%2Fwww.athletic-club.eus%2Fcas%2Fnoticias%2F12779%2Fdorsal-de-aymeric-laporte.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBeato2013" class="citation news cs1">Beato, Rafa (28 January 2013). <a rel="nofollow" class="external text" href="http://www.marca.com/2013/01/28/futbol/equipos/athletic/1359380216.html">"Laporte renueva hasta 2016"</a> &#91;Laporte renews until 2016&#93;. <i>Marca</i> (in Spanish). Madrid<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marca&amp;rft.atitle=Laporte+renueva+hasta+2016&amp;rft.date=2013-01-28&amp;rft.aulast=Beato&amp;rft.aufirst=Rafa&amp;rft_id=http%3A%2F%2Fwww.marca.com%2F2013%2F01%2F28%2Ffutbol%2Fequipos%2Fathletic%2F1359380216.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.is/20131212163520/http://www.ligabbva.es/3228_athletic-de-bilbao/2160744_valverde-prueba-a-laporte-de-lateral-y-saborit-de-interior.html">"Valverde prueba a Laporte de lateral y Saborit de interior"</a> &#91;Valverde tries Laporte as fullback and Saborit as winger&#93; (in Spanish). Liga BBVA. 6 August 2013. Archived from <a rel="nofollow" class="external text" href="http://www.ligabbva.es/3228_athletic-de-bilbao/2160744_valverde-prueba-a-laporte-de-lateral-y-saborit-de-interior.html">the original</a> on 12 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Valverde+prueba+a+Laporte+de+lateral+y+Saborit+de+interior&amp;rft.pub=Liga+BBVA&amp;rft.date=2013-08-06&amp;rft_id=http%3A%2F%2Fwww.ligabbva.es%2F3228_athletic-de-bilbao%2F2160744_valverde-prueba-a-laporte-de-lateral-y-saborit-de-interior.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFUriarte2013" class="citation news cs1">Uriarte, M. (3 October 2013). <a rel="nofollow" class="external text" href="http://www.marca.com/2013/10/03/futbol/equipos/athletic/1380786727.html">"Charla de Valverde con Laporte"</a> &#91;Valverde lectures Laporte&#93;. <i>Marca</i> (in Spanish). Madrid<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marca&amp;rft.atitle=Charla+de+Valverde+con+Laporte&amp;rft.date=2013-10-03&amp;rft.aulast=Uriarte&amp;rft.aufirst=M.&amp;rft_id=http%3A%2F%2Fwww.marca.com%2F2013%2F10%2F03%2Ffutbol%2Fequipos%2Fathletic%2F1380786727.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGarcía2013" class="citation news cs1">García, Alberto (7 December 2013). <a rel="nofollow" class="external text" href="http://www.mundodeportivo.com/20131207/athletic-bilbao/un-descanso-para-laporte-y-entran-aduriz-moran-y-etxeita_54395264363.html">"Un descanso para Laporte y entran Aduriz, Morán y Etxeita"</a> &#91;Rest for Laporte, in with Aduriz, Morán and Etxeita&#93;. <i><a href="/wiki/Mundo_Deportivo" title="Mundo Deportivo">Mundo Deportivo</a></i> (in Spanish). Barcelona<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mundo+Deportivo&amp;rft.atitle=Un+descanso+para+Laporte+y+entran+Aduriz%2C+Mor%C3%A1n+y+Etxeita&amp;rft.date=2013-12-07&amp;rft.aulast=Garc%C3%ADa&amp;rft.aufirst=Alberto&amp;rft_id=http%3A%2F%2Fwww.mundodeportivo.com%2F20131207%2Fathletic-bilbao%2Fun-descanso-para-laporte-y-entran-aduriz-moran-y-etxeita_54395264363.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131207132838/http://espnfc.com/en/report/373118/report.html?soccernet=true&amp;cc=null">"Laporte earns win for Bilbao"</a>. ESPN FC. 28 October 2013. Archived from <a rel="nofollow" class="external text" href="http://espnfc.com/en/report/373118/report.html?soccernet=true&amp;cc=null">the original</a> on 7 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte+earns+win+for+Bilbao&amp;rft.pub=ESPN+FC&amp;rft.date=2013-10-28&amp;rft_id=http%3A%2F%2Fespnfc.com%2Fen%2Freport%2F373118%2Freport.html%3Fsoccernet%3Dtrue%26cc%3Dnull&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2014a-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-2014a_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2014a_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181205133841/https://www.laliga.es/en/news/the-liga-bbva-team-of-the-season">"The Liga BBVA team of the season"</a>. <a href="/wiki/La_Liga" title="La Liga">La Liga</a>. 19 May 2014. Archived from <a rel="nofollow" class="external text" href="http://www.laliga.es/en/news/the-liga-bbva-team-of-the-season">the original</a> on 5 December 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Liga+BBVA+team+of+the+season&amp;rft.pub=La+Liga&amp;rft.date=2014-05-19&amp;rft_id=http%3A%2F%2Fwww.laliga.es%2Fen%2Fnews%2Fthe-liga-bbva-team-of-the-season&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2014b-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-2014b_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2014b_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFChesters2014" class="citation web cs1">Chesters, Heath (19 May 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160130072042/http://www.insidespanishfootball.com/108784/lfp-reporters-choose-their-la-liga-ideal-eleven-for-2013-14/">"LFP reporters choose their La Liga 'Ideal Eleven' for 2013–14"</a>. Inside Spanish Football. Archived from <a rel="nofollow" class="external text" href="http://www.insidespanishfootball.com/108784/lfp-reporters-choose-their-la-liga-ideal-eleven-for-2013-14/">the original</a> on 30 January 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=LFP+reporters+choose+their+La+Liga+%27Ideal+Eleven%27+for+2013%E2%80%9314&amp;rft.pub=Inside+Spanish+Football&amp;rft.date=2014-05-19&amp;rft.aulast=Chesters&amp;rft.aufirst=Heath&amp;rft_id=http%3A%2F%2Fwww.insidespanishfootball.com%2F108784%2Flfp-reporters-choose-their-la-liga-ideal-eleven-for-2013-14%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.com/athletic-bilbao/story/2480397/aymeric-laporte-signs-four-year-athletic-bilbao-deal">"Aymeric Laporte signs four-year deal to remain at Athletic Bilbao"</a>. ESPN FC. 5 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aymeric+Laporte+signs+four-year+deal+to+remain+at+Athletic+Bilbao&amp;rft.pub=ESPN+FC&amp;rft.date=2015-06-05&amp;rft_id=http%3A%2F%2Fwww.espnfc.com%2Fathletic-bilbao%2Fstory%2F2480397%2Faymeric-laporte-signs-four-year-athletic-bilbao-deal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFLowe2015" class="citation news cs1">Lowe, Sid (30 May 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/football/2015/may/30/athletic-bilbao-barcelona-copa-del-rey-final-match-report">"Lionel Messi double gives Barcelona Cup final win over Athletic Bilbao"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Lionel+Messi+double+gives+Barcelona+Cup+final+win+over+Athletic+Bilbao&amp;rft.date=2015-05-30&amp;rft.aulast=Lowe&amp;rft.aufirst=Sid&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ffootball%2F2015%2Fmay%2F30%2Fathletic-bilbao-barcelona-copa-del-rey-final-match-report&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.co.uk/spanish-super-cup/match/427686/athletic-bilbao-barcelona/report">"Barcelona stunned 4–0 by Athletic Bilbao in first leg of Super Cup"</a>. ESPN FC. 14 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Barcelona+stunned+4%E2%80%930+by+Athletic+Bilbao+in+first+leg+of+Super+Cup&amp;rft.pub=ESPN+FC&amp;rft.date=2015-08-14&amp;rft_id=http%3A%2F%2Fwww.espnfc.co.uk%2Fspanish-super-cup%2Fmatch%2F427686%2Fathletic-bilbao-barcelona%2Freport&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-SUPERCUP-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-SUPERCUP_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SUPERCUP_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.co.uk/spanish-super-cup/match/427685/barcelona-athletic-bilbao/report">"Athletic Bilbao manage draw at Barcelona to win Spanish Super Cup"</a>. ESPN FC. 17 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Athletic+Bilbao+manage+draw+at+Barcelona+to+win+Spanish+Super+Cup&amp;rft.pub=ESPN+FC&amp;rft.date=2015-08-17&amp;rft_id=http%3A%2F%2Fwww.espnfc.co.uk%2Fspanish-super-cup%2Fmatch%2F427685%2Fbarcelona-athletic-bilbao%2Freport&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.co.uk/story/2892534/aymeric-laporte-signs-new-athletic-bilbao-contract">"Aymeric Laporte signs new Athletic Bilbao contract until 2020"</a>. ESPN FC. 13 June 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">14 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aymeric+Laporte+signs+new+Athletic+Bilbao+contract+until+2020&amp;rft.pub=ESPN+FC&amp;rft.date=2016-06-13&amp;rft_id=http%3A%2F%2Fwww.espnfc.co.uk%2Fstory%2F2892534%2Faymeric-laporte-signs-new-athletic-bilbao-contract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/42873612">"Aymeric Laporte: Manchester City sign French defender for club-record £57m"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. 30 January 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Aymeric+Laporte%3A+Manchester+City+sign+French+defender+for+club-record+%C2%A357m&amp;rft.date=2018-01-30&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F42873612&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcGee2018" class="citation web cs1">McGee, Nicholas (30 January 2018). <a rel="nofollow" class="external text" href="http://www.goal.com/en/news/athletic-bilbao-sign-martinez-from-real-sociedad/g2qcqw6nfa8t1fj74qrh862fb">"Athletic Bilbao sign Inigo Martinez to replace Aymeric Laporte"</a>. <i><a href="/wiki/Goal_(website)" title="Goal (website)">Goal</a></i>. Leeds: <a href="/wiki/DAZN_Group" title="DAZN Group">DAZN Group</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Goal&amp;rft.atitle=Athletic+Bilbao+sign+Inigo+Martinez+to+replace+Aymeric+Laporte&amp;rft.date=2018-01-30&amp;rft.aulast=McGee&amp;rft.aufirst=Nicholas&amp;rft_id=http%3A%2F%2Fwww.goal.com%2Fen%2Fnews%2Fathletic-bilbao-sign-martinez-from-real-sociedad%2Fg2qcqw6nfa8t1fj74qrh862fb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFClayton" class="citation web cs1">Clayton, David. <a rel="nofollow" class="external text" href="https://www.mancity.com/news/first-team/match-report/2018/january/man-city-v-west-brom-match-report">"Blues extend lead at top with comfortable win"</a>. Manchester City F.C<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blues+extend+lead+at+top+with+comfortable+win&amp;rft.pub=Manchester+City+F.C.&amp;rft.aulast=Clayton&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.mancity.com%2Fnews%2Ffirst-team%2Fmatch-report%2F2018%2Fjanuary%2Fman-city-v-west-brom-match-report&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/players/11044/Aymeric-Laporte/overview">"Aymeric Laporte"</a>. Premier League<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aymeric+Laporte&amp;rft.pub=Premier+League&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fplayers%2F11044%2FAymeric-Laporte%2Foverview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNulty2018" class="citation web cs1">McNulty, Phil (25 August 2018). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/45230636">"Wolverhampton Wanderers 1–1 Manchester City"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Wolverhampton+Wanderers+1%E2%80%931+Manchester+City&amp;rft.date=2018-08-25&amp;rft.aulast=McNulty&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F45230636&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-facup19-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-facup19_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-facup19_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNulty2019" class="citation news cs1">McNulty, Phil (18 May 2019). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/48236232">"Manchester City 6–0 Watford"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Manchester+City+6%E2%80%930+Watford&amp;rft.date=2019-05-18&amp;rft.aulast=McNulty&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F48236232&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sb1819-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-sb1819_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sb1819_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=68462&amp;season_id=151">"Games played by Aymeric Laporte in 2018/2019"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Aymeric+Laporte+in+2018%2F2019&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D68462%26season_id%3D151&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-knee19-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-knee19_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-knee19_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDawson2019" class="citation web cs1">Dawson, Rob (31 August 2019). <a rel="nofollow" class="external text" href="https://www.espn.co.uk/football/manchester-city/story/3932410/city-fear-laporte-out-for-a-while-with-knee-injury">"City fear Laporte out 'for a while' with knee injury"</a>. <i><a href="/wiki/ESPN" title="ESPN">ESPN</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESPN&amp;rft.atitle=City+fear+Laporte+out+%27for+a+while%27+with+knee+injury&amp;rft.date=2019-08-31&amp;rft.aulast=Dawson&amp;rft.aufirst=Rob&amp;rft_id=https%3A%2F%2Fwww.espn.co.uk%2Ffootball%2Fmanchester-city%2Fstory%2F3932410%2Fcity-fear-laporte-out-for-a-while-with-knee-injury&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/49576729">"Aymeric Laporte: Manchester City defender has surgery on right knee"</a>. <i>BBC Sport</i>. 4 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Aymeric+Laporte%3A+Manchester+City+defender+has+surgery+on+right+knee&amp;rft.date=2019-09-04&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F49576729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.mundodeportivo.com/20140227/futbol/laporte-convocado-para-la-sub-21-por-francia_54402647025.html">"Laporte, convocado para la sub 21 por Francia"</a> &#91;Laporte, called up to France under-21&#93;. <i>Mundo Deportivo</i> (in Spanish). Barcelona. 27 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mundo+Deportivo&amp;rft.atitle=Laporte%2C+convocado+para+la+sub+21+por+Francia&amp;rft.date=2014-02-27&amp;rft_id=http%3A%2F%2Fwww.mundodeportivo.com%2F20140227%2Ffutbol%2Flaporte-convocado-para-la-sub-21-por-francia_54402647025.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Spain-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-Spain_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Spain_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.espnfc.co.uk/european-championship-qualifying/story/2652467/athletic-bilbao-aymeric-laporte-would-consider-spain-call">"Athletic Bilbao's Aymeric Laporte would consider Spain call"</a>. ESPN FC. 7 October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Athletic+Bilbao%27s+Aymeric+Laporte+would+consider+Spain+call&amp;rft.date=2015-10-07&amp;rft_id=http%3A%2F%2Fwww.espnfc.co.uk%2Feuropean-championship-qualifying%2Fstory%2F2652467%2Fathletic-bilbao-aymeric-laporte-would-consider-spain-call&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-UEFA-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-UEFA_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UEFA_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.uefa.com/under19/season=2013/technical-report/tr-under19-2013.pdf">"Technical report"</a> <span class="cs1-format">(PDF)</span>. UEFA. pp.&#160;18–19<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Technical+report&amp;rft.pages=18-19&amp;rft.pub=UEFA&amp;rft_id=http%3A%2F%2Fwww.uefa.com%2Funder19%2Fseason%3D2013%2Ftechnical-report%2Ftr-under19-2013.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDe_Menezes2016" class="citation news cs1">De Menezes, Jack (25 March 2016). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/sport/football/transfers/aymeric-laporte-injury-manchester-city-transfer-plans-dealt-a-blow-as-top-target-suffers-serious-a6951786.html">"Aymeric Laporte injury: Manchester City transfer plans dealt a blow as top target suffers fractured ankle"</a>. <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Aymeric+Laporte+injury%3A+Manchester+City+transfer+plans+dealt+a+blow+as+top+target+suffers+fractured+ankle&amp;rft.date=2016-03-25&amp;rft.aulast=De+Menezes&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fsport%2Ffootball%2Ftransfers%2Faymeric-laporte-injury-manchester-city-transfer-plans-dealt-a-blow-as-top-target-suffers-serious-a6951786.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOrtego2016" class="citation news cs1">Ortego, Enrique (30 August 2016). <a rel="nofollow" class="external text" href="http://www.marca.com/futbol/seleccion/2016/08/30/57c489e146163f72308b4591.html">"Lopetegui 'ficha' a Laporte"</a> &#91;Lopetegui 'signs' Laporte&#93;. <i>Marca</i> (in Spanish). Madrid<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marca&amp;rft.atitle=Lopetegui+%27ficha%27+a+Laporte&amp;rft.date=2016-08-30&amp;rft.aulast=Ortego&amp;rft.aufirst=Enrique&amp;rft_id=http%3A%2F%2Fwww.marca.com%2Ffutbol%2Fseleccion%2F2016%2F08%2F30%2F57c489e146163f72308b4591.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://sport24.lefigaro.fr/football/euro-2012/equipe-de-france/actualites/deschamps-appelle-laporte-et-laisse-giroud-a-la-maison-826710">"Équipe de France: Laporte arrive, Fekir revient"</a> &#91;France team: Laporte arrives, Fekir returns&#93;. <i><a href="/wiki/Le_Figaro" title="Le Figaro">Le Figaro</a></i> (in French). Paris. 29 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Le+Figaro&amp;rft.atitle=%C3%89quipe+de+France%3A+Laporte+arrive%2C+Fekir+revient&amp;rft.date=2016-09-29&amp;rft_id=http%3A%2F%2Fsport24.lefigaro.fr%2Ffootball%2Feuro-2012%2Fequipe-de-france%2Factualites%2Fdeschamps-appelle-laporte-et-laisse-giroud-a-la-maison-826710&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://rmcsport.bfmtv.com/football/aymeric-laporte-je-pouvais-prendre-la-nationalite-espagnole-je-ne-l-ai-pas-fait-1043930.html">"Aymeric Laporte: "Je pouvais prendre la nationalité espagnole, je ne l'ai pas fait<span class="cs1-kern-right">"</span>"</a> &#91;Aymeric Laporte: "I could take Spanish nationality, I did not do so"&#93; (in French). <a href="/wiki/BFM_TV" title="BFM TV">BFM TV</a>. 3 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Aymeric+Laporte%3A+%22Je+pouvais+prendre+la+nationalit%C3%A9+espagnole%2C+je+ne+l%E2%80%99ai+pas+fait%22&amp;rft.date=2016-10-03&amp;rft_id=http%3A%2F%2Frmcsport.bfmtv.com%2Ffootball%2Faymeric-laporte-je-pouvais-prendre-la-nationalite-espagnole-je-ne-l-ai-pas-fait-1043930.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://sports.yahoo.com/laporte-included-france-squad-euro-2020-qualifiers-130529339--sow.html">"Laporte included in France squad for Euro 2020 qualifiers"</a>. Yahoo Sports. 29 August 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte+included+in+France+squad+for+Euro+2020+qualifiers&amp;rft.pub=Yahoo+Sports&amp;rft.date=2019-08-29&amp;rft_id=https%3A%2F%2Fsports.yahoo.com%2Flaporte-included-france-squad-euro-2020-qualifiers-130529339--sow.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBalagué2018" class="citation web cs1">Balagué, Guillem (24 January 2018). <a rel="nofollow" class="external text" href="http://www.skysports.com/football/news/12037/11220803/man-city-likely-to-sign-aymeric-laporte-for-60m-says-guillem-balague">"Man City likely to sign Aymeric Laporte for £60m, says Guillem Balagué"</a>. <a href="/wiki/Sky_Sports" title="Sky Sports">Sky Sports</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Man+City+likely+to+sign+Aymeric+Laporte+for+%C2%A360m%2C+says+Guillem+Balagu%C3%A9&amp;rft.pub=Sky+Sports&amp;rft.date=2018-01-24&amp;rft.aulast=Balagu%C3%A9&amp;rft.aufirst=Guillem&amp;rft_id=http%3A%2F%2Fwww.skysports.com%2Ffootball%2Fnews%2F12037%2F11220803%2Fman-city-likely-to-sign-aymeric-laporte-for-60m-says-guillem-balague&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://onefootball.com/en/news/kid-brother-of-man-city-defender-laporte-turns-pro-at-alaves-31512993">"Kid brother of Man City defender Laporte turns pro at Alaves"</a>. <i>OneFootball</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=OneFootball&amp;rft.atitle=Kid+brother+of+Man+City+defender+Laporte+turns+pro+at+Alaves&amp;rft_id=https%3A%2F%2Fonefootball.com%2Fen%2Fnews%2Fkid-brother-of-man-city-defender-laporte-turns-pro-at-alaves-31512993&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.athletic-club.eus/en/players/2006/laporte.html">"Laporte"</a>. Athletic Bilbao<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte&amp;rft.pub=Athletic+Bilbao&amp;rft_id=https%3A%2F%2Fwww.athletic-club.eus%2Fen%2Fplayers%2F2006%2Flaporte.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1213-52"><span class="mw-cite-backlink">^ <a href="#cite_ref-BD1213_52-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BD1213_52-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2012-13">"Laporte: Aymeric Laporte: Matches: 2012–13"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2012%E2%80%9313&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2012-13&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1314-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-BD1314_54-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2013-14">"Laporte: Aymeric Laporte: Matches: 2013–14"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2013%E2%80%9314&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2013-14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1415-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-BD1415_55-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2014-15">"Laporte: Aymeric Laporte: Matches: 2014–15"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2014%E2%80%9315&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2014-15&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1516-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-BD1516_57-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2015-16">"Laporte: Aymeric Laporte: Matches: 2015–16"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2015%E2%80%9316&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2015-16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1617-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-BD1617_59-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2016-17">"Laporte: Aymeric Laporte: Matches: 2016–17"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2016%E2%80%9317&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2016-17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BD1718-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-BD1718_60-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/p/j201979.html?temp=2017-18">"Laporte: Aymeric Laporte: Matches: 2017–18"</a>. BDFutbol<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laporte%3A+Aymeric+Laporte%3A+Matches%3A+2017%E2%80%9318&amp;rft.pub=BDFutbol&amp;rft_id=https%3A%2F%2Fwww.bdfutbol.com%2Fen%2Fp%2Fj201979.html%3Ftemp%3D2017-18&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sb1718-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-sb1718_61-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=68462&amp;season_id=150">"Games played by Aymeric Laporte in 2017/2018"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Aymeric+Laporte+in+2017%2F2018&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D68462%26season_id%3D150&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sb1920-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-sb1920_64-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=68462&amp;season_id=152">"Games played by Aymeric Laporte in 2019/2020"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Aymeric+Laporte+in+2019%2F2020&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D68462%26season_id%3D152&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sb2021-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-sb2021_65-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=68462&amp;season_id=153">"Games played by Aymeric Laporte in 2020/2021"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Aymeric+Laporte+in+2020%2F2021&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D68462%26season_id%3D153&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/players/11044/Aymeric-Laporte/overview">"Aymeric Laporte: Overview"</a>. Premier League<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aymeric+Laporte%3A+Overview&amp;rft.pub=Premier+League&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fplayers%2F11044%2FAymeric-Laporte%2Foverview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNulty2018" class="citation web cs1">McNulty, Phil (25 February 2018). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/43101681">"Arsenal 0–3 Manchester City"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Arsenal+0%E2%80%933+Manchester+City&amp;rft.date=2018-02-25&amp;rft.aulast=McNulty&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F43101681&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcNulty2019" class="citation web cs1">McNulty, Phil (24 February 2019). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/47268861">"Chelsea 0–0 Manchester City"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Chelsea+0%E2%80%930+Manchester+City&amp;rft.date=2019-02-24&amp;rft.aulast=McNulty&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F47268861&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBevan2018" class="citation web cs1">Bevan, Chris (5 August 2018). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/sport/football/44995783">"Chelsea 0–2 Manchester City"</a>. <i>BBC Sport</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Chelsea+0%E2%80%932+Manchester+City&amp;rft.date=2018-08-05&amp;rft.aulast=Bevan&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fsport%2Ffootball%2F44995783&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.uefa.com/under19/news/newsid=1978073.html">"Under-19 - News"</a>. <i>UEFA.com</i>. 2 August 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UEFA.com&amp;rft.atitle=Under-19+-+News&amp;rft.date=2013-08-02&amp;rft_id=http%3A%2F%2Fwww.uefa.com%2Funder19%2Fnews%2Fnewsid%3D1978073.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/sport/football/48028713">"PFA Team of the Year: Paul Pogba, Raheem Sterling and Sadio Mane included in side"</a>. <i>BBC Sport</i>. 25 April 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=PFA+Team+of+the+Year%3A+Paul+Pogba%2C+Raheem+Sterling+and+Sadio+Mane+included+in+side&amp;rft.date=2019-04-25&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2F48028713&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://fifpro.org/news/rankings-how-all-55-male-players-finished/en/">"Rankings: How All 55 Male Players Finished"</a>. <i>FIFPro World Players' Union</i>. 23 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FIFPro+World+Players%27+Union&amp;rft.atitle=Rankings%3A+How+All+55+Male+Players+Finished&amp;rft.date=2019-09-23&amp;rft_id=https%3A%2F%2Ffifpro.org%2Fnews%2Frankings-how-all-55-male-players-finished%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAymeric+Laporte" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Aymeric_Laporte" class="extiw" title="commons:Category:Aymeric Laporte"><span style="">Aymeric Laporte</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://www.athletic-club.eus/en/players/2006/laporte">Aymeric Laporte</a> at <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/300536374-">Aymeric Laporte</a> at the <a href="/wiki/French_Football_Federation" title="French Football Federation">French Football Federation</a> <span class="languageicon">(in French)</span>. Archived at <a rel="nofollow" class="external text" href="https://web.archive.org/web/https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/300536374-"><i>webarchive.org</i></a>. <a href="https://www.wikidata.org/wiki/Q3855340#P4883" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="https://www.uefa.com/teamsandplayers/players/player=250027046/profile/index.html">Aymeric Laporte</a> – <a href="/wiki/UEFA" title="UEFA">UEFA</a> competition record&#160;<a href="https://www.wikidata.org/wiki/Q3855340#P2276" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="https://timetravel.mementoweb.org/memento/20150905/http://www.fifa.com/fifa-tournaments/players-coaches/people=335999/index.html">Aymeric Laporte</a> – <a href="/wiki/FIFA" title="FIFA">FIFA</a> competition record <a href="https://www.wikidata.org/wiki/Q3855340#P1469" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="https://www.bdfutbol.com/en/j/j201979.html">Aymeric Laporte</a> at BDFutbol <a href="https://www.wikidata.org/wiki/Q3855340#P3655" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=68462">Aymeric Laporte</a> at Soccerbase <a href="https://www.wikidata.org/wiki/Q3855340#P2193" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Manchester_City_F.C._–_current_squad" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#5CBFEB; color:#FFFFFF; border:1px solid #000000; width:87%;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Manchester_City_F.C._squad" title="Template:Manchester City F.C. squad"><abbr title="View this template" style=";background:#5CBFEB; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manchester_City_F.C._squad" title="Template talk:Manchester City F.C. squad"><abbr title="Discuss this template" style=";background:#5CBFEB; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Manchester_City_F.C._squad&amp;action=edit"><abbr title="Edit this template" style=";background:#5CBFEB; color:#FFFFFF; border:1px solid #000000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Manchester_City_F.C._–_current_squad" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Manchester_City_F.C." title="Manchester City F.C."><span style="color:#FFFFFF;">Manchester City F.C.</span></a> <span style="color:#FFFFFF;"> &#8211; current squad</span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div> 
+<ul><li><span class="agent vcard">2&#160;<span class="fn"><a href="/wiki/Kyle_Walker" title="Kyle Walker">Walker</a></span></span></li>
+<li><span class="agent vcard">3&#160;<span class="fn"><a href="/wiki/R%C3%BAben_Dias" title="Rúben Dias">Dias</a></span></span></li>
+<li><span class="agent vcard">5&#160;<span class="fn"><a href="/wiki/John_Stones" title="John Stones">Stones</a></span></span></li>
+<li><span class="agent vcard">6&#160;<span class="fn"><a href="/wiki/Nathan_Ak%C3%A9" title="Nathan Aké">Aké</a></span></span></li>
+<li><span class="agent vcard">7&#160;<span class="fn"><a href="/wiki/Raheem_Sterling" title="Raheem Sterling">Sterling</a></span></span></li>
+<li><span class="agent vcard">8&#160;<span class="fn"><a href="/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan" title="lkay Gündoan">Gündoan</a></span></span></li>
+<li><span class="agent vcard">9&#160;<span class="fn"><a href="/wiki/Gabriel_Jesus" title="Gabriel Jesus">Jesus</a></span></span></li>
+<li><span class="agent vcard">10&#160;<span class="fn"><a href="/wiki/Sergio_Ag%C3%BCero" title="Sergio Agüero">Agüero</a></span></span></li>
+<li><span class="agent vcard">11&#160;<span class="fn"><a href="/wiki/Oleksandr_Zinchenko_(footballer)" title="Oleksandr Zinchenko (footballer)">Zinchenko</a></span></span></li>
+<li><span class="agent vcard">13&#160;<span class="fn"><a href="/wiki/Zack_Steffen" title="Zack Steffen">Steffen</a></span></span></li>
+<li><span class="agent vcard">14&#160;<span class="fn"><a class="mw-selflink selflink">Laporte</a></span></span></li>
+<li><span class="agent vcard">16&#160;<span class="fn"><a href="/wiki/Rodri_(footballer,_born_1996)" title="Rodri (footballer, born 1996)">Rodri</a></span></span></li>
+<li><span class="agent vcard">17&#160;<span class="fn"><a href="/wiki/Kevin_De_Bruyne" title="Kevin De Bruyne">De&#160;Bruyne</a></span></span></li>
+<li><span class="agent vcard">20&#160;<span class="fn"><a href="/wiki/Bernardo_Silva" title="Bernardo Silva">Silva</a></span></span></li>
+<li><span class="agent vcard">21&#160;<span class="fn"><a href="/wiki/Ferran_Torres" title="Ferran Torres">Torres</a></span></span></li>
+<li><span class="agent vcard">22&#160;<span class="fn"><a href="/wiki/Benjamin_Mendy" title="Benjamin Mendy">Mendy</a></span></span></li>
+<li><span class="agent vcard">25&#160;<span class="fn"><a href="/wiki/Fernandinho_(footballer,_born_May_1985)" title="Fernandinho (footballer, born May 1985)">Fernandinho</a></span></span>&#160;(<a href="/wiki/Captain_(association_football)" title="Captain (association football)">c</a>)</li>
+<li><span class="agent vcard">26&#160;<span class="fn"><a href="/wiki/Riyad_Mahrez" title="Riyad Mahrez">Mahrez</a></span></span></li>
+<li><span class="agent vcard">27&#160;<span class="fn"><a href="/wiki/Jo%C3%A3o_Cancelo" title="João Cancelo">Cancelo</a></span></span></li>
+<li><span class="agent vcard">31&#160;<span class="fn"><a href="/wiki/Ederson_(footballer,_born_1993)" title="Ederson (footballer, born 1993)">Ederson</a></span></span></li>
+<li><span class="agent vcard">33&#160;<span class="fn"><a href="/wiki/Scott_Carson" title="Scott Carson">Carson</a></span></span></li>
+<li><span class="agent vcard">34&#160;<span class="fn"><a href="/wiki/Philippe_Sandler" title="Philippe Sandler">Sandler</a></span></span></li>
+<li><span class="agent vcard">47&#160;<span class="fn"><a href="/wiki/Phil_Foden" title="Phil Foden">Foden</a></span></span></li>
+<li><span class="agent vcard">48&#160;<span class="fn"><a href="/wiki/Liam_Delap" title="Liam Delap">Delap</a></span></span></li>
+<li><span class="agent vcard">50&#160;<span class="fn"><a href="/wiki/Eric_Garc%C3%ADa_(footballer,_born_2001)" title="Eric García (footballer, born 2001)">García</a></span></span></li>
+<li><span class="nowrap">Manager: <a href="/wiki/Pep_Guardiola" title="Pep Guardiola">Guardiola</a></span></li></ul>
+</div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Awards" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:gold;"><div id="Awards" style="font-size:114%;margin:0 4em">Awards</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%"><div style="padding:0px">
+<div role="navigation" class="navbox" aria-labelledby="2013–14_La_Liga_Team_of_the_Year" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: gold;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2013%E2%80%9314_La_Liga_Team_of_the_Year" title="Template:2013–14 La Liga Team of the Year"><abbr title="View this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2013%E2%80%9314_La_Liga_Team_of_the_Year" title="Template talk:2013–14 La Liga Team of the Year"><abbr title="Discuss this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2013%E2%80%9314_La_Liga_Team_of_the_Year&amp;action=edit"><abbr title="Edit this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="2013–14_La_Liga_Team_of_the_Year" style="font-size:114%;margin:0 4em"><a href="/wiki/2013%E2%80%9314_La_Liga" title="2013–14 La Liga">2013–14</a> <a href="/wiki/LFP_Awards#Team_of_the_Year" class="mw-redirect" title="LFP Awards">La Liga Team of the Year</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>GK: <a href="/wiki/Thibaut_Courtois" title="Thibaut Courtois">Courtois</a></li>
+<li>RB: <a href="/wiki/Juanfran_(footballer,_born_1985)" title="Juanfran (footballer, born 1985)">Juanfran</a></li>
+<li>CB: <a class="mw-selflink selflink">Laporte</a></li>
+<li>CB: <a href="/wiki/Diego_God%C3%ADn" title="Diego Godín">Godín</a></li>
+<li>LB: <a href="/wiki/Filipe_Lu%C3%ADs" title="Filipe Luís">F. Luís</a></li>
+<li>MF: <a href="/wiki/Ander_Iturraspe" title="Ander Iturraspe">Iturraspe</a></li>
+<li>MF: <a href="/wiki/Koke_(footballer,_born_1992)" title="Koke (footballer, born 1992)">Koke</a></li>
+<li>MF: <a href="/wiki/Gabi_(footballer,_born_1983)" title="Gabi (footballer, born 1983)">Gabi</a></li>
+<li>MF: <a href="/wiki/Ivan_Rakiti%C4%87" title="Ivan Rakiti">Rakiti</a></li>
+<li>FW: <a href="/wiki/Cristiano_Ronaldo" title="Cristiano Ronaldo">Ronaldo</a></li>
+<li>FW: <a href="/wiki/Diego_Costa" title="Diego Costa">D. Costa</a></li>
+<li>Manager: <a href="/wiki/Diego_Simeone" title="Diego Simeone">Simeone</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2018–19_Premier_League_PFA_Team_of_the_Year" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: gold;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2018%E2%80%9319_Premier_League_PFA_Team_of_the_Year" title="Template:2018–19 Premier League PFA Team of the Year"><abbr title="View this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2018%E2%80%9319_Premier_League_PFA_Team_of_the_Year" title="Template talk:2018–19 Premier League PFA Team of the Year"><abbr title="Discuss this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2018%E2%80%9319_Premier_League_PFA_Team_of_the_Year&amp;action=edit"><abbr title="Edit this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="2018–19_Premier_League_PFA_Team_of_the_Year" style="font-size:114%;margin:0 4em"><a href="/wiki/PFA_Team_of_the_Year_(2010s)#Premier_League_10" title="PFA Team of the Year (2010s)">2018–19 Premier League PFA Team of the Year</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>GK: <a href="/wiki/Ederson_(footballer,_born_1993)" title="Ederson (footballer, born 1993)">Ederson</a></li>
+<li>DF: <a href="/wiki/Trent_Alexander-Arnold" title="Trent Alexander-Arnold">Alexander-Arnold</a></li>
+<li>DF: <a href="/wiki/Virgil_van_Dijk" title="Virgil van Dijk">Van Dijk</a></li>
+<li>DF: <a class="mw-selflink selflink">Laporte</a></li>
+<li>DF: <a href="/wiki/Andrew_Robertson" title="Andrew Robertson">Robertson</a></li>
+<li>MF: <a href="/wiki/Bernardo_Silva" title="Bernardo Silva">Silva</a></li>
+<li>MF: <a href="/wiki/Fernandinho_(footballer,_born_May_1985)" title="Fernandinho (footballer, born May 1985)">Fernandinho</a></li>
+<li>MF: <a href="/wiki/Paul_Pogba" title="Paul Pogba">Pogba</a></li>
+<li>FW: <a href="/wiki/Raheem_Sterling" title="Raheem Sterling">Sterling</a></li>
+<li>FW: <a href="/wiki/Sergio_Ag%C3%BCero" title="Sergio Agüero">Agüero</a></li>
+<li>FW: <a href="/wiki/Sadio_Man%C3%A9" title="Sadio Mané">Mané</a></li></ul>
+</div></td></tr></tbody></table></div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1353
+Cached time: 20210314042030
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [varyrevisionsha1]
+CPU time usage: 1.642 seconds
+Real time usage: 2.842 seconds
+Preprocessor visited node count: 7225/1000000
+Postexpand include size: 178801/2097152 bytes
+Template argument size: 15674/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip postexpand size: 210740/5000000 bytes
+Lua time usage: 0.848/10.000 seconds
+Lua memory usage: 21795727/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2447.459      1 -total
+ 24.52%  600.076      1 Template:Infobox_football_biography
+ 23.21%  568.108      2 Template:Reflist
+ 20.25%  495.696      1 Template:Infobox3cols
+ 15.18%  371.600     50 Template:Cite_web
+ 12.63%  309.065      1 Template:FFF_male_player
+  9.01%  220.515      1 Template:In_lang
+  5.75%  140.684      1 Template:English_football_updater
+  5.64%  138.153      1 Template:Short_description
+  5.25%  128.569      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37835680-0!canonical and timestamp 20210314042027 and revision id 1011572820. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aymeric_Laporte&amp;oldid=1011572820">https://en.wikipedia.org/w/index.php?title=Aymeric_Laporte&amp;oldid=1011572820</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1994_births" title="Category:1994 births">1994 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Sportspeople_from_Agen" title="Category:Sportspeople from Agen">Sportspeople from Agen</a></li><li><a href="/wiki/Category:French_footballers" title="Category:French footballers">French footballers</a></li><li><a href="/wiki/Category:France_youth_international_footballers" title="Category:France youth international footballers">France youth international footballers</a></li><li><a href="/wiki/Category:France_under-21_international_footballers" title="Category:France under-21 international footballers">France under-21 international footballers</a></li><li><a href="/wiki/Category:Association_football_defenders" title="Category:Association football defenders">Association football defenders</a></li><li><a href="/wiki/Category:Aviron_Bayonnais_FC_players" title="Category:Aviron Bayonnais FC players">Aviron Bayonnais FC players</a></li><li><a href="/wiki/Category:La_Liga_players" title="Category:La Liga players">La Liga players</a></li><li><a href="/wiki/Category:Segunda_Divisi%C3%B3n_B_players" title="Category:Segunda División B players">Segunda División B players</a></li><li><a href="/wiki/Category:Tercera_Divisi%C3%B3n_players" title="Category:Tercera División players">Tercera División players</a></li><li><a href="/wiki/Category:CD_Basconia_footballers" title="Category:CD Basconia footballers">CD Basconia footballers</a></li><li><a href="/wiki/Category:Bilbao_Athletic_footballers" title="Category:Bilbao Athletic footballers">Bilbao Athletic footballers</a></li><li><a href="/wiki/Category:Athletic_Bilbao_footballers" title="Category:Athletic Bilbao footballers">Athletic Bilbao footballers</a></li><li><a href="/wiki/Category:Premier_League_players" title="Category:Premier League players">Premier League players</a></li><li><a href="/wiki/Category:Manchester_City_F.C._players" title="Category:Manchester City F.C. players">Manchester City F.C. players</a></li><li><a href="/wiki/Category:French_expatriate_footballers" title="Category:French expatriate footballers">French expatriate footballers</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_England" title="Category:Expatriate footballers in England">Expatriate footballers in England</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_Spain" title="Category:Expatriate footballers in Spain">Expatriate footballers in Spain</a></li><li><a href="/wiki/Category:French_expatriate_sportspeople_in_England" title="Category:French expatriate sportspeople in England">French expatriate sportspeople in England</a></li><li><a href="/wiki/Category:French_expatriate_sportspeople_in_Spain" title="Category:French expatriate sportspeople in Spain">French expatriate sportspeople in Spain</a></li><li><a href="/wiki/Category:French_people_of_Basque_descent" title="Category:French people of Basque descent">French people of Basque descent</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2019" title="Category:Use dmy dates from September 2019">Use dmy dates from September 2019</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aymeric+Laporte" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aymeric+Laporte" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Aymeric_Laporte" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Aymeric_Laporte" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Aymeric_Laporte">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Aymeric_Laporte&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Aymeric_Laporte&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aymeric_Laporte" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aymeric_Laporte" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aymeric_Laporte&amp;oldid=1011572820" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aymeric_Laporte&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aymeric_Laporte&amp;id=1011572820&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3855340" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Aymeric_Laporte&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aymeric_Laporte&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Aymeric_Laporte" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%85%D9%8A%D8%B1%D9%83_%D9%84%D8%A7%D8%A8%D9%88%D8%B1%D8%AA%D9%8A" title="  – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%DB%8C%D9%85%D9%88%D8%B1%DB%8C%DA%A9_%D9%84%D8%A7%D9%BE%D9%88%D8%B1%D8%AA" title="  – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">eština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BC%CE%B5%CF%81%CE%AF%CE%BA_%CE%9B%CE%B1%CF%80%CF%8C%CF%81%CF%84" title="  – Greek" lang="el" hreflang="el" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%DB%8C%D9%85%D9%88%D8%B1%DB%8C%DA%A9_%D9%84%D8%A7%D9%BE%D9%88%D8%B1%D8%AA" title="  – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%AF%80%EB%A6%AC%ED%81%AC_%EB%9D%BC%ED%8F%AC%EB%A5%B4%ED%8A%B8" title="  – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B7%D5%B4%D5%A5%D6%80%D5%AB%D5%AF_%D4%BC%D5%A1%D5%BA%D5%B8%D6%80%D5%BF" title="  – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%99%D7%9E%D7%A8%D7%99%D7%A7_%D7%9C%D7%90%D7%A4%D7%95%D7%A8%D7%98" title="  – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%80%D0%B8%D0%BA_%D0%9B%D1%8F%D0%BF%D0%BE%D1%80%D1%82" title="  – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Emeriks_Laports" title="Emeriks Laports – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%8A%D9%85%D9%8A%D8%B1%D9%83_%D9%84%D8%A7%D8%A8%D9%88%D8%B1%D8%AA%D9%89" title="  – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A1%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%9D%E3%83%AB%E3%83%86" title=" – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Român</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BF%D0%BE%D1%80%D1%82,_%D0%AD%D0%BC%D0%B5%D1%80%D0%B8%D0%BA" title=",  – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%95%D0%BC%D0%B5%D1%80%D0%B8%D0%BA_%D0%9B%D0%B0%D0%BF%D0%BE%D1%80%D1%82" title="  – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"> / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81_%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95" title="  – Thai" lang="th" hreflang="th" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%BC%D0%B5%D1%80%D1%96%D0%BA_%D0%9B%D1%8F%D0%BF%D0%BE%D1%80%D1%82" title="  – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Aymeric_Laporte" title="Aymeric Laporte – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Ting Vit</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%8B%BF%E6%A8%B8%E8%BF%AA" title=" – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9F%83%E6%A2%85%E9%87%8C%E5%85%8B%C2%B7%E6%8B%89%E6%B3%A2%E7%88%BE%E7%89%B9" title="· – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3855340#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 11 March 2021, at 16:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aymeric_Laporte&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.642","walltime":"2.842","ppvisitednodes":{"value":7225,"limit":1000000},"postexpandincludesize":{"value":178801,"limit":2097152},"templateargumentsize":{"value":15674,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":210740,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2447.459      1 -total"," 24.52%  600.076      1 Template:Infobox_football_biography"," 23.21%  568.108      2 Template:Reflist"," 20.25%  495.696      1 Template:Infobox3cols"," 15.18%  371.600     50 Template:Cite_web"," 12.63%  309.065      1 Template:FFF_male_player","  9.01%  220.515      1 Template:In_lang","  5.75%  140.684      1 Template:English_football_updater","  5.64%  138.153      1 Template:Short_description","  5.25%  128.569      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.848","limit":"10.000"},"limitreport-memusage":{"value":21795727,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20210314042030","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Aymeric Laporte","url":"https:\/\/en.wikipedia.org\/wiki\/Aymeric_Laporte","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3855340","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3855340","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-12-05T01:01:42Z","dateModified":"2021-03-11T16:51:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/Aymeric_Laporte%28cropped%29.jpg","headline":"French association football player"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":192,"wgHostname":"mw1269"});});</script>
+</body></html>

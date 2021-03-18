@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alex Telles - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YE3YclafChRozcoWbO7qZwAAANU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alex_Telles","wgTitle":"Alex Telles","wgCurRevisionId":1011604720,"wgRevisionId":1011604720,"wgArticleId":40730447,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Portuguese-language sources (pt)","Articles with Portuguese-language sources (pt)","Articles with Turkish-language sources (tr)","Webarchive template wayback links","CS1 Turkish-language sources (tr)","CS1 Italian-language sources (it)","Articles with short description",
+"Short description matches Wikidata","Use dmy dates from March 2019","Vague or ambiguous geographic scope from September 2015","All articles with unsourced statements","Articles with unsourced statements from September 2015","Commons category link from Wikidata","1992 births","Living people","Brazilian people of Italian descent","People from Caxias do Sul","Brazilian footballers","Association football defenders","Esporte Clube Juventude players","Grêmio Foot-Ball Porto Alegrense players","Galatasaray S.K. footballers","Inter Milan players","FC Porto players","Manchester United F.C. players","Campeonato Brasileiro Série A players","Campeonato Brasileiro Série D players","Süper Lig players","Serie A players","Primeira Liga players","Premier League players","Brazil international footballers","Brazilian expatriate footballers","Brazilian expatriate sportspeople in Turkey","Brazilian expatriate sportspeople in Italy","Brazilian expatriate sportspeople in Portugal",
+"Brazilian expatriate sportspeople in England","Expatriate footballers in Turkey","Expatriate footballers in Italy","Expatriate footballers in Portugal","Expatriate footballers in England"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alex_Telles","wgRelevantArticleId":40730447,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q15214940"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/28/Alex_Telles_2018.jpg"/>
+<meta property="og:title" content="Alex Telles"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Alex_Telles"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alex_Telles&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alex_Telles&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alex_Telles"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alex_Telles rootpage-Alex_Telles skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Alex Telles</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Brazilian association football player</div>
+<div role="note" class="hatnote navigation-not-searchable">This name uses <a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese naming customs</a>: the first or maternal <a href="/wiki/Surname" title="Surname">family name</a> is <i>Nicolao</i>&#32;and the second or paternal family name is <i>Telles</i>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em;line-height: 1.2em"><caption class="fn" style="line-height: 1.5em; text-align: center;">Alex Telles</caption><tbody><tr><td colspan="4" style="text-align:center">
+<a href="/wiki/File:Alex_Telles_2018.jpg" class="image"><img alt="Alex Telles 2018.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alex_Telles_2018.jpg/220px-Alex_Telles_2018.jpg" decoding="async" width="220" height="446" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alex_Telles_2018.jpg/330px-Alex_Telles_2018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alex_Telles_2018.jpg/440px-Alex_Telles_2018.jpg 2x" data-file-width="480" data-file-height="972" /></a><div>Telles playing for <a href="/wiki/FC_Porto" title="FC Porto">Porto</a> in 2018</div></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Personal information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Full name</th><td colspan="3" class="nickname" style="white-space: nowrap; vertical-align: baseline">
+<span style="white-space:normal;">Alex Nicolao Telles<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of birth</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<span style="display:none"> (<span class="bday">1992-12-15</span>) </span>15 December 1992<span class="noprint ForceAgeToShow"> (age&#160;28)</span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of birth</th><td colspan="3" class="birthplace" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Caxias_do_Sul" title="Caxias do Sul">Caxias do Sul</a>, Brazil</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Height</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+1.81&#160;m (5&#160;ft 11&#160;in)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Position(s)</th><td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Defender_(association_football)#Full-back" title="Defender (association football)">Left-back</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Club information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Current team</div></th><td colspan="3" class="org" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Number</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+27</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Youth career</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2007–2011</span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Esporte_Clube_Juventude" title="Esporte Clube Juventude">Juventude</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Senior career*</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Years</th><td style="white-space: nowrap; vertical-align: baseline">
+<b>Team</b></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+<b><abbr title="League appearances">Apps</abbr></b></td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+<b>(<abbr title="League goals">Gls</abbr>)</b></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2011–2012</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Esporte_Clube_Juventude" title="Esporte Clube Juventude">Juventude</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+13</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(2)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2013–2014</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense" title="Grêmio Foot-Ball Porto Alegrense">Grêmio</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+36</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2014–2016</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Galatasaray_S.K._(football)" title="Galatasaray S.K. (football)">Galatasaray</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+39</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(2)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2015–2016</span></th><td style="white-space: nowrap; vertical-align: baseline">
+ <a href="/wiki/Inter_Milan" title="Inter Milan">Inter Milan</a> (loan)</td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+21</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2016–2020</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/FC_Porto" title="FC Porto">Porto</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+129</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(21)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2020–</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+17</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">National team<sup>‡</sup></th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">2019–</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+4</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><td colspan="4" style="text-align:center;color:darkslategray; font-size:95%">
+* Senior club appearances and goals counted for the domestic league only&#32;and correct as of 22:19, 27 January 2021 (UTC)<br />‡ National team caps and goals correct as of 22:01, 21 November 2020 (UTC)</td></tr></tbody></table>
+<p><b>Alex Nicolao Telles</b> (<span style="font-size:85%;">Brazilian Portuguese:&#160;</span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Portuguese" title="Help:IPA/Portuguese">[alks tlis]</a></span>; born 15 December 1992), is a Brazilian professional <a href="/wiki/Association_football" title="Association football">footballer</a> who plays as a <a href="/wiki/Defender_(association_football)#Full-back" title="Defender (association football)">left-back</a> for <a href="/wiki/Premier_League" title="Premier League">Premier League</a> club <a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a> and the <a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil national team</a>.
+</p><p>Telles started his career at Brazilian <a href="/wiki/Campeonato_Brasileiro_S%C3%A9rie_D" title="Campeonato Brasileiro Série D">Série D</a> side <a href="/wiki/Esporte_Clube_Juventude" title="Esporte Clube Juventude">Juventude</a>, before being sold to <a href="/wiki/Campeonato_Brasileiro_S%C3%A9rie_A" title="Campeonato Brasileiro Série A">Série A</a> side <a href="/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense" title="Grêmio Foot-Ball Porto Alegrense">Grêmio</a> in 2013. That year, he was voted the best left-back in the league.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> In January 2014, Telles signed with Turkish <a href="/wiki/S%C3%BCper_Lig" title="Süper Lig">Süper Lig</a> club <a href="/wiki/Galatasaray_S.K._(football)" title="Galatasaray S.K. (football)">Galatasaray</a>, winning various trophies including a league title, two <a href="/wiki/Turkish_Cup" title="Turkish Cup">Turkish Cups</a> and the <a href="/wiki/Turkish_Super_Cup" title="Turkish Super Cup">Turkish Super Cup</a>, only to be loaned to <a href="/wiki/Serie_A" title="Serie A">Serie A</a> team <a href="/wiki/Inter_Milan" title="Inter Milan">Inter Milan</a> during the 2015–16 season. In July 2016, Telles was sold to <a href="/wiki/Primeira_Liga" title="Primeira Liga">Primeira Liga</a> side <a href="/wiki/FC_Porto" title="FC Porto">FC Porto</a>, where he established himself as one of the best left-backs in the league. He made almost 200 appearances for Porto and won four trophies, including two league titles, one <a href="/wiki/Ta%C3%A7a_de_Portugal" title="Taça de Portugal">Taça de Portugal</a> and one <a href="/wiki/Superta%C3%A7a_C%C3%A2ndido_de_Oliveira" title="Supertaça Cândido de Oliveira">Supertaça Cândido de Oliveira</a>, as well as being named in the Primeira Liga Team of the Year for three consecutive seasons. Telles' performances sparked the interest of several European clubs, and in October 2020, he signed for Manchester United for an initial €18&#160;million (£15.4&#160;million).
+</p><p>Born in Brazil, Telles also holds <a href="/wiki/Italian_nationality_law" title="Italian nationality law">Italian citizenship</a>, but ended up representing <a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a> at international level. He made his senior international debut in 2019.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Club_career"><span class="tocnumber">1</span> <span class="toctext">Club career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Juventude_and_Grêmio"><span class="tocnumber">1.1</span> <span class="toctext">Juventude and Grêmio</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Galatasaray"><span class="tocnumber">1.2</span> <span class="toctext">Galatasaray</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Loan_to_Inter_Milan"><span class="tocnumber">1.2.1</span> <span class="toctext">Loan to Inter Milan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Porto"><span class="tocnumber">1.3</span> <span class="toctext">Porto</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Manchester_United"><span class="tocnumber">1.4</span> <span class="toctext">Manchester United</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#International_career"><span class="tocnumber">2</span> <span class="toctext">International career</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Style_of_play"><span class="tocnumber">3</span> <span class="toctext">Style of play</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Career_statistics"><span class="tocnumber">4</span> <span class="toctext">Career statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Club"><span class="tocnumber">4.1</span> <span class="toctext">Club</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#International"><span class="tocnumber">4.2</span> <span class="toctext">International</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Honours"><span class="tocnumber">5</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Club_career">Club career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=1" title="Edit section: Club career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Juventude_and_Gr.C3.AAmio"></span><span class="mw-headline" id="Juventude_and_Grêmio">Juventude and Grêmio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=2" title="Edit section: Juventude and Grêmio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Telles was born in <a href="/wiki/Caxias_do_Sul" title="Caxias do Sul">Caxias do Sul</a>, a city in the Brazilian state of <a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>. At the age of eight, he began playing football with the neighbouring kids and was later enrolled to a youth academy of <a href="/wiki/Esporte_Clube_Juventude" title="Esporte Clube Juventude">Esporte Clube Juventude</a>.
+</p><p>Telles began his professional career with Juventude, making his debut on 24 January 2011 against <a href="/wiki/Esporte_Clube_S%C3%A3o_Jos%C3%A9" title="Esporte Clube São José">São José-PA</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He scored his first goal on 20 August in a 1–1 home draw against <a href="/wiki/Esporte_Clube_Cruzeiro" title="Esporte Clube Cruzeiro">Cruzeiro</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In December, Telles was transferred to <a href="/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense" title="Grêmio Foot-Ball Porto Alegrense">Grêmio</a> after a partnership was established with Juventude.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He made his Grêmio debut on 3 February 2013 against <a href="/wiki/Sport_Club_Internacional" title="Sport Club Internacional">Internacional</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> On 26 May, Telles made his <a href="/wiki/Campeonato_Brasileiro_S%C3%A9rie_A" title="Campeonato Brasileiro Série A">Série A</a> debut, starting in a 2–0 home win against <a href="/wiki/Clube_N%C3%A1utico_Capibaribe" title="Clube Náutico Capibaribe">Náutico</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Galatasaray">Galatasaray</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=3" title="Edit section: Galatasaray">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 22 January 2014, after long negotiations, Telles completed a move to Turkish club <a href="/wiki/Galatasaray_S.K._(football)" title="Galatasaray S.K. (football)">Galatasaray</a> for  <a href="/wiki/Euro" title="Euro">€</a>6&#160;million, signing a contract that will keep him with the club until 2018.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> He made his debut two weeks later, starting in a 3–0 win against <a href="/wiki/Tokatspor" title="Tokatspor">Tokatspor</a> for <a href="/wiki/2013%E2%80%9314_Turkish_Cup" title="2013–14 Turkish Cup">the campaign</a>'s <a href="/wiki/Turkish_Cup" title="Turkish Cup">Turkish Cup</a>, and made his maiden <a href="/wiki/S%C3%BCper_Lig" title="Süper Lig">Süper Lig</a> debut in a 3–0 home victory against <a href="/wiki/Eski%C5%9Fehirspor" title="Eskiehirspor">Eskiehirspor</a> on 8 February 2014.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Telles made his first assist for the club against <a href="/wiki/Antalyaspor" title="Antalyaspor">Antalyaspor</a> in a 2–2 away game on 17 February.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> He also scored his first goal for Galatasaray against <a href="/wiki/Akhisar_Belediyespor" class="mw-redirect" title="Akhisar Belediyespor">Akhisar Belediyespor</a> on 8 March in a 6–1 home win.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>In August 2015, there were rumours<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (September 2015)">where?</span></a></i>&#93;</sup> mentioning Telles as a good choice to fill the place made by the departure of left-back <a href="/wiki/Filipe_Lu%C3%ADs" title="Filipe Luís">Filipe Luís</a> at <a href="/wiki/Chelsea_F.C." title="Chelsea F.C.">Chelsea</a>. In response to the rumour, Galatasaray manager <a href="/wiki/Hamza_Hamzao%C4%9Flu" title="Hamza Hamzaolu">Hamza Hamzaolu</a> said the club would only be tempted by an acceptable offer.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h4><span class="mw-headline" id="Loan_to_Inter_Milan">Loan to Inter Milan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=4" title="Edit section: Loan to Inter Milan">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On 31 August 2015, Galatasaray agreed to let Telles join Italian club <a href="/wiki/Inter_Milan" title="Inter Milan">Internazionale</a> of <a href="/wiki/Serie_A" title="Serie A">Serie A</a> on a one-year loan for a €1.3&#160;million fee, in addition to €250,000 if Inter qualify for the group stage of the <a href="/wiki/2016%E2%80%9317_UEFA_Champions_League" title="2016–17 UEFA Champions League">2016–17 UEFA Champions League</a>.<sup id="cite_ref-KAP_12-0" class="reference"><a href="#cite_note-KAP-12">&#91;12&#93;</a></sup> The deal included a buyout option for €8.5&#160;million,<sup id="cite_ref-KAP_12-1" class="reference"><a href="#cite_note-KAP-12">&#91;12&#93;</a></sup> letting Internazionale make the move permanent when the loan deal is finished.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Telles reunited with Internazionale manager <a href="/wiki/Roberto_Mancini" title="Roberto Mancini">Roberto Mancini</a> in Italy, who previously coached him at Galatasaray.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>He made his debut for the club on 13 September in the <a href="/wiki/2015%E2%80%9316_Serie_A" title="2015–16 Serie A">2015–16 Serie A</a> matchday 3 against city rivals <a href="/wiki/A.C._Milan" title="A.C. Milan">Milan</a>, playing the entirety of the match as Inter won 1–0.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Porto">Porto</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=5" title="Edit section: Porto">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 12 July 2016, Portuguese side <a href="/wiki/FC_Porto" title="FC Porto">FC Porto</a> announced the signing of Telles for a <a href="/wiki/Euro" title="Euro">€</a>6.5&#160;million fee. According to a Galatasaray press release, the <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a> club reserved a further 10% of any added value in a future transfer deal.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The following day, after signing a five-year contract, he stated: <i>"I ambition titles, I ambition a very beautiful story. I have recently commented with my relatives that I do not want to come here in passing, I want to leave a legacy."</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> On 12 August, in a 3–1 away win against <a href="/wiki/Rio_Ave_F.C." title="Rio Ave F.C.">Rio Ave</a>, he marked his league debut and first competitive match with a poor performance and subsequent expulsion.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Despite the rough start, Telles gradually cemented himself in the team's starting eleven, scoring his first goal when facing rivals <a href="/wiki/Boavista_F.C." title="Boavista F.C.">Boavista</a> in a 3–1 home victory at <a href="/wiki/Est%C3%A1dio_do_Drag%C3%A3o" title="Estádio do Dragão">Estádio do Dragão</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Manchester_United">Manchester United</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=6" title="Edit section: Manchester United">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 5 October 2020, <a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a> had agreed a deal in principle to sign Telles for a fee believed to be £15.4&#160;million.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The transfer was completed and Telles was announced as a United player that day.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> He made his debut playing as a left wing-back on 20 October in a 2–1 win over <a href="/wiki/Paris_Saint-Germain_F.C." title="Paris Saint-Germain F.C.">Paris Saint-Germain</a> in the <a href="/wiki/2020%E2%80%9321_UEFA_Champions_League_group_stage" title="2020–21 UEFA Champions League group stage">UEFA Champions League group stage</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="International_career">International career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=7" title="Edit section: International career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although he was born in Brazil, Telles also has an Italian passport,<sup id="cite_ref-Passport_25-0" class="reference"><a href="#cite_note-Passport-25">&#91;25&#93;</a></sup> making him in the past eligible to represent <a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy national team</a>.<sup id="cite_ref-Passport_25-1" class="reference"><a href="#cite_note-Passport-25">&#91;25&#93;</a></sup> In October 2016, Telles said that he would "welcome" a call-up from the <i>"Azzurri"</i>, adding that his great-grandparents are Italian and he feels Italian.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> In March 2019, however, he received his first call-up to the <a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil national team</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> He made his debut for Brazil on 23 March 2019 in a friendly against <a href="/wiki/Panama_national_football_team" title="Panama national football team">Panama</a>, as a starter.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Style_of_play">Style of play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=8" title="Edit section: Style of play">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Telles is an offensive <a href="/wiki/Full-back_(association_football)" class="mw-redirect" title="Full-back (association football)">full-back</a> and is described as a skilled, quick and <a href="/wiki/Playmaker" title="Playmaker">playmaking</a> defender.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career_statistics">Career statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=9" title="Edit section: Career statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Club">Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=10" title="Edit section: Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><i>As of match played 11 March 2021</i><sup id="cite_ref-Soccerway_30-0" class="reference"><a href="#cite_note-Soccerway-30">&#91;30&#93;</a></sup></dd></dl>
+<table class="wikitable" style="text-align:center">
+<caption>Appearances and goals by club, season and competition
+</caption>
+<tbody><tr>
+<th rowspan="2">Club
+</th>
+<th rowspan="2">Season
+</th>
+<th colspan="3">League
+</th>
+<th colspan="2">National Cup<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;a&#93;</a></sup>
+</th>
+<th colspan="2">League Cup<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;b&#93;</a></sup>
+</th>
+<th colspan="2">Continental
+</th>
+<th colspan="2">Other
+</th>
+<th colspan="2">Total
+</th></tr>
+<tr>
+<th>Division</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals</th>
+<th>Apps</th>
+<th>Goals
+</th></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Esporte_Clube_Juventude" title="Esporte Clube Juventude">Juventude</a>
+</td>
+<td>2011
+</td>
+<td><a href="/wiki/Campeonato_Brasileiro_S%C3%A9rie_D" title="Campeonato Brasileiro Série D">Série D</a>
+</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>12<sup id="cite_ref-BRA_33-0" class="reference"><a href="#cite_note-BRA-33">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td>16</td>
+<td>1
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td>Série D
+</td>
+<td>9</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>14<sup id="cite_ref-BRA_33-1" class="reference"><a href="#cite_note-BRA-33">&#91;c&#93;</a></sup></td>
+<td>0</td>
+<td>25</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>13</th>
+<th>2</th>
+<th>2</th>
+<th>0</th>
+<th colspan="2">—</th>
+<th colspan="2">—</th>
+<th>26</th>
+<th>0</th>
+<th>41</th>
+<th>2
+</th></tr>
+<tr>
+<td rowspan="1"><a href="/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense" title="Grêmio Foot-Ball Porto Alegrense">Grêmio</a>
+</td>
+<td>2013
+</td>
+<td><a href="/wiki/Campeonato_Brasileiro_S%C3%A9rie_A" title="Campeonato Brasileiro Série A">Série A</a>
+</td>
+<td>36</td>
+<td>1</td>
+<td>6</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>3<sup id="cite_ref-CL_34-0" class="reference"><a href="#cite_note-CL-34">&#91;d&#93;</a></sup></td>
+<td>0</td>
+<td>6<sup id="cite_ref-CG_35-0" class="reference"><a href="#cite_note-CG-35">&#91;e&#93;</a></sup></td>
+<td>0</td>
+<td>51</td>
+<td>1
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/Galatasaray_S.K._(football)" title="Galatasaray S.K. (football)">Galatasaray</a>
+</td>
+<td><a href="/wiki/2013%E2%80%9314_Galatasaray_S.K._season" title="2013–14 Galatasaray S.K. season">2013–14</a>
+</td>
+<td><a href="/wiki/S%C3%BCper_Lig" title="Süper Lig">Süper Lig</a>
+</td>
+<td>15</td>
+<td>1</td>
+<td>4</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>2<sup id="cite_ref-UCL_36-0" class="reference"><a href="#cite_note-UCL-36">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>21</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/2014%E2%80%9315_Galatasaray_S.K._season" title="2014–15 Galatasaray S.K. season">2014–15</a>
+</td>
+<td>Süper Lig
+</td>
+<td>22</td>
+<td>1</td>
+<td>8</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>5<sup id="cite_ref-UCL_36-1" class="reference"><a href="#cite_note-UCL-36">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td>1<sup id="cite_ref-TSC_37-0" class="reference"><a href="#cite_note-TSC-37">&#91;g&#93;</a></sup></td>
+<td>0</td>
+<td>36</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/2015%E2%80%9316_Galatasaray_S.K._season" title="2015–16 Galatasaray S.K. season">2015–16</a>
+</td>
+<td>Süper Lig
+</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>0</td>
+<td>0</td>
+<td>1<sup id="cite_ref-TSC_37-1" class="reference"><a href="#cite_note-TSC-37">&#91;g&#93;</a></sup></td>
+<td>0</td>
+<td>3</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>39</th>
+<th>2</th>
+<th>12</th>
+<th>0</th>
+<th colspan="2">—</th>
+<th>7</th>
+<th>0</th>
+<th>2</th>
+<th>0</th>
+<th>60</th>
+<th>2
+</th></tr>
+<tr>
+<td rowspan="1"><a href="/wiki/Inter_Milan" title="Inter Milan">Inter Milan</a> (loan)
+</td>
+<td><a href="/wiki/2015%E2%80%9316_Inter_Milan_season" title="2015–16 Inter Milan season">2015–16</a>
+</td>
+<td><a href="/wiki/Serie_A" title="Serie A">Serie A</a>
+</td>
+<td>21</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td colspan="2">—</td>
+<td>22</td>
+<td>0
+</td></tr>
+<tr>
+<td rowspan="6"><a href="/wiki/FC_Porto" title="FC Porto">Porto</a>
+</td>
+<td><a href="/wiki/2016%E2%80%9317_FC_Porto_season" title="2016–17 FC Porto season">2016–17</a>
+</td>
+<td><a href="/wiki/Primeira_Liga" title="Primeira Liga">Primeira Liga</a>
+</td>
+<td>32</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>9<sup id="cite_ref-UCL_36-2" class="reference"><a href="#cite_note-UCL-36">&#91;f&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>45</td>
+<td>1
+</td></tr>
+<tr>
+<td><a href="/wiki/2017%E2%80%9318_FC_Porto_season" title="2017–18 FC Porto season">2017–18</a>
+</td>
+<td>Primeira Liga
+</td>
+<td>30</td>
+<td>3</td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>7<sup id="cite_ref-UCL_36-3" class="reference"><a href="#cite_note-UCL-36">&#91;f&#93;</a></sup></td>
+<td>1</td>
+<td colspan="2">—</td>
+<td>45</td>
+<td>4
+</td></tr>
+<tr>
+<td><a href="/wiki/2018%E2%80%9319_FC_Porto_season" title="2018–19 FC Porto season">2018–19</a>
+</td>
+<td>Primeira Liga
+</td>
+<td>33</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>4</td>
+<td>0</td>
+<td>10<sup id="cite_ref-UCL_36-4" class="reference"><a href="#cite_note-UCL-36">&#91;f&#93;</a></sup></td>
+<td>1</td>
+<td>1<sup id="cite_ref-SCO_38-0" class="reference"><a href="#cite_note-SCO-38">&#91;h&#93;</a></sup></td>
+<td>0</td>
+<td>53</td>
+<td>6
+</td></tr>
+<tr>
+<td><a href="/wiki/2019%E2%80%9320_FC_Porto_season" title="2019–20 FC Porto season">2019–20</a><sup id="cite_ref-19/20_39-0" class="reference"><a href="#cite_note-19/20-39">&#91;31&#93;</a></sup>
+</td>
+<td>Primeira Liga
+</td>
+<td>31</td>
+<td>11</td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>10<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;i&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>49</td>
+<td>13
+</td></tr>
+<tr>
+<td><a href="/wiki/2020%E2%80%9321_FC_Porto_season" title="2020–21 FC Porto season">2020–21</a><sup id="cite_ref-20/21_41-0" class="reference"><a href="#cite_note-20/21-41">&#91;32&#93;</a></sup>
+</td>
+<td>Primeira Liga
+</td>
+<td>3</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>3</td>
+<td>2
+</td></tr>
+<tr>
+<th colspan="2">Total
+</th>
+<th>129</th>
+<th>21</th>
+<th>17</th>
+<th>2</th>
+<th>12</th>
+<th>1</th>
+<th>36</th>
+<th>2</th>
+<th>1</th>
+<th>0</th>
+<th>195</th>
+<th>26
+</th></tr>
+<tr>
+<td><a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a>
+</td>
+<td><a href="/wiki/2020%E2%80%9321_Manchester_United_F.C._season" title="2020–21 Manchester United F.C. season">2020–21</a><sup id="cite_ref-20/21_41-1" class="reference"><a href="#cite_note-20/21-41">&#91;32&#93;</a></sup>
+</td>
+<td><a href="/wiki/Premier_League" title="Premier League">Premier League</a>
+</td>
+<td>7</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>7<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;j&#93;</a></sup></td>
+<td>0</td>
+<td colspan="2">—</td>
+<td>17</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="3">Career total
+</th>
+<th>245</th>
+<th>26</th>
+<th>40</th>
+<th>2</th>
+<th>13</th>
+<th>1</th>
+<th>53</th>
+<th>2</th>
+<th>35</th>
+<th>0</th>
+<th>386</th>
+<th>31
+</th></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Includes <a href="/wiki/Copa_do_Brasil" title="Copa do Brasil">Copa do Brasil</a>, <a href="/wiki/Turkish_Cup" title="Turkish Cup">Turkish Cup</a>, <a href="/wiki/Coppa_Italia" title="Coppa Italia">Coppa Italia</a>, <a href="/wiki/Ta%C3%A7a_de_Portugal" title="Taça de Portugal">Taça de Portugal</a></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Includes <a href="/wiki/Ta%C3%A7a_da_Liga" title="Taça da Liga">Taça da Liga</a></span>
+</li>
+<li id="cite_note-BRA-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-BRA_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BRA_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Appearances in the <a href="/wiki/Campeonato_Ga%C3%BAcho" title="Campeonato Gaúcho">Campeonato Gaúcho</a> and <a href="/wiki/Copa_FGF" title="Copa FGF">Copa FGF</a></span>
+</li>
+<li id="cite_note-CL-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-CL_34-0">^</a></b></span> <span class="reference-text">Appearances in the <a href="/wiki/Copa_Libertadores" title="Copa Libertadores">Copa Libertadores</a></span>
+</li>
+<li id="cite_note-CG-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-CG_35-0">^</a></b></span> <span class="reference-text">Appearances in the Campeonato Gaúcho</span>
+</li>
+<li id="cite_note-UCL-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-UCL_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UCL_36-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-UCL_36-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-UCL_36-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-UCL_36-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Appearance(s) in the <a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">UEFA Champions League</a></span>
+</li>
+<li id="cite_note-TSC-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-TSC_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TSC_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Appearance(s) in the <a href="/wiki/Turkish_Super_Cup" title="Turkish Super Cup">Turkish Super Cup</a></span>
+</li>
+<li id="cite_note-SCO-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-SCO_38-0">^</a></b></span> <span class="reference-text">Appearance in the <a href="/wiki/Superta%C3%A7a_C%C3%A2ndido_de_Oliveira" title="Supertaça Cândido de Oliveira">Supertaça Cândido de Oliveira</a></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Two appearances in the UEFA Champions League, eight in the <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Europa League</a>.</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">Four appearances in the UEFA Champions League, three appearances in the UEFA Europa League.</span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="International">International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=11" title="Edit section: International">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><i>As of matches played 13 November 2020</i><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;33&#93;</a></sup></dd></dl>
+<table class="wikitable" style="text-align:center">
+<caption>Appearances and goals by national team and year
+</caption>
+<tbody><tr>
+<th>National team</th>
+<th>Year</th>
+<th>Apps</th>
+<th>Goals
+</th></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a>
+</td>
+<td>2019</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr>
+<td>2020</td>
+<td>3</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2">Total</th>
+<th>4</th>
+<th>0
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=12" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Juventude</b>
+</p>
+<ul><li><a href="/wiki/Copa_FGF" title="Copa FGF">Copa FGF</a>: 2011, 2012<sup id="cite_ref-Soccerway_30-1" class="reference"><a href="#cite_note-Soccerway-30">&#91;30&#93;</a></sup></li></ul>
+<p><b>Galatasaray</b>
+</p>
+<ul><li><a href="/wiki/S%C3%BCper_Lig" title="Süper Lig">Süper Lig</a>: <a href="/wiki/2014%E2%80%9315_S%C3%BCper_Lig" title="2014–15 Süper Lig">2014–15</a><sup id="cite_ref-Soccerway_30-2" class="reference"><a href="#cite_note-Soccerway-30">&#91;30&#93;</a></sup></li>
+<li><a href="/wiki/Turkish_Cup" title="Turkish Cup">Turkish Cup</a>: <a href="/wiki/2013%E2%80%9314_Turkish_Cup" title="2013–14 Turkish Cup">2013–14</a>, <a href="/wiki/2014%E2%80%9315_Turkish_Cup" title="2014–15 Turkish Cup">2014–15</a><sup id="cite_ref-Soccerway_30-3" class="reference"><a href="#cite_note-Soccerway-30">&#91;30&#93;</a></sup></li>
+<li><a href="/wiki/Turkish_Super_Cup" title="Turkish Super Cup">Turkish Super Cup</a>: <a href="/wiki/2015_Turkish_Super_Cup" title="2015 Turkish Super Cup">2015</a><sup id="cite_ref-Soccerway_30-4" class="reference"><a href="#cite_note-Soccerway-30">&#91;30&#93;</a></sup></li></ul>
+<p><b>Porto</b>
+</p>
+<ul><li><a href="/wiki/Primeira_Liga" title="Primeira Liga">Primeira Liga</a>: <a href="/wiki/2017%E2%80%9318_Primeira_Liga" title="2017–18 Primeira Liga">2017–18</a>,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;34&#93;</a></sup> <a href="/wiki/2019%E2%80%9320_Primeira_Liga" title="2019–20 Primeira Liga">2019–20</a><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;35&#93;</a></sup></li>
+<li><a href="/wiki/Ta%C3%A7a_de_Portugal" title="Taça de Portugal">Taça de Portugal</a>: <a href="/wiki/2019%E2%80%9320_Ta%C3%A7a_de_Portugal" title="2019–20 Taça de Portugal">2019–20</a><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;36&#93;</a></sup></li>
+<li><a href="/wiki/Superta%C3%A7a_C%C3%A2ndido_de_Oliveira" title="Supertaça Cândido de Oliveira">Supertaça Cândido de Oliveira</a>: <a href="/wiki/2018_Superta%C3%A7a_C%C3%A2ndido_de_Oliveira" title="2018 Supertaça Cândido de Oliveira">2018</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;37&#93;</a></sup></li></ul>
+<p><b>Individual</b>
+</p>
+<ul><li><a href="/wiki/Brasileir%C3%A3o_S%C3%A9rie_A_Team_of_the_Year" class="mw-redirect" title="Brasileirão Série A Team of the Year">Brasileirão Série A Team of the Year</a> – Best Left-back: 2013<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;38&#93;</a></sup></li>
+<li><a href="/wiki/Bola_de_Prata_(Brazil)" class="mw-redirect" title="Bola de Prata (Brazil)">Bola de Prata</a> – Best Left-back: 2013<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;39&#93;</a></sup></li>
+<li><a href="/wiki/SJPF_Primeira_Liga_Team_of_the_Year" class="mw-redirect" title="SJPF Primeira Liga Team of the Year">SJPF Primeira Liga Team of the Year</a>: 2016,<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;40&#93;</a></sup> 2017<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;41&#93;</a></sup></li>
+<li><a href="/wiki/Primeira_Liga" title="Primeira Liga">Primeira Liga</a> Defender of the Month: August 2017,<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;42&#93;</a></sup> January 2018,<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;43&#93;</a></sup> February 2018,<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;44&#93;</a></sup> April 2018,<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;45&#93;</a></sup> August 2019,<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;46&#93;</a></sup> December 2019,<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;47&#93;</a></sup> February 2020<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;48&#93;</a></sup></li>
+<li>Primeira Liga Player of the Month: February 2020<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;49&#93;</a></sup></li>
+<li>Primeira Liga Team of the Year: <a href="/wiki/2017%E2%80%9318_Primeira_Liga#Annual_awards" title="2017–18 Primeira Liga">2017–18</a>,<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;50&#93;</a></sup> <a href="/wiki/2018%E2%80%9319_Primeira_Liga#Annual_awards" title="2018–19 Primeira Liga">2018–19</a>,<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;51&#93;</a></sup> <a href="/wiki/2019%E2%80%9320_Primeira_Liga#Annual_awards" title="2019–20 Primeira Liga">2019–20</a><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;52&#93;</a></sup></li>
+<li>Primeira Liga Goal of the Month: October/November 2019<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;53&#93;</a></sup></li>
+<li><a href="/wiki/List_of_FC_Porto_records_and_statistics#Player_of_the_Year" title="List of FC Porto records and statistics">FC Porto Player of the Year</a> – Dragão de Ouro Award: 2018<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">&#91;54&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.premierleague.com/news/1869523">"2020/21 Premier League squads confirmed"</a>. Premier League. 20 October 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2020%2F21+Premier+League+squads+confirmed&amp;rft.pub=Premier+League&amp;rft.date=2020-10-20&amp;rft_id=https%3A%2F%2Fwww.premierleague.com%2Fnews%2F1869523&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/os-melhores-do-campeonato-sao-homenageados-na-festa-da-premiacao-brasileirao-2013">"Os melhores do campeonato são homenageados na festa da Premiação Brasileirão 2013"</a> &#91;The best of the championship are honored in the awards party Brasileirão 2013&#93; (in Portuguese). <a href="/wiki/Brazilian_Football_Confederation" title="Brazilian Football Confederation">CBF</a>. 9 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Os+melhores+do+campeonato+s%C3%A3o+homenageados+na+festa+da+Premia%C3%A7%C3%A3o+Brasileir%C3%A3o+2013&amp;rft.pub=CBF&amp;rft.date=2013-12-09&amp;rft_id=https%3A%2F%2Fwww.cbf.com.br%2Ffutebol-brasileiro%2Fnoticias%2Fcampeonato-brasileiro-serie-a%2Fos-melhores-do-campeonato-sao-homenageados-na-festa-da-premiacao-brasileirao-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://int.soccerway.com/matches/2011/01/24/brazil/gaucho-1/esporte-clube-sao-jose-porto-alegre/esporte-clube-juventude/1047629/">EC São José vs. Juventude 1–2</a>; Global Sports Media, 24 January 2011</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.futebolinterior.com.br/clube/juventude-rs/191638+Juventude-RS_1_x_1_Cruzeiro-RS_-_Decepcao_alviverde_em_Caxias_do_Sul">Juventude-RS 1 x 1 Cruzeiro-RS - Decepção alviverde em Caxias do Sul! (Juventude-RS 1–1 Cruzeiro-RS — <i>Alviverde</i> disappointment in Caxias do Sul!)</a>; Futebol Interior, 20 August 2011 <span class="languageicon">(in Portuguese)</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esporte.uol.com.br/futebol/ultimas-noticias/2012/12/12/gremio-contrata-lateral-esquerdo-alex-telles-e-encaminha-parceria-com-o-juventude.htm">Grêmio contrata lateral esquerdo Alex Telles e encaminha parceria com o Juventude (Grêmio signs left back Alex Telles and pushes partnership with Juventude forward)</a>; UOL Esporte, 12 December 2012 <span class="languageicon">(in Portuguese)</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://globoesporte.globo.com/jogo/gaucho-2013/03-02-2013/internacional-gremio.html">Deu a lógica: em Gre-Nal quente, Inter vence os reservas do Grêmio</a>; Globo Esporte, 3 February 2013 <span class="languageicon">(in Portuguese)</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://globoesporte.globo.com/jogo/brasileirao2013/26-05-2013/gremio-nautico.html">Grêmio cumpre promessa, joga bem e vence Náutico pelo Brasileirão</a>; Globo Esporte, 26 May 2013 <span class="languageicon">(in Portuguese)</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.galatasaray.org/futbol/futbol_as/haber/19071.php">Alex Telles Galatasaray'da &#91;Alex Telles to Galatasaray&#93;</a>; Galatasaray's official website, 22 January 2014 <span class="languageicon">(in Turkish)</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www2.galatasaray.org/futbol/turkiyekupasi/haber/19248.php">Tokatspor 0–3 Galatasaray</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140221201504/http://www2.galatasaray.org/futbol/turkiyekupasi/haber/19248.php">Archived</a> 21 February 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>; Galatasaray's official website, 5 February 2014 <span class="languageicon">(in Turkish)</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140227072312/http://www2.galatasaray.org/futbol/superlig/haber/19348.php">"Galatasaray vs Antalyaspor"</a>. Galatasaray.org. 17 February 2014. Archived from <a rel="nofollow" class="external text" href="http://www2.galatasaray.org/futbol/superlig/haber/19348.php">the original</a> on 27 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">18 February</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Galatasaray+vs+Antalyaspor&amp;rft.date=2014-02-17&amp;rft_id=http%3A%2F%2Fwww2.galatasaray.org%2Ffutbol%2Fsuperlig%2Fhaber%2F19348.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.hurriyet.com.tr/spor/futbol/25968388.asp">"Telles ilk golünü att &#91;Telles's first goal&#93;"</a>. <i>Hürriyet</i>. 8 March 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=H%C3%BCrriyet&amp;rft.atitle=Telles+ilk+gol%C3%BCn%C3%BC+att%C4%B1+%5BTelles%27s+first+goal%5D&amp;rft.date=2014-03-08&amp;rft_id=http%3A%2F%2Fwww.hurriyet.com.tr%2Fspor%2Ffutbol%2F25968388.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-KAP-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-KAP_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KAP_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.kap.gov.tr/en/search/notice-results.aspx?id=464832">"Alex Nicolao Telles – Geçici Transfer"</a> (in Turkish). Turkish Public Disclosure System (KAP). 1 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alex+Nicolao+Telles+%E2%80%93+Ge%C3%A7ici+Transfer&amp;rft.pub=Turkish+Public+Disclosure+System+%28KAP%29&amp;rft.date=2015-09-01&amp;rft_id=http%3A%2F%2Fwww.kap.gov.tr%2Fen%2Fsearch%2Fnotice-results.aspx%3Fid%3D464832&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.inter.it/en/news/48882">"ALEX TELLES IS A NERAZZURRI PLAYER"</a>. inter.it. 31 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ALEX+TELLES+IS+A+NERAZZURRI+PLAYER&amp;rft.pub=inter.it&amp;rft.date=2015-08-31&amp;rft_id=https%3A%2F%2Fwww.inter.it%2Fen%2Fnews%2F48882&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espn.com/soccer/soccer-transfers/story/2591278/felipe-melo-adem-ljajic-alex-telles-sign-with-inter-milan">"Felipe Melo, Adem Ljajic and Alex Telles complete Inter Milan moves"</a>. ESPN FC. 1 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Felipe+Melo%2C+Adem+Ljajic+and+Alex+Telles+complete+Inter+Milan+moves&amp;rft.pub=ESPN+FC&amp;rft.date=2015-09-01&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fsoccer%2Fsoccer-transfers%2Fstory%2F2591278%2Ffelipe-melo-adem-ljajic-alex-telles-sign-with-inter-milan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.sportmediaset.mediaset.it/calcio/inter/serie-a-inter-milan-1-0-guarin-decide-il-derby_1077027-201502a.shtml">"Serie A: Inter-Milan 1-0, Guarin decide il derby"</a> &#91;Serie A: Inter-Milan 1-0, Guarin decides the derby&#93; (in Italian). Sport Mediaset. 13 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Serie+A%3A+Inter-Milan+1-0%2C+Guarin+decide+il+derby&amp;rft.pub=Sport+Mediaset&amp;rft.date=2015-09-13&amp;rft_id=http%3A%2F%2Fwww.sportmediaset.mediaset.it%2Fcalcio%2Finter%2Fserie-a-inter-milan-1-0-guarin-decide-il-derby_1077027-201502a.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://maisfutebol.iol.pt/liga/transferencias/oficial-alex-telles-no-fc-porto-por-6-5-milhoes-de-euros">"OFICIAL: Alex Telles no FC Porto por 6,5 milhões de euros"</a> &#91;OFFICIAL: Alex Telles at FC Porto for 6.5 million euros&#93;. <i>Mais Futebol</i> (in Portuguese). 12 July 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mais+Futebol&amp;rft.atitle=OFICIAL%3A+Alex+Telles+no+FC+Porto+por+6%2C5+milh%C3%B5es+de+euros&amp;rft.date=2016-07-12&amp;rft_id=https%3A%2F%2Fmaisfutebol.iol.pt%2Fliga%2Ftransferencias%2Foficial-alex-telles-no-fc-porto-por-6-5-milhoes-de-euros&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/alex-telles-nao-quero-vir-de-passagem-quero-deixar-um-legado">"Alex Telles: "Não quero vir de passagem, quero deixar um legado<span class="cs1-kern-right">"</span>"</a> &#91;Alex Telles: «I do not want to come in passing, I want to leave a legacy»&#93;. <i><a href="/wiki/Record_(newspaper)" title="Record (newspaper)">Record</a></i> (in Portuguese). 13 July 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Record&amp;rft.atitle=Alex+Telles%3A+%22N%C3%A3o+quero+vir+de+passagem%2C+quero+deixar+um+legado%22&amp;rft.date=2016-07-13&amp;rft_id=https%3A%2F%2Fwww.record.pt%2Ffutebol%2Ffutebol-nacional%2Fliga-nos%2Ffc-porto%2Fdetalhe%2Falex-telles-nao-quero-vir-de-passagem-quero-deixar-um-legado&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/alex-telles-com-estreia-azarada">"Alex Telles com estreia azarada"</a> &#91;Alex Telles with unlucky debut&#93;. <i>Record</i> (in Portuguese). 12 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Record&amp;rft.atitle=Alex+Telles+com+estreia+azarada&amp;rft.date=2016-08-12&amp;rft_id=https%3A%2F%2Fwww.record.pt%2Ffutebol%2Ffutebol-nacional%2Fliga-nos%2Ffc-porto%2Fdetalhe%2Falex-telles-com-estreia-azarada&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.jn.pt/desporto/interior/f-c-porto-vence-boavista-com-reviravolta-5406078.html">"F.C. Porto vence Boavista com reviravolta"</a> &#91;F.C. Porto wins Boavista with turnaround&#93;. <i><a href="/wiki/Jornal_de_Not%C3%ADcias" title="Jornal de Notícias">Jornal de Notícias</a></i> (in Portuguese). 23 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Jornal+de+Not%C3%ADcias&amp;rft.atitle=F.C.+Porto+vence+Boavista+com+reviravolta&amp;rft.date=2016-09-23&amp;rft_id=https%3A%2F%2Fwww.jn.pt%2Fdesporto%2Finterior%2Ff-c-porto-vence-boavista-com-reviravolta-5406078.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.skysports.com/football/news/11667/12089661/alex-telles-manchester-united-agree-deal-in-principle-for-porto-left-back">"Alex Telles: Manchester United agree deal in principle for Porto left-back"</a>. <i>Skysports.com</i>. Sky Sports. 4 October 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skysports.com&amp;rft.atitle=Alex+Telles%3A+Manchester+United+agree+deal+in+principle+for+Porto+left-back&amp;rft.date=2020-10-04&amp;rft_id=https%3A%2F%2Fwww.skysports.com%2Ffootball%2Fnews%2F11667%2F12089661%2Falex-telles-manchester-united-agree-deal-in-principle-for-porto-left-back&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.manutd.com/en/news/detail/porto-and-brazil-defender-alex-telles-signs-for-united">"Telles signs for United"</a>. <i>ManUtd.com</i>. Manchester United. 5 October 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ManUtd.com&amp;rft.atitle=Telles+signs+for+United&amp;rft.date=2020-10-05&amp;rft_id=https%3A%2F%2Fwww.manutd.com%2Fen%2Fnews%2Fdetail%2Fporto-and-brazil-defender-alex-telles-signs-for-united&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.skysports.com/football/news/11667/12089940/alex-telles-manchester-united-sign-porto-left-back-for-15-4m">"Man United sign Telles from Porto for £15.4m"</a>. <i>Skysports.com</i>. Sky Sports. 5 October 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skysports.com&amp;rft.atitle=Man+United+sign+Telles+from+Porto+for+%C2%A315.4m&amp;rft.date=2020-10-05&amp;rft_id=https%3A%2F%2Fwww.skysports.com%2Ffootball%2Fnews%2F11667%2F12089940%2Falex-telles-manchester-united-sign-porto-left-back-for-15-4m&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/sport/football/54425891">"Alex Telles: Manchester United sign Brazil left-back from Porto"</a>. <i>bbc.com</i>. BBC Sport. 5 October 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=bbc.com&amp;rft.atitle=Alex+Telles%3A+Manchester+United+sign+Brazil+left-back+from+Porto&amp;rft.date=2020-10-05&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2F54425891&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFay2020" class="citation web cs1">Fay, Richard (20 October 2020). <a rel="nofollow" class="external text" href="https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-psg-19138187">"Why Tuanzebe and Telles start for Manchester United vs PSG"</a>. <i>Manchester Evening News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Manchester+Evening+News&amp;rft.atitle=Why+Tuanzebe+and+Telles+start+for+Manchester+United+vs+PSG&amp;rft.date=2020-10-20&amp;rft.aulast=Fay&amp;rft.aufirst=Richard&amp;rft_id=https%3A%2F%2Fwww.manchestereveningnews.co.uk%2Fsport%2Ffootball%2Ffootball-news%2Fmanchester-united-line-up-psg-19138187&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Passport-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Passport_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Passport_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.football-italia.net/92705/italy-ask-after-alex-telles">"Italy ask after Alex Telles"</a>. <i>Football Italia</i>. 9 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Football+Italia&amp;rft.atitle=Italy+ask+after+Alex+Telles&amp;rft.date=2016-10-09&amp;rft_id=https%3A%2F%2Fwww.football-italia.net%2F92705%2Fitaly-ask-after-alex-telles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGladwell2016" class="citation web cs1">Gladwell, Ben (13 October 2016). <a rel="nofollow" class="external text" href="http://www.espn.com/soccer/italy/story/2971439/porto-defender-alex-telles-open-to-representing-italy-instead-of-brazil">"Porto defender Alex Telles open to representing Italy instead of Brazil"</a>. ESPN FC<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Porto+defender+Alex+Telles+open+to+representing+Italy+instead+of+Brazil&amp;rft.pub=ESPN+FC&amp;rft.date=2016-10-13&amp;rft.aulast=Gladwell&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fsoccer%2Fitaly%2Fstory%2F2971439%2Fporto-defender-alex-telles-open-to-representing-italy-instead-of-brazil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/alex-telles-substitui-filipe-luis-nos-amistosos-de-marco">"Alex Telles substitui Filipe Luís nos amistosos de março"</a>. CBF. 15 March 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alex+Telles+substitui+Filipe+Lu%C3%ADs+nos+amistosos+de+mar%C3%A7o&amp;rft.pub=CBF&amp;rft.date=2019-03-15&amp;rft_id=https%3A%2F%2Fwww.cbf.com.br%2Fselecao-brasileira%2Fnoticias%2Fselecao-masculina%2Falex-telles-substitui-filipe-luis-nos-amistosos-de-marco&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espn.com/soccer/match?gameId=537099">"Brazil v Panama game report"</a>. <a href="/wiki/ESPN" title="ESPN">ESPN</a>. 23 March 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Brazil+v+Panama+game+report&amp;rft.pub=ESPN&amp;rft.date=2019-03-23&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fsoccer%2Fmatch%3FgameId%3D537099&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.trtspor.com.tr/haber/futbol/spor-toto-super-lig/roberto-carlostan-alex-telles-yorumu-62582.html">"Roberto Carlos'tan Alex Telles yorumu"</a> &#91;Roberto Carlos speaks of Alex Telles&#93; (in Turkish). TRTspor. 16 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Roberto+Carlos%27tan+Alex+Telles+yorumu&amp;rft.pub=TRTspor&amp;rft.date=2014-01-16&amp;rft_id=http%3A%2F%2Fwww.trtspor.com.tr%2Fhaber%2Ffutbol%2Fspor-toto-super-lig%2Froberto-carlostan-alex-telles-yorumu-62582.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Soccerway-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Soccerway_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Soccerway_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Soccerway_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Soccerway_30-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Soccerway_30-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/alex-nicolao-telles/115167/">Alex Telles</a> at Soccerway. Retrieved 11 March 2021.</span>
+</li>
+<li id="cite_note-19/20-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-19/20_39-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=74686&amp;season_id=152">"Games played by Alex Telles in 2019/2020"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">24 November</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Alex+Telles+in+2019%2F2020&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D74686%26season_id%3D152&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20/21-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-20/21_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-20/21_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.soccerbase.com/players/player.sd?player_id=74686&amp;season_id=153">"Games played by Alex Telles in 2020/2021"</a>. <i>Soccerbase</i>. Centurycomm<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Soccerbase&amp;rft.atitle=Games+played+by+Alex+Telles+in+2020%2F2021&amp;rft_id=https%3A%2F%2Fwww.soccerbase.com%2Fplayers%2Fplayer.sd%3Fplayer_id%3D74686%26season_id%3D153&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/alex-nicolao-telles/115167/">"Alex Telles"</a>. <i>int.soccerway.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=int.soccerway.com&amp;rft.atitle=Alex+Telles&amp;rft_id=https%3A%2F%2Fint.soccerway.com%2Fplayers%2Falex-nicolao-telles%2F115167%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ojogo.pt/futebol/1a-liga/porto/noticias/fc-porto-e-o-novo-campeao-nacional-9312364.html">"FC Porto é o novo campeão nacional"</a> &#91;FC Porto is the new national champion&#93; (in Portuguese). <a href="/wiki/O_Jogo" title="O Jogo">O Jogo</a>. 5 May 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FC+Porto+%C3%A9+o+novo+campe%C3%A3o+nacional&amp;rft.pub=O+Jogo&amp;rft.date=2018-05-05&amp;rft_id=https%3A%2F%2Fwww.ojogo.pt%2Ffutebol%2F1a-liga%2Fporto%2Fnoticias%2Ffc-porto-e-o-novo-campeao-nacional-9312364.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rtp.pt/noticias/fc-porto/fc-porto-e-campeao-nacional-20192020_d1245210">"FC Porto é o campeão nacional 2019/2020"</a> &#91;FC Porto is the 2019/2020 national champion&#93; (in Portuguese). <a href="/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal" title="Rádio e Televisão de Portugal">Rádio e Televisão de Portugal</a>. 16 July 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FC+Porto+%C3%A9+o+campe%C3%A3o+nacional+2019%2F2020&amp;rft.pub=R%C3%A1dio+e+Televis%C3%A3o+de+Portugal&amp;rft.date=2020-07-16&amp;rft_id=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Ffc-porto%2Ffc-porto-e-campeao-nacional-20192020_d1245210&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.dw.com/pt-002/ta%C3%A7a-de-portugal-fc-porto-conquista-dobradinha/a-54406385">"Taça de Portugal: FC Porto conquista "dobradinha<span class="cs1-kern-right">"</span>"</a> &#91;Portuguese Cup: FC Porto wins "double"&#93; (in Portuguese). <a href="/wiki/Deutsche_Welle" title="Deutsche Welle">Deutsche Welle</a>. 2 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ta%C3%A7a+de+Portugal%3A+FC+Porto+conquista+%22dobradinha%22&amp;rft.pub=Deutsche+Welle&amp;rft.date=2020-08-02&amp;rft_id=https%3A%2F%2Fwww.dw.com%2Fpt-002%2Fta%25C3%25A7a-de-portugal-fc-porto-conquista-dobradinha%2Fa-54406385&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rtp.pt/noticias/futebol-nacional/fc-porto-conquista-supertaca-pela-21-vez_d1091335">"FC Porto conquista Supertaça pela 21.ª vez"</a> &#91;FC Porto conquer Supercup for the 21st time&#93; (in Portuguese). Rádio e Televisão de Portugal. 4 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FC+Porto+conquista+Superta%C3%A7a+pela+21.%C2%AA+vez&amp;rft.pub=R%C3%A1dio+e+Televis%C3%A3o+de+Portugal&amp;rft.date=2018-08-04&amp;rft_id=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Ffutebol-nacional%2Ffc-porto-conquista-supertaca-pela-21-vez_d1091335&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/os-melhores-do-campeonato-sao-homenageados-na-festa-da-premiacao-brasileirao-2013">"Os melhores do campeonato são homenageados na festa da Premiação Brasileirão 2013"</a> &#91;The best of the championship are honored in the awards party Brasileirão 2013&#93; (in Portuguese). <a href="/wiki/Brazilian_Football_Confederation" title="Brazilian Football Confederation">CBF</a>. 9 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Os+melhores+do+campeonato+s%C3%A3o+homenageados+na+festa+da+Premia%C3%A7%C3%A3o+Brasileir%C3%A3o+2013&amp;rft.pub=CBF&amp;rft.date=2013-12-09&amp;rft_id=https%3A%2F%2Fwww.cbf.com.br%2Ffutebol-brasileiro%2Fnoticias%2Fcampeonato-brasileiro-serie-a%2Fos-melhores-do-campeonato-sao-homenageados-na-festa-da-premiacao-brasileirao-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.espn.com.br/noticia/374967_campeao-cruzeiro-domina-bola-de-prata-2013-veja-a-selecao-do-brasileirao">"Campeão, Cruzeiro domina Bola de Prata 2013; veja a seleção do Brasileirão"</a> &#91;Champion, Cruzeiro dominates Bola de Prata 2013; see the selection of the Brasileirão&#93; (in Portuguese). <a href="/wiki/ESPN_Brasil" title="ESPN Brasil">ESPN Brasil</a>. 9 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Campe%C3%A3o%2C+Cruzeiro+domina+Bola+de+Prata+2013%3B+veja+a+sele%C3%A7%C3%A3o+do+Brasileir%C3%A3o&amp;rft.pub=ESPN+Brasil&amp;rft.date=2013-12-09&amp;rft_id=http%3A%2F%2Fwww.espn.com.br%2Fnoticia%2F374967_campeao-cruzeiro-domina-bola-de-prata-2013-veja-a-selecao-do-brasileirao&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://sjogadores.pt/?pt=news&amp;op=OP_SHOW_DETAIL&amp;id=8450">"SJPF revela os melhores 11 de 2016"</a> &#91;SPFP discloses best 11 of 2016&#93; (in Portuguese). SJPF. 20 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SJPF+revela+os+melhores+11+de+2016&amp;rft.pub=SJPF&amp;rft.date=2017-03-20&amp;rft_id=http%3A%2F%2Fsjogadores.pt%2F%3Fpt%3Dnews%26op%3DOP_SHOW_DETAIL%26id%3D8450&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://sjogadores.pt/?pt=news&amp;op=OP_SHOW_DETAIL&amp;id=9309">"Sindicato revela os melhores 11 de 2017"</a> &#91;Union discloses best 11 of 2017&#93; (in Portuguese). SJPF. 19 March 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sindicato+revela+os+melhores+11+de+2017&amp;rft.pub=SJPF&amp;rft.date=2018-03-19&amp;rft_id=http%3A%2F%2Fsjogadores.pt%2F%3Fpt%3Dnews%26op%3DOP_SHOW_DETAIL%26id%3D9309&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ligaportugal.pt/pt/epocas/20172018/noticias/institucional/vencedores-dos-premios-mensais-da-liga-portugal-1">"Vencedores dos Prémios mensais da Liga Portugal 2017–18"</a> &#91;Winners of the Liga Portugal 2017–18 Monthly Awards&#93; (in Portuguese). <a href="/wiki/Liga_Portuguesa_de_Futebol_Profissional" title="Liga Portuguesa de Futebol Profissional">Liga Portugal</a>. 15 September 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vencedores+dos+Pr%C3%A9mios+mensais+da+Liga+Portugal+2017%E2%80%9318&amp;rft.pub=Liga+Portugal&amp;rft.date=2017-09-15&amp;rft_id=http%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20172018%2Fnoticias%2Finstitucional%2Fvencedores-dos-premios-mensais-da-liga-portugal-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ligaportugal.pt/pt/epocas/20172018/noticias/institucional/jonas-e-chiquinho-os-melhores-de-janeiro/">"Jonas e Chiquinho, os melhores de janeiro"</a> &#91;Jonas and Chiquinho, the best of January&#93; (in Portuguese). Liga Portugal. 14 February 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jonas+e+Chiquinho%2C+os+melhores+de+janeiro&amp;rft.pub=Liga+Portugal&amp;rft.date=2018-02-14&amp;rft_id=http%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20172018%2Fnoticias%2Finstitucional%2Fjonas-e-chiquinho-os-melhores-de-janeiro%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ligaportugal.pt/pt/epocas/20172018/noticias/geral/jonas-e-vinicius-os-melhores-de-fevereiro">"Jonas e Vinícius, os melhores de fevereiro"</a> &#91;Jonas and Vinícius, the best of February&#93; (in Portuguese). Liga Portugal. 14 March 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jonas+e+Vin%C3%ADcius%2C+os+melhores+de+fevereiro&amp;rft.pub=Liga+Portugal&amp;rft.date=2018-03-14&amp;rft_id=http%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20172018%2Fnoticias%2Fgeral%2Fjonas-e-vinicius-os-melhores-de-fevereiro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ligaportugal.pt/pt/epocas/20172018/noticias/geral/bruno-fernandes-e-ricardo-gomes-eleitos-jogador-do-mes-de-abril/">"Bruno Fernandes e Ricardo Gomes eleitos "Jogador do Mês" de abril"</a> &#91;Bruno Fernandes and Ricardo Gomes elected "Player of the Month" of April&#93; (in Portuguese). Liga Portugal. 10 May 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bruno+Fernandes+e+Ricardo+Gomes+eleitos+%22Jogador+do+M%C3%AAs%22+de+abril&amp;rft.pub=Liga+Portugal&amp;rft.date=2018-05-10&amp;rft_id=http%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20172018%2Fnoticias%2Fgeral%2Fbruno-fernandes-e-ricardo-gomes-eleitos-jogador-do-mes-de-abril%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ligaportugal.pt/pt/epocas/20192020/noticias/geral/liga-nos/melhores-do-mes/agosto/melhores-de-agosto-alex-telles-eleito-o-defesa-do-mes-na-liga-nos/#">"Melhores de agosto: Alex Telles eleito o Defesa do Mês na Liga NOS"</a> &#91;Best of August: Alex Telles elected Defender of the Month in Liga NOS&#93; (in Portuguese). Liga Portugal. 10 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melhores+de+agosto%3A+Alex+Telles+eleito+o+Defesa+do+M%C3%AAs+na+Liga+NOS&amp;rft.pub=Liga+Portugal&amp;rft.date=2019-09-10&amp;rft_id=https%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fliga-nos%2Fmelhores-do-mes%2Fagosto%2Fmelhores-de-agosto-alex-telles-eleito-o-defesa-do-mes-na-liga-nos%2F%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/liga-nos/melhores-do-mes/dezembro/melhores-de-dezembro-alex-telles-vence-o-defesa-do-mes-da-liga-nos/">"Melhores de dezembro: Alex Telles vence o Defesa do Mês da Liga NOS"</a> &#91;Best of December: Alex Telles wins Defender of the Month of Liga NOS&#93; (in Portuguese). Liga Portugal. 6 January 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melhores+de+dezembro%3A+Alex+Telles+vence+o+Defesa+do+M%C3%AAs+da+Liga+NOS&amp;rft.pub=Liga+Portugal&amp;rft.date=2020-01-06&amp;rft_id=https%3A%2F%2Fwww.ligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fliga-nos%2Fmelhores-do-mes%2Fdezembro%2Fmelhores-de-dezembro-alex-telles-vence-o-defesa-do-mes-da-liga-nos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/premios/fevereiro/melhores-de-fevereiro-alex-telles-vence-o-defesa-do-mes-da-liga-nos/">"Melhores de fevereiro: Alex Telles vence o Defesa do Mês da Liga NOS"</a> &#91;Best of February: Alex Telles wins Defender of the Month of Liga NOS&#93; (in Portuguese). Liga Portugal. 10 March 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melhores+de+fevereiro%3A+Alex+Telles+vence+o+Defesa+do+M%C3%AAs+da+Liga+NOS&amp;rft.pub=Liga+Portugal&amp;rft.date=2020-03-10&amp;rft_id=https%3A%2F%2Fwww.ligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fpremios%2Ffevereiro%2Fmelhores-de-fevereiro-alex-telles-vence-o-defesa-do-mes-da-liga-nos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/premios/fevereiro/melhores-de-fevereiro-alex-telles-e-o-melhor-jogador-do-mes-na-liga-nos/">"Melhores de fevereiro: Alex Telles é o Melhor Jogador do Mês na Liga NOS"</a> &#91;Best of February: Alex Telles is the Best Player of the Month in Liga NOS&#93; (in Portuguese). Liga Portugal. 12 March 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melhores+de+fevereiro%3A+Alex+Telles+%C3%A9+o+Melhor+Jogador+do+M%C3%AAs+na+Liga+NOS&amp;rft.pub=Liga+Portugal&amp;rft.date=2020-03-12&amp;rft_id=https%3A%2F%2Fwww.ligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fpremios%2Ffevereiro%2Fmelhores-de-fevereiro-alex-telles-e-o-melhor-jogador-do-mes-na-liga-nos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ligaportugal.pt/pt/epocas/20182019/noticias/geral/fc-porto-lidera-onze-do-ano/">"FC Porto lidera Onze do Ano"</a> &#91;FC Porto leads Starting Eleven of the Year&#93; (in Portuguese). Liga Portugal. 5 July 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FC+Porto+lidera+Onze+do+Ano&amp;rft.pub=Liga+Portugal&amp;rft.date=2018-07-05&amp;rft_id=http%3A%2F%2Fligaportugal.pt%2Fpt%2Fepocas%2F20182019%2Fnoticias%2Fgeral%2Ffc-porto-lidera-onze-do-ano%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/kick-off-2019-20/vencedores-dos-premios-oficiais-da-liga-portugal-2018-2019/">"Vencedores dos Prémios Oficiais da Liga Portugal 2018-2019"</a> &#91;Liga Portugal Official Awards Winners 2018-2019&#93; (in Portuguese). Liga Portugal. 5 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vencedores+dos+Pr%C3%A9mios+Oficiais+da+Liga+Portugal+2018-2019&amp;rft.pub=Liga+Portugal&amp;rft.date=2019-07-05&amp;rft_id=https%3A%2F%2Fwww.ligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fkick-off-2019-20%2Fvencedores-dos-premios-oficiais-da-liga-portugal-2018-2019%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tvi24.iol.pt/fc-porto/conceicao/liga-todos-os-premiados-da-epoca-2019-20">"Liga: Todos os premiados da época 2019/20"</a> &#91;League: All winners of the 2019/20 season&#93; (in Portuguese). <a href="/wiki/TVI_24" title="TVI 24">TVI 24</a>. 28 August 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Liga%3A+Todos+os+premiados+da+%C3%A9poca+2019%2F20&amp;rft.pub=TVI+24&amp;rft.date=2020-08-28&amp;rft_id=https%3A%2F%2Ftvi24.iol.pt%2Ffc-porto%2Fconceicao%2Fliga-todos-os-premiados-da-epoca-2019-20&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/liga-nos/melhores-do-mes/novembro/melhores-de-outubronovembro-alex-telles-marcou-o-golo-do-mes-da-liga-nos/">"Melhores de outubro/novembro: Alex Telles marcou o Golo do Mês da Liga NOS"</a> &#91;Best of October/November: Alex Telles scored the Goal of the Month of Liga NOS&#93; (in Portuguese). Liga Portugal. 12 December 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melhores+de+outubro%2Fnovembro%3A+Alex+Telles+marcou+o+Golo+do+M%C3%AAs+da+Liga+NOS&amp;rft.pub=Liga+Portugal&amp;rft.date=2019-12-12&amp;rft_id=https%3A%2F%2Fwww.ligaportugal.pt%2Fpt%2Fepocas%2F20192020%2Fnoticias%2Fgeral%2Fliga-nos%2Fmelhores-do-mes%2Fnovembro%2Fmelhores-de-outubronovembro-alex-telles-marcou-o-golo-do-mes-da-liga-nos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://desporto.sapo.pt/futebol/primeira-liga/artigos/alex-telles-foi-eleito-futebolista-do-ano-na-gala-dos-dragoes-de-ouro">"Alex Telles foi eleito Futebolista do Ano na Gala dos Dragões de Ouro"</a> &#91;Alex Telles was elected Footballer of the Year at the Gala Dragões de Ouro&#93; (in Portuguese). <a href="/wiki/SAPO_(company)" title="SAPO (company)">Sapo Desporto</a>. 30 September 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alex+Telles+foi+eleito+Futebolista+do+Ano+na+Gala+dos+Drag%C3%B5es+de+Ouro&amp;rft.pub=Sapo+Desporto&amp;rft.date=2018-09-30&amp;rft_id=https%3A%2F%2Fdesporto.sapo.pt%2Ffutebol%2Fprimeira-liga%2Fartigos%2Falex-telles-foi-eleito-futebolista-do-ano-na-gala-dos-dragoes-de-ouro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlex+Telles" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alex_Telles&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Alex_Telles" class="extiw" title="commons:Category:Alex Telles"><span style="">Alex Telles</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://www.foradejogo.net/player.php?player=199212150009&amp;language=2">Alex Telles</a> at ForaDeJogo</li>
+<li><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/alex-nicolao-telles/115167/">Alex Telles</a> at Soccerway</li>
+<li><a rel="nofollow" class="external text" href="https://www.uefa.com/teamsandplayers/players/player=250067802/profile/index.html">Alex Telles</a> – <a href="/wiki/UEFA" title="UEFA">UEFA</a> competition record</li>
+<li><a rel="nofollow" class="external text" href="https://www.national-football-teams.com/player/74013.html">Alex Telles</a> at National-Football-Teams.com</li>
+<li><a rel="nofollow" class="external text" href="http://www.tff.org/Default.aspx?pageId=526&amp;kisiId=1677795">Alex Telles</a> at the <a href="/wiki/Turkish_Football_Federation" title="Turkish Football Federation">Turkish Football Federation</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130817092819/http://www.gremio.net/player/view.aspx?id=1355&amp;language=0&amp;i=plantel">Grêmio profile</a> <span class="languageicon">(in Portuguese)</span></li>
+<li><a rel="nofollow" class="external text" href="http://pitacodogringo.wordpress.com/2013/10/25/brazil-the-talent-factory-2013-featuring-alex-telles-mayke-rodrigo-caio-biro-biro-rafael-ratao/">Alex Telles featured in Brazil: the Talent Factory 2013</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Manchester_United_F.C._–_current_squad" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E20E0E; color:#FFF; border:1px solid #000; width:87%;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Manchester_United_F.C._squad" title="Template:Manchester United F.C. squad"><abbr title="View this template" style=";background:#E20E0E; color:#FFF; border:1px solid #000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manchester_United_F.C._squad" title="Template talk:Manchester United F.C. squad"><abbr title="Discuss this template" style=";background:#E20E0E; color:#FFF; border:1px solid #000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Manchester_United_F.C._squad&amp;action=edit"><abbr title="Edit this template" style=";background:#E20E0E; color:#FFF; border:1px solid #000; width:87%;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Manchester_United_F.C._–_current_squad" class="fn org" style="font-size:114%;margin:0 4em"><a href="/wiki/Manchester_United_F.C." title="Manchester United F.C."><span style="color:#FFF;">Manchester United F.C.</span></a> <span style="color:#FFF;"> &#8211; current squad</span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div>
+<ul><li><span class="agent vcard">1&#160;<span class="fn"><a href="/wiki/David_de_Gea" title="David de Gea">De&#160;Gea</a></span></span></li>
+<li><span class="agent vcard">2&#160;<span class="fn"><a href="/wiki/Victor_Lindel%C3%B6f" title="Victor Lindelöf">Lindelöf</a></span></span></li>
+<li><span class="agent vcard">3&#160;<span class="fn"><a href="/wiki/Eric_Bailly" title="Eric Bailly">Bailly</a></span></span></li>
+<li><span class="agent vcard">4&#160;<span class="fn"><a href="/wiki/Phil_Jones_(footballer,_born_1992)" title="Phil Jones (footballer, born 1992)">Jones</a></span></span></li>
+<li><span class="agent vcard">5&#160;<span class="fn"><a href="/wiki/Harry_Maguire" title="Harry Maguire">Maguire</a></span></span></li>
+<li><span class="agent vcard">6&#160;<span class="fn"><a href="/wiki/Paul_Pogba" title="Paul Pogba">Pogba</a></span></span></li>
+<li><span class="agent vcard">7&#160;<span class="fn"><a href="/wiki/Edinson_Cavani" title="Edinson Cavani">Cavani</a></span></span></li>
+<li><span class="agent vcard">8&#160;<span class="fn"><a href="/wiki/Juan_Mata" title="Juan Mata">Mata</a></span></span></li>
+<li><span class="agent vcard">9&#160;<span class="fn"><a href="/wiki/Anthony_Martial" title="Anthony Martial">Martial</a></span></span></li>
+<li><span class="agent vcard">10&#160;<span class="fn"><a href="/wiki/Marcus_Rashford" title="Marcus Rashford">Rashford</a></span></span></li>
+<li><span class="agent vcard">11&#160;<span class="fn"><a href="/wiki/Mason_Greenwood" title="Mason Greenwood">Greenwood</a></span></span></li>
+<li><span class="agent vcard">13&#160;<span class="fn"><a href="/wiki/Lee_Grant_(footballer,_born_1983)" title="Lee Grant (footballer, born 1983)">Grant</a></span></span></li>
+<li><span class="agent vcard">17&#160;<span class="fn"><a href="/wiki/Fred_(footballer,_born_1993)" title="Fred (footballer, born 1993)">Fred</a></span></span></li>
+<li><span class="agent vcard">18&#160;<span class="fn"><a href="/wiki/Bruno_Fernandes" title="Bruno Fernandes">Fernandes</a></span></span></li>
+<li><span class="agent vcard">19&#160;<span class="fn"><a href="/wiki/Amad_Diallo" title="Amad Diallo">Diallo</a></span></span></li>
+<li><span class="agent vcard">21&#160;<span class="fn"><a href="/wiki/Daniel_James_(footballer)" title="Daniel James (footballer)">James</a></span></span></li>
+<li><span class="agent vcard">22&#160;<span class="fn"><a href="/wiki/Sergio_Romero" title="Sergio Romero">Romero</a></span></span></li>
+<li><span class="agent vcard">23&#160;<span class="fn"><a href="/wiki/Luke_Shaw" title="Luke Shaw">Shaw</a></span></span></li>
+<li><span class="agent vcard">26&#160;<span class="fn"><a href="/wiki/Dean_Henderson" title="Dean Henderson">Henderson</a></span></span></li>
+<li><span class="agent vcard">27&#160;<span class="fn"><a class="mw-selflink selflink">Telles</a></span></span></li>
+<li><span class="agent vcard">29&#160;<span class="fn"><a href="/wiki/Aaron_Wan-Bissaka" title="Aaron Wan-Bissaka">Wan-Bissaka</a></span></span></li>
+<li><span class="agent vcard">30&#160;<span class="fn"><a href="/wiki/Nathan_Bishop" title="Nathan Bishop">Bishop</a></span></span></li>
+<li><span class="agent vcard">31&#160;<span class="fn"><a href="/wiki/Nemanja_Mati%C4%87" title="Nemanja Mati">Mati</a></span></span></li>
+<li><span class="agent vcard">32&#160;<span class="fn">Woolston</span></span></li>
+<li><span class="agent vcard">33&#160;<span class="fn"><a href="/wiki/Brandon_Williams_(footballer)" title="Brandon Williams (footballer)">Williams</a></span></span></li>
+<li><span class="agent vcard">34&#160;<span class="fn"><a href="/wiki/Donny_van_de_Beek" title="Donny van de Beek">Van de Beek</a></span></span></li>
+<li><span class="agent vcard">38&#160;<span class="fn"><a href="/wiki/Axel_Tuanzebe" title="Axel Tuanzebe">Tuanzebe</a></span></span></li>
+<li><span class="agent vcard">39&#160;<span class="fn"><a href="/wiki/Scott_McTominay" title="Scott McTominay">McTominay</a></span></span></li>
+<li><span class="agent vcard">46&#160;<span class="fn"><a href="/wiki/Hannibal_Mejbri" title="Hannibal Mejbri">Mejbri</a></span></span></li>
+<li><span class="agent vcard">47&#160;<span class="fn">Puigmal</span></span></li>
+<li><span class="agent vcard">48&#160;<span class="fn">Fish</span></span></li>
+<li><span class="agent vcard">49&#160;<span class="fn"><a href="/wiki/D%27Mani_Mellor" title="D&#39;Mani Mellor">Mellor</a></span></span></li>
+<li><span class="agent vcard">52&#160;<span class="fn">Taylor</span></span></li>
+<li><span class="agent vcard">54&#160;<span class="fn"><a href="/wiki/Ethan_Galbraith" title="Ethan Galbraith">Galbraith</a></span></span></li>
+<li><span class="agent vcard">55&#160;<span class="fn">Devine</span></span></li>
+<li><span class="agent vcard">56&#160;<span class="fn">Elanga</span></span></li>
+<li><span class="agent vcard">59&#160;<span class="fn">Wellens</span></span></li>
+<li><span class="agent vcard">60&#160;<span class="fn">Mastný</span></span></li>
+<li><span class="agent vcard">61&#160;<span class="fn">McCann</span></span></li>
+<li><span class="agent vcard">62&#160;<span class="fn">Stanley</span></span></li>
+<li><span class="agent vcard">64&#160;<span class="fn">Hardley</span></span></li>
+<li><span class="agent vcard">68&#160;<span class="fn">Neville</span></span></li>
+<li><span class="agent vcard">70&#160;<span class="fn">Emeran</span></span></li>
+<li><span class="agent vcard">72&#160;<span class="fn">Helm</span></span></li>
+<li><span class="agent vcard">73&#160;<span class="fn">Haygarth</span></span></li>
+<li><span class="agent vcard">74&#160;<span class="fn"><a href="/wiki/Shola_Shoretire" title="Shola Shoretire">Shoretire</a></span></span></li>
+<li><span class="agent vcard">75&#160;<span class="fn">Svidersky</span></span></li>
+<li><span class="agent vcard">78&#160;<span class="fn">Pye</span></span></li>
+<li><span class="agent vcard">79&#160;<span class="fn">Hansen-Aarøen</span></span></li>
+<li><span class="agent vcard">89&#160;<span class="fn">Hugill</span></span></li>
+<li><span class="agent vcard">90&#160;<span class="fn">Fernández</span></span></li>
+<li><span class="nowrap">Manager: <a href="/wiki/Ole_Gunnar_Solskj%C3%A6r" title="Ole Gunnar Solskjær">Solskjær</a></span></li></ul>
+</div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Awards" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:gold;color:navy;"><div id="Awards" style="font-size:114%;margin:0 4em">Awards</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%"><div style="padding:0px">
+<div role="navigation" class="navbox" aria-labelledby="2013_Campeonato_Brasileiro_Série_A_Team_of_the_Year" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: gold;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2013_Campeonato_Brasileiro_S%C3%A9rie_A_Team_of_the_Year" title="Template:2013 Campeonato Brasileiro Série A Team of the Year"><abbr title="View this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2013_Campeonato_Brasileiro_S%C3%A9rie_A_Team_of_the_Year" title="Template talk:2013 Campeonato Brasileiro Série A Team of the Year"><abbr title="Discuss this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2013_Campeonato_Brasileiro_S%C3%A9rie_A_Team_of_the_Year&amp;action=edit"><abbr title="Edit this template" style=";background: gold;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="2013_Campeonato_Brasileiro_Série_A_Team_of_the_Year" style="font-size:114%;margin:0 4em"><a href="/wiki/Pr%C3%AAmio_Craque_do_Brasileir%C3%A3o#2013" title="Prêmio Craque do Brasileirão">2013 Campeonato Brasileiro Série A Team of the Year</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>GK: <a href="/wiki/F%C3%A1bio_(footballer,_born_1980)" title="Fábio (footballer, born 1980)">Fábio</a></li>
+<li>DF: <a href="/wiki/Marcos_Rocha" title="Marcos Rocha">Marcos Rocha</a></li>
+<li>DF: <a href="/wiki/Ded%C3%A9_(footballer,_born_1988)" title="Dedé (footballer, born 1988)">Dedé</a></li>
+<li>DF: <a href="/wiki/Manoel_Messias_Silva_Carvalho" title="Manoel Messias Silva Carvalho">Manoel</a></li>
+<li>DF: <a class="mw-selflink selflink">Alex Telles</a></li>
+<li>MF: <a href="/wiki/N%C3%ADlton_Ferreira_Junior" title="Nílton Ferreira Junior">Nílton</a></li>
+<li>MF: <a href="/wiki/Elias_Mendes_Trindade" class="mw-redirect" title="Elias Mendes Trindade">Elias</a></li>
+<li>MF: <a href="/wiki/%C3%89verton_Ribeiro" title="Éverton Ribeiro">Éverton Ribeiro</a></li>
+<li>MF: <a href="/wiki/Paulo_Baier" title="Paulo Baier">Paulo Baier</a></li>
+<li>FW: <a href="/wiki/Walter_Henrique_da_Silva" class="mw-redirect" title="Walter Henrique da Silva">Walter</a></li>
+<li>FW: <a href="/wiki/%C3%89derson_(footballer,_born_1989)" title="Éderson (footballer, born 1989)">Éderson</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="2013_Bola_de_Prata" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: silver;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:2013_Bola_de_Prata" title="Template:2013 Bola de Prata"><abbr title="View this template" style=";background: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:2013_Bola_de_Prata" title="Template talk:2013 Bola de Prata"><abbr title="Discuss this template" style=";background: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2013_Bola_de_Prata&amp;action=edit"><abbr title="Edit this template" style=";background: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="2013_Bola_de_Prata" style="font-size:114%;margin:0 4em"><a href="/wiki/Bola_de_Ouro#2013" title="Bola de Ouro">2013 Bola de Prata</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>GK: <a href="/wiki/F%C3%A1bio_(footballer,_born_1980)" title="Fábio (footballer, born 1980)">Fábio</a></li>
+<li>DF: <a href="/wiki/Mayke" title="Mayke">Mayke</a></li>
+<li>DF: <a href="/wiki/Ded%C3%A9_(footballer,_born_1988)" title="Dedé (footballer, born 1988)">Dedé</a></li>
+<li>DF: <a href="/wiki/Rodrigo_Baldasso_da_Costa" title="Rodrigo Baldasso da Costa">Rodrigo</a></li>
+<li>DF: <a class="mw-selflink selflink">Alex Telles</a></li>
+<li>MF: <a href="/wiki/N%C3%ADlton_Ferreira_Junior" title="Nílton Ferreira Junior">Nílton</a></li>
+<li>MF: <a href="/wiki/Elias_Mendes_Trindade" class="mw-redirect" title="Elias Mendes Trindade">Elias</a></li>
+<li>MF: <a href="/wiki/%C3%89verton_Ribeiro" title="Éverton Ribeiro">Éverton Ribeiro</a></li>
+<li>MF: <a href="/wiki/Clarence_Seedorf" title="Clarence Seedorf">Seedorf</a></li>
+<li>FW: <a href="/wiki/Diego_Tardelli" title="Diego Tardelli">Diego Tardelli</a></li>
+<li>FW: <a href="/wiki/Walter_Henrique_da_Silva" class="mw-redirect" title="Walter Henrique da Silva">Walter</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="FC_Porto_Player_of_the_Year_(Dragão_de_Ouro_Award)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: blue ;color: white; border: silver;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:FC_Porto_Player_of_the_Year" title="Template:FC Porto Player of the Year"><abbr title="View this template" style=";background: blue ;color: white; border: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:FC_Porto_Player_of_the_Year" title="Template talk:FC Porto Player of the Year"><abbr title="Discuss this template" style=";background: blue ;color: white; border: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:FC_Porto_Player_of_the_Year&amp;action=edit"><abbr title="Edit this template" style=";background: blue ;color: white; border: silver;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="FC_Porto_Player_of_the_Year_(Dragão_de_Ouro_Award)" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_FC_Porto_records_and_statistics#Player_of_the_Year" title="List of FC Porto records and statistics"><span style="color: white">FC Porto Player of the Year</span></a> (Dragão de Ouro Award)</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap">2003: <a href="/wiki/Ricardo_Carvalho" title="Ricardo Carvalho">Carvalho</a></span></li>
+<li><span class="nowrap">2004: <a href="/wiki/Maniche" title="Maniche">Maniche</a></span></li>
+<li><span class="nowrap">2005: <a href="/wiki/Ricardo_Quaresma" title="Ricardo Quaresma">Quaresma</a></span></li>
+<li><span class="nowrap">2006: <a href="/wiki/Lucho_Gonz%C3%A1lez" title="Lucho González">Lucho</a></span></li>
+<li><span class="nowrap">2007: <a href="/wiki/Jos%C3%A9_Bosingwa" title="José Bosingwa">Bosingwa</a></span></li>
+<li><span class="nowrap">2008: <a href="/wiki/Jorge_Fucile" title="Jorge Fucile">Fucile</a></span></li>
+<li><span class="nowrap">2009: <a href="/wiki/Raul_Meireles" title="Raul Meireles">Meireles</a></span></li>
+<li><span class="nowrap">2010: <a href="/wiki/Hulk_(footballer)" title="Hulk (footballer)">Hulk</a></span></li>
+<li><span class="nowrap">2011: <a href="/wiki/Hulk_(footballer)" title="Hulk (footballer)">Hulk</a></span></li>
+<li><span class="nowrap">2012: <a href="/wiki/Maicon_Pereira_Roque" title="Maicon Pereira Roque">Maicon</a></span></li>
+<li><span class="nowrap">2013: <a href="/wiki/Jo%C3%A3o_Moutinho" title="João Moutinho">Moutinho</a></span></li>
+<li><span class="nowrap">2014: <a href="/wiki/Danilo_(footballer,_born_July_1991)" title="Danilo (footballer, born July 1991)">Danilo</a></span></li>
+<li><span class="nowrap">2015: <a href="/wiki/H%C3%A9ctor_Herrera" title="Héctor Herrera">Herrera</a></span></li>
+<li><span class="nowrap">2016: <a href="/wiki/Danilo_Pereira_(footballer)" title="Danilo Pereira (footballer)">Pereira</a></span></li>
+<li><span class="nowrap">2017: <a href="/wiki/Yacine_Brahimi" title="Yacine Brahimi">Brahimi</a></span></li>
+<li><span class="nowrap">2018: <a class="mw-selflink selflink">Telles</a></span></li>
+<li><span class="nowrap">2019: <a href="/wiki/Moussa_Marega" title="Moussa Marega">Marega</a></span></li>
+<li><span class="nowrap">2020: <a href="/wiki/Jes%C3%BAs_Manuel_Corona" title="Jesús Manuel Corona">Corona</a></span></li></ul>
+</div></td></tr></tbody></table></div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1366
+Cached time: 20210314044504
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [varyrevisionsha1]
+CPU time usage: 1.391 seconds
+Real time usage: 1.892 seconds
+Preprocessor visited node count: 7205/1000000
+Postexpand include size: 177555/2097152 bytes
+Template argument size: 25214/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip postexpand size: 159313/5000000 bytes
+Lua time usage: 0.748/10.000 seconds
+Lua memory usage: 36793010/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1728.954      1 -total
+ 39.11%  676.132      2 Template:Reflist
+ 19.48%  336.724      1 Template:Infobox_football_biography
+ 16.82%  290.756      1 Template:Infobox3cols
+ 14.84%  256.621     36 Template:Cite_web
+ 11.48%  198.422      7 Template:In_lang
+  7.80%  134.774      1 Template:Short_description
+  6.27%  108.341      1 Template:Commons_category
+  6.01%  103.885      1 Template:Sister_project
+  5.54%   95.702      1 Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40730447-0!canonical and timestamp 20210314044502 and revision id 1011604720. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alex_Telles&amp;oldid=1011604720">https://en.wikipedia.org/w/index.php?title=Alex_Telles&amp;oldid=1011604720</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1992_births" title="Category:1992 births">1992 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Brazilian_people_of_Italian_descent" title="Category:Brazilian people of Italian descent">Brazilian people of Italian descent</a></li><li><a href="/wiki/Category:People_from_Caxias_do_Sul" title="Category:People from Caxias do Sul">People from Caxias do Sul</a></li><li><a href="/wiki/Category:Brazilian_footballers" title="Category:Brazilian footballers">Brazilian footballers</a></li><li><a href="/wiki/Category:Association_football_defenders" title="Category:Association football defenders">Association football defenders</a></li><li><a href="/wiki/Category:Esporte_Clube_Juventude_players" title="Category:Esporte Clube Juventude players">Esporte Clube Juventude players</a></li><li><a href="/wiki/Category:Gr%C3%AAmio_Foot-Ball_Porto_Alegrense_players" title="Category:Grêmio Foot-Ball Porto Alegrense players">Grêmio Foot-Ball Porto Alegrense players</a></li><li><a href="/wiki/Category:Galatasaray_S.K._footballers" title="Category:Galatasaray S.K. footballers">Galatasaray S.K. footballers</a></li><li><a href="/wiki/Category:Inter_Milan_players" title="Category:Inter Milan players">Inter Milan players</a></li><li><a href="/wiki/Category:FC_Porto_players" title="Category:FC Porto players">FC Porto players</a></li><li><a href="/wiki/Category:Manchester_United_F.C._players" title="Category:Manchester United F.C. players">Manchester United F.C. players</a></li><li><a href="/wiki/Category:Campeonato_Brasileiro_S%C3%A9rie_A_players" title="Category:Campeonato Brasileiro Série A players">Campeonato Brasileiro Série A players</a></li><li><a href="/wiki/Category:Campeonato_Brasileiro_S%C3%A9rie_D_players" title="Category:Campeonato Brasileiro Série D players">Campeonato Brasileiro Série D players</a></li><li><a href="/wiki/Category:S%C3%BCper_Lig_players" title="Category:Süper Lig players">Süper Lig players</a></li><li><a href="/wiki/Category:Serie_A_players" title="Category:Serie A players">Serie A players</a></li><li><a href="/wiki/Category:Primeira_Liga_players" title="Category:Primeira Liga players">Primeira Liga players</a></li><li><a href="/wiki/Category:Premier_League_players" title="Category:Premier League players">Premier League players</a></li><li><a href="/wiki/Category:Brazil_international_footballers" title="Category:Brazil international footballers">Brazil international footballers</a></li><li><a href="/wiki/Category:Brazilian_expatriate_footballers" title="Category:Brazilian expatriate footballers">Brazilian expatriate footballers</a></li><li><a href="/wiki/Category:Brazilian_expatriate_sportspeople_in_Turkey" title="Category:Brazilian expatriate sportspeople in Turkey">Brazilian expatriate sportspeople in Turkey</a></li><li><a href="/wiki/Category:Brazilian_expatriate_sportspeople_in_Italy" title="Category:Brazilian expatriate sportspeople in Italy">Brazilian expatriate sportspeople in Italy</a></li><li><a href="/wiki/Category:Brazilian_expatriate_sportspeople_in_Portugal" title="Category:Brazilian expatriate sportspeople in Portugal">Brazilian expatriate sportspeople in Portugal</a></li><li><a href="/wiki/Category:Brazilian_expatriate_sportspeople_in_England" title="Category:Brazilian expatriate sportspeople in England">Brazilian expatriate sportspeople in England</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_Turkey" title="Category:Expatriate footballers in Turkey">Expatriate footballers in Turkey</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_Italy" title="Category:Expatriate footballers in Italy">Expatriate footballers in Italy</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_Portugal" title="Category:Expatriate footballers in Portugal">Expatriate footballers in Portugal</a></li><li><a href="/wiki/Category:Expatriate_footballers_in_England" title="Category:Expatriate footballers in England">Expatriate footballers in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li><li><a href="/wiki/Category:Articles_with_Portuguese-language_sources_(pt)" title="Category:Articles with Portuguese-language sources (pt)">Articles with Portuguese-language sources (pt)</a></li><li><a href="/wiki/Category:Articles_with_Turkish-language_sources_(tr)" title="Category:Articles with Turkish-language sources (tr)">Articles with Turkish-language sources (tr)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_Turkish-language_sources_(tr)" title="Category:CS1 Turkish-language sources (tr)">CS1 Turkish-language sources (tr)</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2019" title="Category:Use dmy dates from March 2019">Use dmy dates from March 2019</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_September_2015" title="Category:Vague or ambiguous geographic scope from September 2015">Vague or ambiguous geographic scope from September 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2015" title="Category:Articles with unsourced statements from September 2015">Articles with unsourced statements from September 2015</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alex+Telles" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alex+Telles" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Alex_Telles" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Alex_Telles" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Alex_Telles">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Alex_Telles&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Alex_Telles&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alex_Telles" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alex_Telles" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alex_Telles&amp;oldid=1011604720" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alex_Telles&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alex_Telles&amp;id=1011604720&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15214940" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Alex_Telles&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alex_Telles&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Alex_Telles" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%8A%D9%83%D8%B3_%D8%AA%D9%8A%D9%84%D9%8A%D8%B3" title="  – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D0%B5%D0%BB%D0%B5%D1%81" title="  – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3_%D8%AA%D9%84%DB%8C%D8%B3" title="  – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%89%EC%8A%A4_%ED%85%94%EB%A0%88%EC%8A%A4" title="  – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A5%D6%84%D5%BD_%D5%8F%D5%A5%D5%AC%D5%AC%D5%A5%D5%BD" title="  – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%9B%D7%A1_%D7%98%D7%9C%D7%A1" title="  – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%83%D8%B3_%D8%AA%D9%8A%D9%84%D9%8A%D8%B3" title="  – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%AA%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B9" title=" – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Român</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%BB%D0%B5%D1%81,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81" title=",  – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%95%E0%B8%A5%E0%B8%B4%E0%B8%AA" title="  – Thai" lang="th" hreflang="th" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D0%B5%D0%BB%D0%BB%D0%B5%D1%81" title="  – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81_%D0%A2%D0%B5%D0%BB%D0%BB%D0%B5%D1%81" title="  – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"></a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Alex_Telles" title="Alex Telles – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Ting Vit</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AD%B7%E6%96%AF%C2%B7%E6%B3%B0%E5%88%A9%E6%96%AF" title="· – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15214940#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 11 March 2021, at 20:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alex_Telles&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.391","walltime":"1.892","ppvisitednodes":{"value":7205,"limit":1000000},"postexpandincludesize":{"value":177555,"limit":2097152},"templateargumentsize":{"value":25214,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":159313,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1728.954      1 -total"," 39.11%  676.132      2 Template:Reflist"," 19.48%  336.724      1 Template:Infobox_football_biography"," 16.82%  290.756      1 Template:Infobox3cols"," 14.84%  256.621     36 Template:Cite_web"," 11.48%  198.422      7 Template:In_lang","  7.80%  134.774      1 Template:Short_description","  6.27%  108.341      1 Template:Commons_category","  6.01%  103.885      1 Template:Sister_project","  5.54%   95.702      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.748","limit":"10.000"},"limitreport-memusage":{"value":36793010,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20210314044504","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alex Telles","url":"https:\/\/en.wikipedia.org\/wiki\/Alex_Telles","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15214940","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15214940","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-10-07T15:20:04Z","dateModified":"2021-03-11T20:29:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/28\/Alex_Telles_2018.jpg","headline":"Brazilian association football player"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1389"});});</script>
+</body></html>
