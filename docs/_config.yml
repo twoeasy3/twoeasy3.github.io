@@ -29,7 +29,6 @@ url: "pingma.co" # the base hostname & protocol for your site, e.g. http://examp
 github_username:  twoeasy3
 header_pages:
     - About.md
-    - yuxiang.md
 
 # Build settings
 markdown: kramdown
